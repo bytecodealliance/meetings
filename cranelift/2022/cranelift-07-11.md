@@ -57,18 +57,18 @@
 
 * nick: can we use the trap table for a function to avoid walking the whole
   function?
-* afonzo: can we keep some metadata while we're generating the function that we
+* anton: can we keep some metadata while we're generating the function that we
   set when generating instructions that can trap?
 * nick: this semes far away from where the information would be used; what if
   the code that could trap becomes dead after optimization passes?
-* afonzo: can we introduce traps through optimizations?
+* anton: can we introduce traps through optimizations?
   * nick: yes, through legalization
 * nick: i'll investigate the trap table approach, and fall back on modifying the
   instruction builder to record trap metadata if that doesn't work
 
 #### Performance impact of preserving frame pointers
 
-* afonzo: leaf functions that trap will save the frame pointer?
+* anton: leaf functions that trap will save the frame pointer?
   * nick: yes exactly
 * jamey: is there a flag for enabling debugging symbols that we could turn off
   for optimized builds?
@@ -78,10 +78,10 @@
 #### How would fp preservation interact with authenticated pointers?
 
 * nick: it shouldn't affect authenticated pointers
-* afonzo: the upper 16 bits would be used for the signature
+* anton: the upper ~16 bits (configurable) would be used for the signature
 * nick: there shouldn't be any interaction, but we might need to mask those
   bits; we're not doing any unwinding right now, we're just preserving the fp
-* afonzo: the exact number of bits for the signature is configurable and depends
+* anton: the exact number of bits for the signature is configurable and depends
   on page sizes, there are dedicated instructions for stripping the signature
 * [ ] nick: i will cc you (afonzo) on the draft pr
 * [ ] also cc uweigand
