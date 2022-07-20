@@ -11,7 +11,8 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. Usage of `cargo vet` in CI for Wasmtime.
+    1. [Usage of `cargo vet` in CI for Wasmtime.](https://github.com/bytecodealliance/wasmtime/pull/4444)
+    1. [Definitions of support tiers](https://github.com/bytecodealliance/wasmtime/pull/4479)
     1. _Submit a PR to add your item here_
 
 ## Notes

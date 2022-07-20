@@ -12,7 +12,8 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. [E-graph-based mid-end optimization](https://github.com/bytecodealliance/rfcs/pull/27)
-    1. Usage of `cargo vet` in CI for dependencies.
+    1. [Usage of `cargo vet` in CI for dependencies.](https://github.com/bytecodealliance/wasmtime/pull/4444)
+    1. [Definitions of tiers of support](https://github.com/bytecodealliance/wasmtime/pull/4479)
     1. _Submit a PR to add your item here_
 
 ## Notes
