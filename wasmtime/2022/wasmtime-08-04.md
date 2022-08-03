@@ -12,6 +12,8 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. Proposal for a 1.0 release schedule. (Alex)
+    1. [Baseline Compilation](https://github.com/bytecodealliance/rfcs/pull/28)
+    1. Ruby bindings for Wasmtime (wasmtime-rb)
     1. _Submit a PR to add your item here_
 
 ## Notes
