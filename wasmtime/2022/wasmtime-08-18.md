@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. Follow-up on discussion about publishing `wasm-spec-interpreter` (see [this conversation](https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/interpreters.20which.20mirror.20structure.20of.20spec))
     1. _Submit a PR to add your item here_
 
 ## Notes
