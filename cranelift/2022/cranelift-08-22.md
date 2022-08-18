@@ -11,7 +11,8 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. Top-down ordering for ISLE rule matching
+    1. Top-down ordering for ISLE rule matching (wasmtime#4717)
+    1. mid-end optimizer (rfcs#27)
 
 ## Notes
 
