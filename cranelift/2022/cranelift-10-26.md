@@ -1,4 +1,4 @@
-# October 31 project call
+# October 26 project call
 
 **See the [instructions](../README.md) for details on how to attend**
 
