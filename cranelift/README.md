@@ -4,7 +4,7 @@ The Cranelift project holds bi-weekly meetings, and we welcome all interested pa
 
 ## Time and location
 
-**When**: every second Monday at 3:30pm UTC during US DST / 4:30pm UTC otherwise
+**When**: every Wednesday at 15:30 UTC during US DST / 16:30 UTC otherwise
 **Where**: Zoom (link in calendar invite)
 
 
