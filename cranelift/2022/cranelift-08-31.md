@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. ["Winch" baseline compiler](https://github.com/bytecodealliance/rfcs/pull/28): factoring/sharing of Cranelift's machine-code layer
     1. _Submit a PR to add your item here_
 
 ## Notes
