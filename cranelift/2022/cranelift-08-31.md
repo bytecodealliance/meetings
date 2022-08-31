@@ -28,6 +28,7 @@
 * abrown
 * jsharp
 * saulecabrerra
+* afonso360
 
 ### Notes
 
