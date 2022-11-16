@@ -25,6 +25,28 @@
 * @fitzgen
 * @jameysharp
 
+### Status
+
+* jameysharp
+  * working on ISLE
+  * reworked the overlap checker to use the new ISLE ir
+  * investigating codegen from the new ISLE ir
+  * will put down the codegen work to focus on pushing e-graphs into cranelift's
+    dfg with cfallin
+* cfallin
+  * mostly working on another project, but still reviewing patches
+  * switching back to help land e-graphs (there was a compilation time
+    regression of 2%-5% that would be great to resolve)
+* elliottt
+  * continuing to work on getting cranelift to produce SSA output
+  * continuing to look at instructions that we can remove
+  * reworking branch instructions to always fully terminate a basic-block
+* fitzgen
+  * improving the performance for heap access bounds checks
+  * implementing `iadd_cout` on backends to support a new lowering strategy
+  * reworking the semantics of `heap_addr` to always return an address that
+    would trap, instead of also trapping in some situations
+
 ### Pinned Registers
 
 * elliottt: can we remove get_pinned_reg/set_pinned_reg?
