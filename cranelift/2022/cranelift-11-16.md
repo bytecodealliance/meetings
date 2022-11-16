@@ -57,7 +57,7 @@
   * cfallin: we could look at supporting something similar in the future by
     improving the register allocater's handling of long-lived values
 
-# `heap_addr` discussion
+### `heap_addr` discussion
 
 * cfallin: we can gvn but not licm `heap_addr` instructions
 * fitzgen: `heap_addr` is a bit of a pain, why don't we get rid of it and lower
@@ -78,7 +78,7 @@
 * fitzgen: I'll prototype multiple outputs in ISLE, and add an issue for
   removing heaps from cranelift
 
-# `iadd_cout` discussion
+### `iadd_cout` discussion
 
 * elliottt: should we explicitly not handle all types for `iadd_cout`?
 * bjorn3: handling i128 would help with detecting overflow for additions with
