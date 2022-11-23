@@ -17,4 +17,10 @@
 
 ### Attendees
 
+- @jameysharp
+- @afonso360
+- @bjorn3
+
 ### Notes
+
+We didn't discuss much or take notes.
