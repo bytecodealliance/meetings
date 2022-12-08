@@ -10,7 +10,7 @@ The Wasmtime project holds bi-weekly meetings, and we welcome all interested par
 
 ## Attending
 
-To attend, please email <till@bytecodealliance.org>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime).
+To attend, please email <fitzgen@gmail.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime).
 
 ## Agendas and notes
 
