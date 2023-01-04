@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+
+import argparse
+from datetime import date, datetime, timedelta
+
+def next_wednesday(start: str):
+    start = datetime.strptime(start, '%Y-%m-%d').date()
+
+    day = start.weekday()
+    if day == 2:
+        return start
+
+    if day < 2:
+        return start + timedelta(days=2-day)
+
+    diff = 6 - day + 3
+    return start + timedelta(days = diff)
+
+def main():
+    parser = argparse.ArgumentParser(
+            prog = 'gen-agendas',
+            description = 'Generate meeting templates')
+
+    parser.add_argument(
+            '--start',
+            required=False,
+            default=date.today().isoformat(),
+            help='The start of the date range')
+
+    parser.add_argument(
+            '--num',
+            required=False,
+            default=5,
+            help='The number of meetings to generate')
+
+    parser.add_argument(
+            '--template',
+            required=False,
+            default='TEMPLATE.md',
+            help='The template to use')
+
+    args = parser.parse_args()
+
+    start = next_wednesday(args.start)
+
+    with open(args.template, 'r') as f:
+        template = f.read()
+
+    for i in range(0, int(args.num)):
+        d = start + timedelta(days=i*7)
+        with open(d.strftime('%Y/cranelift-%m-%d.md'), 'w') as f:
+            agenda = template.format(month=d.strftime('%B'), day=d.strftime('%d'))
+            f.write(agenda)
+
+if __name__ == '__main__':
+    main()

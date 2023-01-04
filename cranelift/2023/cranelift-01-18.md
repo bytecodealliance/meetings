@@ -1,4 +1,4 @@
-# {month} {day} project call
+# January 18 project call
 
 **See the [instructions](../README.md) for details on how to attend**
 
