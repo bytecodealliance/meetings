@@ -60,7 +60,7 @@
   - merged BlockCall PR, rebased `brif` PR; some refactors
 
 - fitzgen
-  - RFC for tail calls in Wasmtime (including  support in Cranelift)
+  - RFC for tail calls in Wasmtime (including support in Cranelift)
     - most work so far in thinking about Wasmtime's trampolines
     - thinking about new calling convention
 
