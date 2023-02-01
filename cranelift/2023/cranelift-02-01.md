@@ -17,5 +17,35 @@
 
 ### Attendees
 
+- fitzgen
+- cfallin
+- uweigand
+- abrown
+- avanatt
+- elliottt
+- jameysharp
+
 ### Notes
 
+- mid-end optimization rule caused regression (5682)
+
+- status
+  - cfallin
+    - RFC for 2023 roadmap:
+      https://github.com/bytecodealliance/rfcs/pull/30
+  - abrown - nothing
+  - uweigand
+    - read over tail-call RFC
+      - will comment from an s390x perspective
+  - jameysharp
+    - helping on tail-calls, egraphs, etc
+    - on 5682 regression: not masking upper bits?
+  - avanhatt
+    - verifier: switched to `easy-smt`
+    - bitwidth-independent shifts, etc; ongoing work
+  - elliottt
+    - removed brz, brnz; just brif now (!!)
+    - working on `br_table` to use `BlockCall` (with args in target) as well
+  - fitzgen
+    - working on using Souper to generate mid-end optimization rules
+    - working on tail-calls implementation
