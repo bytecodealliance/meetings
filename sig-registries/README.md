@@ -11,7 +11,7 @@ interested in this is welcome to join.
 
 ## Attending
 
-To attend, please email <bailey@cosmonic.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime).
+To attend, please email <bailey@cosmonic.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/352111-warg).
 
 ## Agendas and notes
 
