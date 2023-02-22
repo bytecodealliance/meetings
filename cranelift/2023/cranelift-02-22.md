@@ -27,7 +27,7 @@
 ### Notes
 
 No agenda, status updates:
-- Alfonso: working on the interpreter, codegen for RISCV, fuzzbugs from RISCV hardware
+- Afonso: working on the interpreter, codegen for RISCV, fuzzbugs from RISCV hardware
 - Alexa: verification engine uses solver for widths now, can pretty-print found counterexamples back to an ISLE-like syntax, 
 - Chris, Ulrich, Trevor: nothing Cranelift-specific
 - Jamey: looking at changes in block lowering using the reverse dom tree. Opened PR for changes to br_table on x64, curious to do performance testing. This might let us do midend optimizations on bounds checks.
@@ -35,7 +35,7 @@ No agenda, status updates:
     - Other Jamey thought: could pad out jump tables to e.g. 256 instead of doing bounds checks.
     - Other Chris thought: could put minsize on jump table in the instruction (e.g. 256), the backends could be responsible for filling in padded cases with default case. 
 
-Topic from Tulip: branch optimizations. 
+Topic from Zulip: branch optimizations. 
 
 - Jamey: would like to be able to write branch optimizations in ISLE, but figuring out how to express this is nontrivial. Can’t do in aegraph formulation because branches don’t have values. 
     - Clarification: would this be a new ISLE prelude etc just for branches? Answer: no. Rewrites may want to introduce new nodes that *would* be part of the aegraph. Natural division: do instructions have results or not? Idea: use prelude_opt for instructions with exactly one result, something more like prelude_lower for instructions with no results. Same context, two entry points: simplify, simplify_branch. 
