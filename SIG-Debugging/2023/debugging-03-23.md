@@ -8,6 +8,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. (fitzgen) brief presentation on the debug adapter protocol
     1. _Submit a PR to add your item here_
 
 ## Attendees
