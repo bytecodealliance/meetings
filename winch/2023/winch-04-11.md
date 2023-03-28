@@ -1,4 +1,4 @@
-# March 28 project call
+# April 11 project call
 
 **See the [instructions](../README.md) for details on how to attend**
 
@@ -7,6 +7,5 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. Go over https://github.com/bytecodealliance/wasmtime/pull/6067
-	1. Fuzzing
+    1. _Submit a PR to add your item here_
 ## Notes
