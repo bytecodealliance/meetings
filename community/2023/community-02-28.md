@@ -6,9 +6,9 @@
 
 - Bytecode Alliance Governance
 - Project Updates from:
-  - cranelift
-  - wasmtime
-  - wamr
+  - Wasm-micro-runtime
+  - JavaScript Component tooling
+- WASI
 - Special Interest Group (SIG)
   - registry (warg)
 
