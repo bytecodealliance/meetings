@@ -8,6 +8,7 @@
 
 - Project Updates from:
   - wamr
+  - winch (in wasmtime)
   - component model work
 - Special Interest Group (SIG)
   - Announcing new SIGs that are forming
