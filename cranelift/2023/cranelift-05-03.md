@@ -19,5 +19,40 @@
 
 ### Attendees
 
+- elliottt
+- cfallin
+- afonso360
+- jameysharp
+- alexcrichton
+- fitzgen
+- jlbirch
+- avanhatt
+
 ### Notes
 
+- cfallin: cranelift.dev draft
+  - no objections; ship it!
+
+- Status
+  - cfallin: lots of code review
+  - elliottt: RA2 changes. Currently 12% faster compilation on bz2
+  - jameysharp: no CL stuff
+  - afonso360:
+    - PR for vconst on riscv64
+    - calling convention for vectors is suboptimal -- everything on stack.
+      Custom convention with args/rets in registers?
+      - alexcrichton: probably doesn't matter too much for perf, SIMD is all
+        about tight  loops without calls
+  - alexcrichton
+    - SSE2 stuff
+    - tackling miri issues in Wasmtime
+  - jlbirch: no CL stuff
+  - avanhatt
+    - future planning for verification
+  - fitzgen
+    - tail calls
+
+- elliottt: roundtripping `table_addr` printing properly (PR); separately, are
+  we going to remove it?
+  - no one aware of recent progress on this but we likely will want to
+    eventually
