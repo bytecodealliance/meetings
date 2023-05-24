@@ -8,4 +8,16 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. General discussion about unwind information / instructions
+
+## Attendees
+
+* Chris Fallin
+* Jimmy Miller
+* Saúl Cabrera
+
 ## Notes
+
+* The discussion was mostly around the mechanics of unwind information and how
+  the current instructions are used in Cranelift. 
+  We agreed that we should adopt a similar model in Winch.
+
