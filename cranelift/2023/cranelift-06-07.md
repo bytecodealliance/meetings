@@ -17,5 +17,29 @@
 
 ### Attendees
 
+- afonso360
+- abrown
+- cfallin
+- uweigand
+- jlbirch
+
 ### Notes
 
+- afonso360: RISC-V SIMD; about 50% done (!).
+
+- abrown:
+  - SSE2 PRs from Alex, looking into best instructions to use. mem->XMM,
+    movddup; XMM->XMM, pshufd
+
+- uweigand:
+  - rustc 1.70 -- could not reproduce CI crashes locally; double-check they're
+    still an issue?
+
+- jlbirch:
+  - no updates
+
+- cfallin:
+  - discussions with fitzgen and jameysharp on their tail-call implementation
+    work. s390x: any reason we can't do all-registers-caller-save (no clobber
+    restores)?
+    - uweigand: should work fine
