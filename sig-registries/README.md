@@ -1,18 +1,20 @@
 # SIG Registries Meetings
 
-The Bytecode Alliance hosts weekly meetings as status updates on the
-design and implementation of warg, a WebAssembly component registry protocol and API. Anyone
-interested in this is welcome to join.
+The Bytecode Alliance hosts weekly meetings for status updates and discussions on the
+design and implementation of the WebAssembly Registry (WARG) protocol and API. Anyone
+interested is welcome to join.
 
 ## Time and location
 
-**When**: every Wednesday at 11am PST
-**Where**: Zoom (link in calendar invite)
+**When**: Wednesday at 11am PT / 2 PM ET (Weekly Recurring)
+**Where**: [Join the Google group](https://groups.google.com/g/ba-sig-registries) for the dial-in details
 
 ## Attending
 
-To attend, please email <bailey@cosmonic.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/352111-warg).
+To attend, please [join the Google group](https://groups.google.com/g/ba-sig-registries) for the calendar invite.
 
-## Agendas and notes
+## Agendas and Notes
+Both agendas for upcoming and notes for past meetings will be posted in subdirectories for each year.
 
-SIG Registries tracks meeting notes within the [SIG Registries repository](https://github.com/bytecodealliance/SIG-Registries/tree/main/notes).
+## Adding Agenda Items
+To add something to the agenda for an upcoming meeting, open a pull request to modify the agenda.
