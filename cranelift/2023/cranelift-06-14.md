@@ -17,5 +17,22 @@
 
 ### Attendees
 
+- afonso360
+- cfallin
+- fitzgen
+- avanhatt
+- jameysharp
+- uweigand
+- jlbirch
+
 ### Notes
 
+- afonso360: fuzzgen work, RISC-V SIMD
+- cfallin: EGRAPHS talk this weekend on mid-end
+- avanhatt: parser updates
+- jameysharp: none this week
+- uweigand: none this week
+- jlbirch: none this week
+- fitzgen: tail calls: non-tail calling with tail convention (callee cleanup of
+  stack args); next caller/callee reg tweak, then actual tail calls
+  - some issues on s390x and also on macOS/aarch64 to be resolved
