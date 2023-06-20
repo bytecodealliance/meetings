@@ -14,7 +14,4 @@ interested is welcome to join.
 To attend, please [join the Google group](https://groups.google.com/g/ba-sig-registries) for the calendar invite.
 
 ## Agendas and Notes
-Both agendas for upcoming and notes for past meetings will be posted in subdirectories for each year.
-
-## Adding Agenda Items
-To add something to the agenda for an upcoming meeting, open a pull request to modify the agenda.
+To add to the agenda, see the links in the calendar invite. The notes for past meetings will be posted in subdirectories for each year.
