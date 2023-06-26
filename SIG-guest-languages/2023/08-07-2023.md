@@ -1,4 +1,4 @@
-## MMM DD, YYYY - SIG Dynamic Languages meeting
+## August 07, 2023 - SIG Guest Languages meeting
 
 |          |      | 
 | -------- | -------- |
