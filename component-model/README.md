@@ -6,12 +6,12 @@ interested in this is welcome to join.
 
 ## Time and location
 
-**When**: every Friday at 11am PST
+**When**: every other Wednesday at 9am PST
 **Where**: Zoom (link in calendar invite)
 
 ## Attending
 
-To attend, please email <acrichton@fastly.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime).
+To attend, please email <alex.crichton@fermyon.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217126-wasmtime).
 
 ## Agendas and notes
 
