@@ -9,7 +9,7 @@ Anyone interested is welcome to join.
 ## Time and location
 
 **When**: Alternating Mondays at 10 AM PT / 1 PM ET
-**Where**: For an invite, email Kyle Brown <kbrown@singlestore.com>.
+**Where**: For an invite, join the [Google Group](https://groups.google.com/g/ba-sig-guest-languages).
 
 ## Agendas and Notes
 The notes for past meetings will be posted in subdirectories for each year.
