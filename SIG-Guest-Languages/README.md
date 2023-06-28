@@ -8,7 +8,7 @@ Anyone interested is welcome to join.
 
 ## Time and location
 
-**When**: Alternating Mondays at 10 AM PT / 1 PM ET
+**When**: Alternating Tuesdays at 10 AM PT / 1 PM ET
 **Where**: For an invite, join the [Google Group](https://groups.google.com/g/ba-sig-guest-languages).
 
 ## Agendas and Notes

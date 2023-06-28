@@ -1,4 +1,4 @@
-## July 24, 2023 - SIG Guest Languages meeting
+## August 08, 2023 - SIG Guest Languages meeting
 
 |          |      | 
 | -------- | -------- |
