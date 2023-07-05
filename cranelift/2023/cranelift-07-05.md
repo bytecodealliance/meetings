@@ -17,5 +17,18 @@
 
 ### Attendees
 
+- cfallin
+- alexcrichton
+- abrown
+- jameysharp
+- elliottt
+
 ### Notes
 
+- alexcrichton: no Cranelift updates
+- abrown: no Cranelift updates
+- jameysharp: no Cranelift updates
+- elliottt:
+  - RA2 and tail calls: looking at things with updated approach suggested
+    (split in middle of insts)
+- uweigand: no Cranelift updates
