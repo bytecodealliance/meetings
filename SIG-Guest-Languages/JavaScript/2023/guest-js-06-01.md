@@ -1,4 +1,4 @@
-# June 29 project call
+# June 1 project call
 
 **See the [instructions](../README.md) for details on how to attend**
 
@@ -11,16 +11,20 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. componentize-js
+	1. jco
+	1. JS -> Wasm leveraging SpiderMonkey JIT
 
 ## Notes
 
 ### Attendees
 
+* Kyle Brown
 * Guy Bedford
-* Calvin Prewitt
-* Saùl Cabrera
+* Danny Macovei
+* Saúl Cabrera
 
 ### Notes
 
-* Discussed [wasi-virt](https://github.com/bytecodealliance/WASI-Virt)
+* Saúl Cabrera presenting on using SpiderMonkey JIT to optimize JavaScript
+  compiling to a Wasm binary. Details of the presentation can be found at: https://github.com/saulecabrera/sm

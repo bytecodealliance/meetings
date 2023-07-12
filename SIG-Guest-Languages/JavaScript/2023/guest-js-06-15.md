@@ -17,5 +17,12 @@
 
 ### Attendees
 
+* Kyle Brown
+* Guy Bedford
+* Danny Macovei
+* Saúl Cabrera
+
 ### Notes
+
+* Guy Bedford offered to a componentize-js on-boarding and code walk at an upcoming call.
 
