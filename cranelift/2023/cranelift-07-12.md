@@ -17,5 +17,23 @@
 
 ### Attendees
 
+- fitzgen
+- elliottt
+- alexcrichton
+- avanhatt
+- afonso360
+- cfallin
+- abrown
+- uweigand
+
 ### Notes
 
+- avanhatt: working on integrating verifier into main repo
+- cfallin: no updates
+- afonso360: no updates
+- elliottt: regalloc2 work in the background
+- alexcrichton: fuzzbug from incorrect categorization of SSE level of an
+  instruction; good to know fuzzing still works
+- uweigand: no updates
+- abrown: no updates
+- fizgen: still working on tail calls; on aarch64 now
