@@ -17,7 +17,7 @@
 
 ## Notes
 
-* TODO
+* <consensus on cancelling the meeting if there is no agenda>
 
 ## Action Items
 
