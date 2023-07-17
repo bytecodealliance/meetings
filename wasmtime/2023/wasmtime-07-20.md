@@ -14,6 +14,8 @@
 1. Other agenda items
     1. _Submit a PR to add your item here_
     2. (fitzgen) should we cancel this meeting when there's nothing on the agenda?
+    3. (acrichto) wasi-crypto and being in-tree -
+       https://github.com/bytecodealliance/wasmtime/issues/6732
 
 ## Notes
 
