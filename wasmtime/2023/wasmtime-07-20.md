@@ -16,6 +16,8 @@
     2. (fitzgen) should we cancel this meeting when there's nothing on the agenda?
     3. (acrichto) wasi-crypto and being in-tree -
        https://github.com/bytecodealliance/wasmtime/issues/6732
+    4. (acrichto) new CLI interface (if there's time) -
+       https://github.com/bytecodealliance/wasmtime/issues/6741
 
 ## Notes
 
