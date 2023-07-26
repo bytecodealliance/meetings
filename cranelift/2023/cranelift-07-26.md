@@ -17,5 +17,20 @@
 
 ### Attendees
 
+* L Perieria
+* Alexa VanHattum
+* Trevor Elliott
+* Jamey Sharp
+* Nick Fitzgerald
+
 ### Notes
 
+* Updates:
+  * Jamey: doing some tail call stuff with Nick
+  * Trevor: nothing
+  * Alexa: no major updates
+  * L: no updates
+  * Alex: no updates
+  * Nick:
+    * tail calls! all backends except s390x working!
+    * starting to look at optimizing bounds checks and spectre guards some more again
