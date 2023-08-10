@@ -21,7 +21,7 @@
     - Not full module, but alexcrichton was able to reproduce from screenshot. A label fixup was quadratic by accident.  First thought: binary heap, worked for that aspect, but did not work for optimizations to the MachBuffer. Original issue fixed by cfallin’s PR changes handling of islands. Might want to in the future stop eagerly promoting branches. 
     - Two problems: linearizing the CFG, and branch/block optimizations. Extended basic blocks are single-in, multiple out. Using these gives some new optimization opportunity, but leads to complexity/changes for standard compiler technology. ~4 years ago Cranelift used this, now moved away from that, Cranelift has an actual CFG including VCode.
         - Question: can we do branch optimizations in the mid end? E.g. branch constant folding. Nothing precluding us from converting an if to a jump. 
-        - alexcrichton question: the MachBuffer does nice linearization, does it do more than that? Answer: yes, it does 3 optimizations: jump to fall through to just jump, jump over conditional converted to inverted conditional, redirect branch to unconditional branch to remove indirection (plus cleanup if unused). Design deciscion in regalloc2, require all critical edges to be split. 
+        - alexcrichton question: the MachBuffer does nice linearization, does it do more than that? Answer: yes, it does 3 optimizations: jump to fall through to just jump, conditional jump over unconditional jump converted to inverted conditional, redirect branch to unconditional branch to remove indirection (plus cleanup if unused). Design decision in regalloc2, require all critical edges to be split. 
     - The idea either cfallin or alexcrichton wants to do: when you hit the island, not promote if we otherwise would have put it back in the list, and instead put it in a sorted/binary heap. Hybrid approach.
 
 ### Attendees
@@ -53,7 +53,7 @@
 - jameysharp: 
     - Doing some work on regalloc2. Want to use parallel moves resolver to improve tail call ABI support. 
 - elliottt:
-    - Experimenting with realloc2 redundant move eliminator. Also looking at better support for minimization of test cases. 
+    - Experimenting with regalloc2 redundant move eliminator. Also looking at better support for minimization of test cases. 
         - Libfuzzer has built in minimization. 
         - Using something like creduce is blocked right now because there is no text-based format for regalloc2. 
         - Also, changing the “arbitrary instance” might also help fuzzing be more directed. Took 3 weeks to find the bug. 
