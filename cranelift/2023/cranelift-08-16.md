@@ -17,5 +17,24 @@
 
 ### Attendees
 
-### Notes
+* abrown
+* avanhatt
+* cfallin
+* elliottt
+* fitzgen
 
+### Updates
+
+* cfallin
+  * Valgrind project has been merged into wasmtime
+* elliottt
+  * Looking into a text format for regalloc2 fuzz bugs so that we can use
+    `creduce` to minimize complicated cases (thanks to fitzgen for this
+    suggestion, it's much simpler than reworking the arbitrary impl!)
+* fitzgen
+  * Looks like we can continue using virtual memory, and can hold off on
+    improving bounds checks for now
+  * Reworking the pooling allocator could have implications on abrown's
+    colorguard work
+    * Switching from striping to using 16 allocators per pool seems like the
+      right next approach
