@@ -20,4 +20,49 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* Andrew Brown
+* Bailey Hayes
+* Chris Fallin
+* Dan Gohman
+* Dominique Saulet
+* iximeow
+* Jamey Sharp
+* Johnnie Birch
+* Roman Volosatovs
+* rwong
+* Saul Cabrera
+* Trevor Elliot
+* Zeeshan Lakhani
+
 ### Notes
+
+* (cli agenda item delayed till next meeting)
+
+* nick: heads up on pooling allocator refactor
+  * config methods will change
+  * upgrading tutorial in RELEASES.md
+  * will be in 13.0 release
+
+* andrew: thinking about bringing wasi-nn up to speed with WIT
+  * named models and `load-by-name`
+  * simple hash map in current implementation
+  * but have a trait for customizing in different embedders
+  * first question: how to integrate with wasmtime CLI?
+  * can we have a CLI flag for preloading models?
+    * no one has objections
+  * right now, we test with a bash script
+  * would like to use `cargo test` instead
+  * problem is you need openvino on your system to run the test
+  * how to skip tests on regular contributors' systems that don't have openvino?
+  * env var
+  * want to be able to force on CI tho, so we don't accidentally always skip these tests
+  * bailey: how did WIT migration go?
+    * seems like it is going well
+    * waiting on some resources work
+
+* chris: Wasm memcheck
+  * `--wmemcheck` CLI flag and cargo feature `--features wmemcheck`
+  * requires wasm export certain symbols
+  * lots of TODOs but basic thing is there and works
+  * there is documentation under `docs/wmemcheck.md`
