@@ -13,6 +13,8 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. `wasmtime run` CLI and argument parsing (bytecodealliance/wasmtime#6737)
+    2. Procedure responding to security@bytecodealliance.org (acrichto)
+    3. More about wmemcheck (acrichto)
     1. _Submit a PR to add your item here_
 
 
