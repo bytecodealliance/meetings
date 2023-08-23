@@ -17,5 +17,23 @@
 
 ### Attendees
 
+* jameysharp
+* avanhatt
+* cfallin
+* elliottt
+* alexcrichton
+* fitzgen
+
 ### Notes
 
+* Naming of the `inverse` and `reverse` operations on cond codes
+  * <https://github.com/bytecodealliance/wasmtime/issues/6093>
+  * Naming of `flip` vs `swap`
+    * `swapArgs` is most obvious
+    * `complement` is also an option
+
+### Status
+
+* alexcrichton
+  * removed `fmin_pseudo`/`fmax_pseudo` instructions
+  * <https://github.com/bytecodealliance/wasmtime/pull/6874>
