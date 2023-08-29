@@ -2,7 +2,7 @@
 
 **See the [instructions](../README.md) for details on how to attend**
 
-8AM PST on the last Tuesday of the month.
+8AM PT on the last Tuesday of the month.
 
 ## Agenda
 

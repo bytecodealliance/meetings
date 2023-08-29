@@ -5,7 +5,7 @@ high-level update across the Bytecode Alliance community.
 
 ## Time and location
 
-**When**: The last Tuesday every month alternating: 8am PST and 6pm PST
+**When**: The last Tuesday every month alternating: 8am PT and 6pm PT
 
 **Where**: [Youtube live stream](https://www.youtube.com/@bytecodealliance/streams)
 
