@@ -12,7 +12,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. `wasmtime run` CLI and argument parsing (bytecodealliance/wasmtime#6737)
+    1. `wasmtime run` CLI and argument parsing (bytecodealliance/wasmtime#6737, bytecodealliance/wasmtime#6925)
     2. Procedure responding to security@bytecodealliance.org (acrichto)
     3. More about wmemcheck (acrichto)
     4. Minimum supported Rust version (cfallin)
