@@ -1,6 +1,6 @@
 # Python SIG Guest Languages Meetings
 
-A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, focusing on Python](https://github.com/bytecodealliance/governance/blob/main/SIGs/SIG-dynamic-languages/proposal.md).
+A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, focusing on Python](https://github.com/bytecodealliance/governance/blob/main/SIGs/SIG-guest-languages/proposal.md).
 
 ## Time and Location
 
