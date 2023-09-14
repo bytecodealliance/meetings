@@ -1,6 +1,6 @@
-# JavaScript SIG Dynamic Languages Meetings
+# JavaScript SIG Guest Languages Meetings
 
-A meeting for [the Special Interest Group (SIG) on Dynamic Languages for Wasm, focusing on JavaScript](https://github.com/bytecodealliance/governance/blob/main/SIGs/SIG-dynamic-languages/proposal.md).
+A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, focusing on JavaScript](https://github.com/bytecodealliance/governance/blob/main/SIGs/SIG-guest-languages/proposal.md).
 
 ## Time and Location
 
