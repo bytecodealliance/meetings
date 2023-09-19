@@ -1,12 +1,3 @@
 ## September 05, 2023 - SIG Guest Languages meeting
 
-|          |      | 
-| -------- | -------- |
-| Attending  | 
-| Note Taker | 
-
-* Updates:
-    * ...
-* ...
-* Action Items:
-    * ...
+This meeting was canceled because it conflicted with WasmCon
