@@ -11,7 +11,8 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. (15 min) akashin & nagisa presenting zkASM backend to get feedback from the team. You can get more context by reading a [Zulip Thread](https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/zkASM.20backend) and a [Hackmd document](https://hackmd.io/DK6S9vsbQ9GAmBJEOIwh4w?view).
+    2. _Submit a PR to add your item here_
 
 ## Notes
 
