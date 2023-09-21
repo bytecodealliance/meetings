@@ -1,6 +1,6 @@
 # Bytecode Alliance Meetings
 
-Various topics, projects, and groups within the Bytecode Alliance have regularly meetings.
+Various topics, projects, and groups within the Bytecode Alliance have regular meetings.
 
 You can find the joining info for future meetings and notes for past meetings of each meeting in its corresponding folder.
 
