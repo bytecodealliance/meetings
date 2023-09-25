@@ -10,15 +10,15 @@
 - [Componentize the World](https://bytecodealliance.org/articles/announcing-componentize-the-world) outcomes
   - [SIG Documentation](https://github.com/bytecodealliance/governance/blob/main/SIGs/SIG-documentation/proposal.md)
   - Found bugs 🐛, increased stability
-  - Examples!
-    - Rust
+  - Examples and exercises
+    - Any language exercises with solutions in Rust
       - [alexcrichton/bacon-exercises](https://github.com/alexcrichton/bacon-exercises/)
-      - C/C++
-        - [shravanrn C](https://github.com/shravanrn/wasm-c-comp-example)
-        - [matsbror C](https://github.com/matsbror/wasm-c-component-example)
-        - [cpetig C++](https://github.com/cpetig/resource-demo)
-      - Python
-        - [dicej/python-answers](https://github.com/dicej/bacon-exercises/tree/python-answers)
+    - C/C++
+      - [shravanrn C](https://github.com/shravanrn/wasm-c-comp-example)
+      - [matsbror C](https://github.com/matsbror/wasm-c-component-example)
+      - [cpetig C++](https://github.com/cpetig/resource-demo)
+    - Python
+      - [dicej/python-answers](https://github.com/dicej/bacon-exercises/tree/python-answers)
 - [Johnnie Birch](https://github.com/jlb6740) introducing [wasm-score](https://github.com/bytecodealliance/wasm-score)
 - [Daniel Macovei](https://github.com/macovedj) discussing package management with [warg](https://github.com/bytecodealliance/registry)
 
