@@ -8,4 +8,5 @@
 1. Other agenda items
     1. [WIT and semicolons](https://github.com/WebAssembly/component-model/pull/249) (@alexcrichton)
     1. [WIT doc comments](https://github.com/bytecodealliance/wasm-tools/issues/1206) (@alexcrichton)
+    1. [WIT package wasm encoding](https://github.com/WebAssembly/component-model/pull/248) (@alexcrichton)
     1. _Submit a PR to add your item here_
