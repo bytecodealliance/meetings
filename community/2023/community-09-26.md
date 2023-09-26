@@ -19,6 +19,10 @@
       - [cpetig C++](https://github.com/cpetig/resource-demo)
     - Python
       - [dicej/python-answers](https://github.com/dicej/bacon-exercises/tree/python-answers)
+- Syntax highlighting for WIT update
+  - Since last week, we have support within GitHub for the latest WIT syntax including `resource`
+  - GitHub markdown rendering through [linguist](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml#L7521) uses [vscode-wit](https://github.com/bytecodealliance/vscode-wit)
+  - VS Code [WIT IDL extension](https://marketplace.visualstudio.com/items?itemName=bytecodealliance.wit-idl)
 - [Johnnie Birch](https://github.com/jlb6740) introducing [wasm-score](https://github.com/bytecodealliance/wasm-score)
 - [Daniel Macovei](https://github.com/macovedj) discussing package management with [warg](https://github.com/bytecodealliance/registry)
 
