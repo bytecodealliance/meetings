@@ -12,6 +12,7 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. _Submit a PR to add your item here_
+    2. fitzgen: [New RFC: what is vs is not a security bug in Wasmtime (and Cranelift)](https://github.com/bytecodealliance/rfcs/pull/32)
 
 ## Notes
 
