@@ -11,6 +11,7 @@ You can find the joining info for future meetings and notes for past meetings of
 ## Project Meetings
 * [Wasmtime](./wasmtime) (bi-weekly)
 * [Cranelift](./cranelift) (bi-weekly)
+* [Machine Learning](./machine-learning/) (bi-weekly)
 
 ## Special Interest Groups
 * [SIG-Debugging](./SIG-Debugging) (bi-weekly)
