@@ -12,6 +12,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. How do we hand out commit bits for github.com/bytecodealliance/wasmtime? (Pat Hickey, 15 mins)
     1. _Submit a PR to add your item here_
 
 ## Notes
