@@ -1,10 +1,10 @@
-# September 26th Community stream
+# October 31st Community stream
 
 **See the [instructions](../README.md) for details on how to attend**
 
 4PM PT on the last Tuesday of the month.
 
-_**Note**_: This stream is two hours earlier than normal to accomate holiday festivities.
+_**Note**_: This stream is two hours earlier than normal to accommodate holiday festivities.
 
 ## Agenda
 
@@ -16,3 +16,4 @@ _**Note**_: This stream is two hours earlier than normal to accomate holiday fes
 ## Links
 
 - [Stream and recording](https://www.youtube.com/watch?v=DxQWjma8OGQ)
+- [Slides](../slides/community-10-30-2023.pdf)
