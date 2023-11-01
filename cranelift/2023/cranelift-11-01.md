@@ -18,5 +18,37 @@
 
 ### Attendees
 
+- jameysharp
+- alexcrichton
+- cfallin
+- fitzgen
+- avanhatt
+- elliottt
+- Rahul Chapulkar
+
 ### Notes
 
+- Rahul: demo VTune
+  - we have `perf`, but VTune offers some more details (more perf counters,
+    uarch analysis, ...)
+  - example: issue 7085 (AVX upper-half false dependency)
+  - (deep dive in UI, looking at perf counters and bottlenecks)
+  - there will always be some bottleneck; if retire is bottleneck, that's the
+    good case
+  - static (deps) vs. dynamic --> llvm-mca
+  - example: div-sinking-into-loop; microcode resteer events due to denormal FP
+    values
+
+
+- status
+  - cfallin: proof-carrying code, pairing with fitzgen: static memories fully
+    verified on x86 and aarch64; 1% compile-time overhead; dynamic in progress;
+    will get it fuzzing so it's ready to turn on by default
+  - jameysharp: no updates
+  - alexcrichton: no updates
+  - Rahual: VTune presentation (above)
+  - elliottt: no updates
+  - abrown: MPK build failures on CI, need to work out
+  - jlbirch: no updates
+  - fitzgen: pairing on PCC, and thinking about how we can use PCC for
+    verifying Wasm GC
