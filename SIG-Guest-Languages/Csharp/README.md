@@ -9,7 +9,7 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 
 ## Attending
 
-Join the following google group: https://groups.google.com/g/ba-sig-guest-languages/c/2ovNM27dp7U, invite in past emails.
+Join [the SIG Guest Languages google group](https://groups.google.com/g/ba-sig-guest-languages), the meeting invite is in past [emails](https://groups.google.com/g/ba-sig-guest-languages/c/2ovNM27dp7U).
 
 ## Agendas and Notes
 
