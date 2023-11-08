@@ -19,4 +19,5 @@ You can find the joining info for future meetings and notes for past meetings of
   * [Go Subgroup](./SIG-Guest-Languages/Go) (bi-weekly)
   * [JavaScript Subgroup](./SIG-Guest-Languages/JavaScript) (bi-weekly)
   * [Python Subgroup](./SIG-Guest-Languages/Python) (bi-weekly)
+  * [C# Subgroup](./SIG-Guest-Languages/Csharp) (bi-weekly)
 * [SIG-Registries](./sig-registries) (weekly)
