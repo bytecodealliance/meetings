@@ -12,6 +12,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. (fitzgen, but I will be absent, but y'all should be able to discuss without me): Add Jeff Charles as a reviewer/committer for Winch-related things?
     1. _Submit a PR to add your item here_
 
 ## Notes
