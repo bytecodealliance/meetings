@@ -17,5 +17,13 @@
 
 ### Attendees
 
+- abrown
+- avanhatt
+- elliottt
+- jameysharp
+- rahulchaphalkar
+- uweigand
+
 ### Notes
 
+None of the attendees had any updates to share so we ended the meeting early.
