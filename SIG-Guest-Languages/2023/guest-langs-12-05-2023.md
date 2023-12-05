@@ -18,7 +18,7 @@ Include general updates, upcoming plans, and anything you want to raise to the r
     * Mossaka: We're working on the fully go bindgen in [wasm-tools-go](https://github.com/ydnar/wasm-tools-go) (name not final) that will use the JSON IR.
     * Mossaka: The [wasm32 proposal has been accepted](https://github.com/golang/go/issues/63131#issuecomment-1806138218) by golang upstream. They only supported wasm 64 previously. They're working on Wasm exports directory.
 * JavaScript
-    * Guy: I was at the Node.js conference last month talking about Component Model ideas. Node.js is the current focus for JCO work building out the preview 2 conformance implementation.
+    * Guy: I spoke at NodeConf EU last month talking about [WebAssembly Components and JavaScript](https://www.nodeconf.eu/guy-bedford-webassembly-components-and-javascript). Node.js is the current focus for JCO work building out the preview 2 conformance implementation.
     * Guy: We're working for getting full test conformance against the Wasmtime test programs. If you want to publish components to NPM or treat components as normal dependencies, you can do so in Node.js. We're at 81/99 and are collaborating with Microsoft and expect to be done by end of year. We've been working with Yoshua Wyts & Wassim Chegham.
 * Python
     * Joel: Componentize-Py has been updated to the november WASI release candidate.
