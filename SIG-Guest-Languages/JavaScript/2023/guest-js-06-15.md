@@ -17,7 +17,7 @@
 
 ### Attendees
 
-* Kyle Brown
+* Robin Brown
 * Guy Bedford
 * Danny Macovei
 * Saúl Cabrera

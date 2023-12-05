@@ -45,7 +45,7 @@ Jamey proposes creating a dlopen/dlsym that uses static tables and statically li
 ## Action Items
 
 Joel:
-- Talk to Kyle about SIG status
+- Talk to Robin about SIG status
 - prototype componentize-py
 - talk to Alex, Dan, Luke, etc. about module linking and faking dlopen/dlsym/stat/etc
 - help Kevin debug Pandas-in-reactor

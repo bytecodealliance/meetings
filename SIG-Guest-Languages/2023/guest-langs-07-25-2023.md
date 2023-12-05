@@ -2,8 +2,8 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Kyle Brown, Calvin Prewitt, Jamey Sharp, Brett Cannon, Guy Bedford, Danny Macovei, Alex Crichton, Jiaxiao (Joe) Zhou
-| Note Taker | Kyle Brown
+| Attending  | Robin Brown, Calvin Prewitt, Jamey Sharp, Brett Cannon, Guy Bedford, Danny Macovei, Alex Crichton, Jiaxiao (Joe) Zhou
+| Note Taker | Robin Brown
 
 ## Updates
 
@@ -12,8 +12,8 @@
 
 ## Agenda
 
-* [Kyle] - New Subgroups (Go? Rust?)
-* [Kyle] - [Guest Languages Test Suite](https://hackmd.io/qeVkBYYWQ1C1uiKYk-HzZw)
+* [Robin] - New Subgroups (Go? Rust?)
+* [Robin] - [Guest Languages Test Suite](https://hackmd.io/qeVkBYYWQ1C1uiKYk-HzZw)
 
 ## Action Item
 

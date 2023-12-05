@@ -2,8 +2,8 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Guy Bedford, Kyle Brown, Brett Cannon, Peter Huene, Saúl Cabrera, Jamey Sharp, Alex Crichton, Sébastien Deleuze, Timmy Selesmo, Damian Gryski, Danny Macovei, Calvin Prewitt
-| Note Taker | Kyle Brown
+| Attending  | Guy Bedford, Robin Brown, Brett Cannon, Peter Huene, Saúl Cabrera, Jamey Sharp, Alex Crichton, Sébastien Deleuze, Timmy Selesmo, Damian Gryski, Danny Macovei, Calvin Prewitt
+| Note Taker | Robin Brown
 
 ## Agenda
 

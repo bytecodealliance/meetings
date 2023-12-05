@@ -3,16 +3,16 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Kyle Brown, Joel Dice, Calvin Prewitt, Danny Macovei, Bailey Hayes, Kevin Smith, Saúl Cabrera 
-| Note Taker | Kyle Brown
+| Attending  | Robin Brown, Joel Dice, Calvin Prewitt, Danny Macovei, Bailey Hayes, Kevin Smith, Saúl Cabrera 
+| Note Taker | Robin Brown
 
 * Updates
     * Calvin: There's a link to join a google group for JS subgroup [link](https://groups.google.com/g/ba-sig-dynamic-languages-javascript)
     * Joel: We're meeting later today. Last week I worked with Dan Gohman to build WASI-SDK and wasi-libc to create a shared library to support things like Python native extensions and am working on making wit-component build components. `wit-component` will need a refactor but we're implementing it in a short-term way first. `Componentize-Py` is available on PyPI. There's a demo with `wasmtime-py` and `Componentize-Py` to run Python inside Python to run untrusted Python code with isolation, time/resource limits/etc. [demo](https://github.com/dicej/component-sandbox-demo#examples).
-* [Kyle] - Subgroup Proposal Vote
+* [Robin] - Subgroup Proposal Vote
     * Vote passed
-* [Kyle] - Chair Selection Process
-    * Selected Kyle Brown and Guy Bedford as Co-Chairs
+* [Robin] - Chair Selection Process
+    * Selected Robin Brown and Guy Bedford as Co-Chairs
 * [Saúl] - Javy
     * Saúl: Javy is now a Bytecode Alliance project. It uses a different runtime than existing tools.
     * Guy: Do you have a roadmap for Javy?
@@ -22,8 +22,8 @@
     * Guy: On that topic, I did set up a [wiki](https://github.com/bytecodealliance/wasm-tools/wiki/Component-Model-Tooling-Compatibility) on the `wasm-tools` to set up a live version matrix. Whenever there is a major version change to the component model or WASI we can make a new entry. Otherwise we update the existing ones so you know the best previous snapshots. It's grouped by tooling, guests, and producers. That's kind of a distinction between Rust which has low-level bindgen and then there are end-to-end tools.
     * Guy: Having shared tests is a big way to help onboard new languages. In componentize-js we have some worlds and make components against that.
 * Action Items:
-    * Kyle: Propose rename to SIG-guest-languages
-    * Kyle: SIG-Dynamic-Languages repo and in the charter
-    * Kyle: Update calendar invite to show the agenda link
-    * Kyle: Updating the meeting notes
-    * Kyle: Add show-and-tell / deep dive section to meeting template
+    * Robin: Propose rename to SIG-guest-languages
+    * Robin: SIG-Dynamic-Languages repo and in the charter
+    * Robin: Update calendar invite to show the agenda link
+    * Robin: Updating the meeting notes
+    * Robin: Add show-and-tell / deep dive section to meeting template

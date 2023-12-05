@@ -2,8 +2,8 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Kyle Brown, Calvin Prewitt, Kevin Smith, Jiaxiao (Joe) Zhou, Jamey Sharp, Saúl Cabrera, Brett Cannon, Edoardo Vacchi, Joel Dice
-| Note Taker | Kyle Brown
+| Attending  | Robin Brown, Calvin Prewitt, Kevin Smith, Jiaxiao (Joe) Zhou, Jamey Sharp, Saúl Cabrera, Brett Cannon, Edoardo Vacchi, Joel Dice
+| Note Taker | Robin Brown
 
 ## Updates
 

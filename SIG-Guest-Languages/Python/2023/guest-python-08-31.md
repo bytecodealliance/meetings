@@ -12,7 +12,7 @@
 - Joel: want to collaborate with pyodide
 - Kevin: people want sandboxing (and want to bring their deps, like Pandas); also want size optimization, but package support is table stakes
 - Brett: how do people get CPython-WASI?  No official way yet.  Exceptions support would unlock micropython.  CPython using dlopen/dlsym for WASI.  Pyodide is using hacks which may become obsolete as people move away from setuptools.  Define standards for wheel naming and compatibility expectations.  
-- Kyle wants to be able to generate components without wasi imports
+- Robin wants to be able to generate components without wasi imports
 - Brett's post on dev experience: https://snarky.ca/tag/wasi/; should be able to pass platform flag (including python version) to `pip install` _and_ should always use virtual env.  Working on an installer with a stable API.  _or_ run pip inside wasi, in which case it can just assume native.
 - Brett: can ask Python for where site-packages is; Python discovers venv based on where it is launched from; https://snarky.ca/how-virtual-environments-work/
 - Brett: ideally, user would just use `python` which knows it's for WASI runs everything in e.g. wasmtime
