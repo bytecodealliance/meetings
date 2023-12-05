@@ -1,4 +1,4 @@
-## {month} {day}, 2023 - SIG Guest Languages meeting
+## August 6, 2023 - SIG Guest Languages meeting
 
 |          |      | 
 | -------- | -------- |

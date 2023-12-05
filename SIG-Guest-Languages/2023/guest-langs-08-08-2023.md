@@ -2,12 +2,12 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Kyle Brown, Calvin Prewitt, Jiaxiao (Joe) Zhou, Joel Dice, Damian Gryski, Brett Cannon
-| Note Taker | Kyle Brown
+| Attending  | Robin Brown, Calvin Prewitt, Jiaxiao (Joe) Zhou, Joel Dice, Damian Gryski, Brett Cannon
+| Note Taker | Robin Brown
 
 ## Updates
 
-* Kyle: [Test Suite](https://hackmd.io/qeVkBYYWQ1C1uiKYk-HzZw)
+* Robin: [Test Suite](https://hackmd.io/qeVkBYYWQ1C1uiKYk-HzZw)
 * Joe: Submitted a PR to create a new subgroup for Go and have been gathering interest.
 
 ## Agenda
@@ -47,7 +47,7 @@
         * Damian: The question is going tob e about what semantics we need and what semantics they provide and whether we can implement one with the other. I think GCC go uses posix threads for their go routine implementation. It would suck to have something really good in wasm but be unable to use it directly because it doesn't have something specific. On the go side we want to have a scheduler that works with the io system. We want them to go to sleep when the io waits. Obviously that's on a separate level from threading but go routines do that today and if we can't do that with the new system or its a big performance drop that would be less useful.
         * Randy: do you think there would be use in having discussions between go folks and the prior art in go
         * Luke: there's a fork in the road over whether thread spawn is more like a system thread or a lightweight thread like a go routine. we should definitely use go and aim to have a production-strength language be able to implement its tools with it.
-        * Kyle: in the long-run... async/streams/futures
+        * Robin: in the long-run... async/streams/futures
         * Luke: in the preview 3 timeline, that should definitely be true and if we do this right we should be able to get high-performing concurrent/parallel execution without making all these interfaces shared by pipelining well
         * Damian: Go currently supports WASI and changing the way these things works for thereads might be a lot of work. tiny-go might be a good playground to experiment with these things before pushing it into "big go"
         * Luke: there's a standards process and then a prototyping process which Andrew Brown has started if you wanted you could help build a prototype
@@ -68,4 +68,4 @@
 
 ## Action Item
 
-* Kyle: Merge PR for Go Subgroup and help start first meeting
+* Robin: Merge PR for Go Subgroup and help start first meeting

@@ -2,8 +2,8 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Brett Cannon, Guy Bedford, Kyle Brown, Timmy Silesmo, Saúl Cabrera, Kevin Smith, Achille Roussel, Aaron R Robinson, Scott Waye
-| Note Taker | Kyle Brown
+| Attending  | Brett Cannon, Guy Bedford, Robin Brown, Timmy Silesmo, Saúl Cabrera, Kevin Smith, Achille Roussel, Aaron R Robinson, Scott Waye
+| Note Taker | Robin Brown
 
 ## Updates
 
@@ -20,7 +20,7 @@
     * Discussed how compositions of components conaining runtime modules contain multiple copies of the same runtime and how to avoid that.
     * Using module imports ideally with registry identifiers in combination with registry-aware composition tooling can help.
     * Tooling may want to factor their components into a more structured module graph so that doing this is easier and may want to use the dynamic linking approach used by Python if applicable.
-* [Kyle] - Unifying tooling arguments
+* [Robin] - Unifying tooling arguments
     * Different Componentizing tools in the BA have different arguments/names for the same concepts (e.g. wit path, world name) and we should unify them to avoid confusing users.
 * [Joel] - Java Update
     * Joel spoke with Sébastien Deleuze about Java component work.
@@ -28,6 +28,6 @@
 
 ## Action Item
 
-* Kyle: Merge subgroup vote & reach out to organizers
-* Kyle: Poll for meeting date
-* Kyle: Start command line args discussion on Zulip
+* Robin: Merge subgroup vote & reach out to organizers
+* Robin: Poll for meeting date
+* Robin: Start command line args discussion on Zulip

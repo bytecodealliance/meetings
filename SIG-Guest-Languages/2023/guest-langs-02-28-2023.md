@@ -2,12 +2,12 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Kyle Brown, Peter Huene, Luke Wagner, Calvin Prewitt, Roman Volosatovs, Kevin Smith, Daniel Macovei, Pete Vetere
+| Attending  | Robin Brown, Peter Huene, Luke Wagner, Calvin Prewitt, Roman Volosatovs, Kevin Smith, Daniel Macovei, Pete Vetere
 | Note Taker |
 
-* [Kyle] - Overview
+* [Robin] - Overview
     * Context: [original sketch](https://hackmd.io/soZ3n7fmTP2sEzK1_Y7MCw)
-* [Kyle] - Introductions
+* [Robin] - Introductions
     * Bailey - WasmCloud integration with JS work by Guy. TSC member, employed by Cosmonic.
     * Calvin - JAF labs, focused on dev experience and leveraging the browser/JS
     * Dan Gohman - Fastly, interested in what happens here but mostly focused on WASI
@@ -22,7 +22,7 @@
     * Saul Cabrera - Working on baseline compiler for wasmtime. Working on Javy with VMware, suborbital, etc. Getting started on Ruby
     * Till - Fermyon, TSC member. Same interests as Joel, want to run as many languages on Spin and in the component model. Wrote original JS with spidermonkey guest.
     * Sam - SingleStore, looking into how to make Wasm Extensions in the database work well.
-* [Kyle] - Projects
+* [Robin] - Projects
     * JS
         * BA - [Componentize-JS](https://github.com/bytecodealliance/componentize-js)
             * Embeds SpiderMonkey

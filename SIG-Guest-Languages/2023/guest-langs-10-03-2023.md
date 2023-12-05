@@ -2,8 +2,8 @@
 
 |          |      | 
 | -------- | -------- |
-| Attending  | Calvin Prewitt, Danny Macovei, Kyle Brown, Joel Dice, Saul Cabrera, James Sturtevant
-| Note Taker | Kyle Brown
+| Attending  | Calvin Prewitt, Danny Macovei, Robin Brown, Joel Dice, Saul Cabrera, James Sturtevant
+| Note Taker | Robin Brown
 
 ## Subgroup Updates
 
@@ -24,7 +24,7 @@
 
 ## Agenda
 
-* [Kyle] - Docs & test suite call to action
+* [Robin] - Docs & test suite call to action
 
 ## Action Items
 
