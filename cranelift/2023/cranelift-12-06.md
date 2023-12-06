@@ -17,5 +17,23 @@
 
 ### Attendees
 
+* afonso360
+* elliottt
+* alexcrichton
+* abrown
+* uweigand
+
+### Status
+
+* abrown
+  * worked a bit on mpk stuff
+  * may need help from alexcrichton with changing protection keys across async
+    switches
+  * ac: `tests/all/async_functions.rs` is the test to look at, there may already
+    be one that executes, suspends and then resumes
+
 ### Notes
 
+* afonso360
+  * `fixed-late-use` constraints in regalloc2 would be useful in the context of
+    the riscv64 backend <https://github.com/bytecodealliance/regalloc2/pull/168>
