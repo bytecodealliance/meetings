@@ -1,4 +1,4 @@
-# December 20 Component Model Implementation Bi-weekly
+# February 14 Component Model Implementation Bi-weekly
 
 **See the [instructions](../README.md) for details on how to attend**
 
