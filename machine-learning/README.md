@@ -9,7 +9,7 @@ in the context of the [wasi-nn] specification.
 ## Time and location
 
 - **Where**: Microsoft Teams (link in calendar invite)
-- **When**: October 3, 16:00-17:00 UTC
+- **When**: Monday on alternating weeks, 16:00-17:00 UTC
 
 ## Registration
 
