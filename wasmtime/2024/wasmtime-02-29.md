@@ -13,6 +13,7 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. WASI and WITs (https://github.com/bytecodealliance/wasmtime/pull/7929, @alexcrichton)
+    1. _wasi-nn_: explain current state, describe problems, discuss solutions (@abrown, 30 minutes)
     1. _Submit a PR to add your item here_
 
 ## Notes
