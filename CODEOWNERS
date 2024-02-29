@@ -1,0 +1,26 @@
+# Meetings
+*  @bytecodealliance/tsc @bytecodealliance/board
+
+# SIGS
+/SIG-Debugging @bytecodealliance/sig-debugging-chairs
+
+/SIG-Documentation @bytecodealliance/sig-documentation-chairs
+
+/SIG-Guest-Languages/ @bytecodealliance/sig-guest-languages-chairs
+/SIG-Guest-Languages/Csharp @bytecodealliance/csharp-subgroup-chairs
+/SIG-Guest-Languages/Go @bytecodealliance/go-subgroup-chairs
+/SIG-Guest-Languages/Go @bytecodealliance/js-subgroup-chairs
+/SIG-Guest-Languages/Go @bytecodealliance/python-subgroup-chairs
+
+/SIG-Registries/ @bytecodealliance/SIG-Registries
+
+# Projects
+/component-model/ @bytecodealliance/wasmtime-core
+
+/cranelift/ @bytecodealliance/cranelift-core
+
+/wamr/ @bytecodealliance/wamr-core 
+
+/wasmtime/ @bytecodealliance/wasmtime-core
+
+/winch/ @bytecodealliance/wasmtime-core @saulecabrera
