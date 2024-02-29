@@ -12,7 +12,7 @@
 /SIG-Guest-Languages/Go @bytecodealliance/js-subgroup-chairs
 /SIG-Guest-Languages/Go @bytecodealliance/python-subgroup-chairs
 
-/SIG-Registries/ @bytecodealliance/SIG-Registries
+/SIG-Registries/ @bytecodealliance/sig-registries-chairs
 
 # Projects
 /component-model/ @bytecodealliance/wasmtime-core
