@@ -22,3 +22,7 @@ subdirectories for each year.
 
 To add something to the agenda for an upcoming meeting, open a pull request to
 modify the agenda.
+
+## Live chat and Q&A
+
+Can't make it to the syncs? Chat and Q&A is in the Bytecode Alliance Zulip [SIG-Documentation stream](https://bytecodealliance.zulipchat.com/#narrow/stream/426461-SIG-Documentation).
