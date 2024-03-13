@@ -11,7 +11,9 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. jamesharp: we should really determine what optimizations are legal for
+      `select_spectre_guard`, as it would be really nice to be allowed to constant
+      fold them
 
 ## Notes
 
