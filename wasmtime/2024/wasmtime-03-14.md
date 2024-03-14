@@ -13,6 +13,7 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. WASI versioning, drafts, and `wasmtime::Linker` (Till, Alex, Pat, etc...)
+    2. Wasmtime Debugging RFC: https://github.com/bytecodealliance/rfcs/pull/34
     1. _Submit a PR to add your item here_
 
 ## Notes
