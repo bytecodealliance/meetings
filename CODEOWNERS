@@ -19,6 +19,8 @@
 
 /cranelift/ @bytecodealliance/cranelift-core
 
+/machine-learning/ @abrown
+
 /wamr/ @bytecodealliance/wamr-core 
 
 /wasmtime/ @bytecodealliance/wasmtime-core
