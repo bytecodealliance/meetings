@@ -39,7 +39,7 @@
   - alexcrichton: what's different between this and regular select?
   - cfallin: if we had a speculate-on-value optimization in the future it
     would; for now no difference
-  - alexcrichton: why can we rely on no value specluation?
+  - alexcrichton: why can we rely on no value speculation?
   - cfallin: processor vendors say this is safe (Spectre whitepapers etc),
     maybe with details like `csdb` on aarch64
   - some Spectre things remain; e.g. indirect branch targets
