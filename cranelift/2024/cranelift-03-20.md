@@ -51,7 +51,7 @@
     - we should probably add mitigations to these as well
 
 - updates
-  - fitzgen: (missed beginning) reviews etc
+  - fitzgen: working on wasm-gc stuff, next PR will have some changes for `cranelift-wasm`
   - lafp: working on aarch64 backend for Winch!
   - uweigand: no updates
   - abrown: no updates
