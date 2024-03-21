@@ -12,12 +12,13 @@
 
 ## Attendees
 
-* TODO
+* Benjamin Titzer
+* Saul Cabrera
+* Nick Fitzgerald
 
 ## Notes
 
-* TODO
-
-## Action Items
-
-* [ ] TODO
+* RFC for debugging: https://github.com/bytecodealliance/rfcs/pull/34
+  * discussion about the Wasm core dump format
+  * discussion about `spidermonkey.wasm` debug component adapter
+  * discussion about low-level debugging interfaces in Wizard
