@@ -14,6 +14,7 @@
 1. Other agenda items
     1. fitzgen: `cargo vet` and separate PRs for updating lock files given recent attacks?
     1. fitzgen: move caching out of `wasmtime` crate, into a `wasmtime-cache` crate?
+    1. telliott: switch the pr description for squashed commits on wasmtime?
     1. _Submit a PR to add your item here_
 
 ## Notes
