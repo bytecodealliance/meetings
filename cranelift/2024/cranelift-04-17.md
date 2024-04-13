@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. [x64, fcmp, and load-op merging](https://github.com/bytecodealliance/wasmtime/blob/b26fd0af77ddce3431ce97065380241b20ef76a1/cranelift/codegen/src/isa/x64/inst.isle#L2837-L2838) (@alexcrichton)
     1. _Submit a PR to add your item here_
 
 ## Notes
