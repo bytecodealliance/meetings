@@ -1,11 +1,11 @@
 # Meeting Minutes
 ## Bytecode Alliance Technical Steering Committee
-**Date:**  *DATE*
-**Time:** *TIME*
-**Place:** By online video conference
+**Date:**  *DATE*  
+**Time:** *TIME*  
+**Place:** By online video conference  
 
 **TSC Members present:**
-*TODO*
+*TODO*  
 
 **Others present:**
 *TODO, Secretary (note taker)*
@@ -24,5 +24,5 @@ The TSC reviewed the agenda for the meeting and a final agenda was agreed upon.
 ### Adjournment
 There being no other business to come before the meeting, it was adjourned at approximately *TIME*
 
-*NAME*
+*NAME*  
 Secretary of the meeting
