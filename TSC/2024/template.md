@@ -4,10 +4,10 @@
 **Time:** *TIME*  
 **Place:** By online video conference  
 
-**TSC Members present:**
+**TSC Members present:**  
 *TODO*  
 
-**Others present:**
+**Others present:**  
 *TODO, Secretary (note taker)*
 
 ### Agenda
