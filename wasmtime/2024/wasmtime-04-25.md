@@ -12,6 +12,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. Moving wasmtime-cpp into the wasmtime repository for testing the C API (@alexcrichton)
     1. _Submit a PR to add your item here_
 
 ## Notes
