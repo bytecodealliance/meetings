@@ -9,8 +9,8 @@
 /SIG-Guest-Languages/ @bytecodealliance/sig-guest-languages-chairs
 /SIG-Guest-Languages/Csharp @bytecodealliance/csharp-subgroup-chairs
 /SIG-Guest-Languages/Go @bytecodealliance/go-subgroup-chairs
-/SIG-Guest-Languages/Go @bytecodealliance/js-subgroup-chairs
-/SIG-Guest-Languages/Go @bytecodealliance/python-subgroup-chairs
+/SIG-Guest-Languages/JavaScript @bytecodealliance/js-subgroup-chairs
+/SIG-Guest-Languages/Python @bytecodealliance/python-subgroup-chairs
 
 /SIG-Registries/ @bytecodealliance/sig-registries-chairs
 
