@@ -6,6 +6,7 @@ You can find the joining info for future meetings and notes for past meetings of
 
 ## General
 
+* [Technical Steering Committee](./tsc)(weekly, invitation only though public minutes are here)
 * [Community Stream](./community) (monthly)
 * [Component Model Implementation](./component-model) (bi-weekly)
 
