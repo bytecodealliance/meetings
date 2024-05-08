@@ -2,22 +2,18 @@
 
 **See the [instructions](../README.md) for details on how to attend**
 
-## Agenda
-
-1. Opening, welcome and roll call
-1. Announcements
-    1. _Submit a PR to add your announcement here_
-1. Other agenda items
-    1. _Submit a PR to add your item here_
-
 ## Attendees
 
-* TODO
+* David Bryant
+* Eric Gregory
+* Ryan Levick
+* Sohan Maheshwar
+* Danny Macovei
+* Calvin Prewitt
 
 ## Notes
 
-* TODO
+* Danny has a [PR in draft](https://github.com/bytecodealliance/component-docs/pull/129) for the Component Book dealing with registry tooling and WAC.
+* Ryan discussed plans to develop a Markdown book for WAC. For coordination, Eric mentioned his draft BA blog post on WAC&mdash;some of the material there may be useful.
+* On GitHub, ritesh089 [opened a PR](https://github.com/bytecodealliance/component-docs/pull/135) to add examples of composition to the Component Book.
 
-## Action Items
-
-* [ ] TODO
