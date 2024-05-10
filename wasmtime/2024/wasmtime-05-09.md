@@ -18,4 +18,16 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* Roman Vosalyatov
+* Andrew Brown
+* Alex Crichton
+* Jamey Sharp
+* Bailey Hayes
+* Trevor Elliott
+
 ### Notes
+
+* Discussion of recently landed no-std support
+* Status update on Wasm GC implementation work
+* Discussion of horizontal scaling, TLB shootdowns, and IPIs
