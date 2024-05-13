@@ -12,6 +12,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. Remove support for Wasmtime 13 CLI (@alexcrichton, https://github.com/bytecodealliance/wasmtime/pull/8597)
     1. _Submit a PR to add your item here_
 
 ## Notes
