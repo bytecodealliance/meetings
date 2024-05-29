@@ -17,5 +17,24 @@
 
 ### Attendees
 
+- alexcrichton
+- fitzgen
+- elliottt
+- jameysharp
+- abrown
+- cfallin
+
 ### Notes
 
+- abrown: no updates
+- elliottt: nothing large; removed ArgumentPurpose::StackLimit (currently
+  unused by Wasmtime/Cranelift)
+- jameysharp:
+  - hoping someone can take on #8690, need to pass it off
+- alexcrichton:
+  - fuzzbug with tail calls too, will file issue
+  - looking at CI timing out since last night
+- fitzgen:
+  - split out some depth-first traversal reusable code from DomTree impl, for
+    purpose of computing liveness for GC refs in frontend
+- cfallin: no updates
