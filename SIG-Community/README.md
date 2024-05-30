@@ -24,4 +24,4 @@ modify the agenda.
 
 ## Live chat and Q&A
 
-Can't make it to the syncs? Chat and Q&A is in the Bytecode Alliance Zulip [SIG-Documentation stream](https://bytecodealliance.zulipchat.com/#narrow/stream/426461-SIG-Documentation).
+Can't make it to the syncs? Chat and Q&A is in the Bytecode Alliance Zulip [SIG-Community stream](https://bytecodealliance.zulipchat.com/#narrow/stream/439980-SIG-Community).
