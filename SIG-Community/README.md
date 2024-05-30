@@ -1,6 +1,6 @@
 # SIG-Community Meetings
 
-A meeting for the [the Bytecode Alliance Community Special Interest Group (SIG)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-cocumentation).
+A meeting for the [the Bytecode Alliance Community Special Interest Group (SIG)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-community).
 
 ## Time and Location
 
