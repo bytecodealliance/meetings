@@ -1,4 +1,4 @@
-# {month} {day} SIG-Community Meeting
+# June 4 SIG-Community Meeting
 
 **See the [instructions](../README.md) for details on how to attend**
 
