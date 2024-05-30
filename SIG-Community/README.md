@@ -1,10 +1,10 @@
-# SIG-Documentation Meetings
+# SIG Community Meetings
 
 A meeting for the [the Bytecode Alliance Community Special Interest Group (SIG)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-cocumentation).
 
 ## Time and Location
 
-**When**: every other Tuesday at 9am US Pacific Time  
+**When**: every other Tuesday at 3:30pm UTC  
 **Where**: Zoom (passcode will be made available in advance of our first meeting, to be scheduled through conversation on Zulip).
 
 ## Attending
