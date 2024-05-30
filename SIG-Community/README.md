@@ -4,7 +4,7 @@ A meeting for the [the Bytecode Alliance Community Special Interest Group (SIG)]
 
 ## Time and Location
 
-**When**: every other Tuesday at 8am US Pacific Time
+**When**: every other Tuesday at 9am US Pacific Time  
 **Where**: Zoom (passcode will be made available in advance of our first meeting, to be scheduled through conversation on Zulip).
 
 ## Attending
