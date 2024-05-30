@@ -26,4 +26,4 @@ You can find the joining info for future meetings and notes for past meetings of
   * [Python Subgroup](./SIG-Guest-Languages/Python) (bi-weekly)
   * [C# Subgroup](./SIG-Guest-Languages/Csharp) (bi-weekly)
 * [SIG-Registries](./sig-registries) (weekly)
-* [SIG-Community](./SIG-Community) (TBD)
+* [SIG-Community](./SIG-Community) (first and third Tuesday of each month)
