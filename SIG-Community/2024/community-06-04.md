@@ -98,11 +98,11 @@ https://bytecodealliance.org/#projects-of-the-alliance \
 [David] Broader external & facilitated internal\
 [Justin] Have been hanging around in wasm community since 2018; different projects hitting different areas of compute that maps to another area. If we can facilitate mindsharing bw such initiatives, it’d help us build better relationships & better products.
 
-[David] Mission statement, charter, brainstorming, articulating boundaries = all good items to takeaway\
+- [David] Mission statement, charter, brainstorming, articulating boundaries = all good items to takeaway\
 [David]  Make more people aware of SIG Community\
 [Karen] need examples of how we can serve community, happy to post on #general about what we can help with\
 
 ## Action Items
 
 * [ ] Karen to socialize on the General stream regarding brainstorming ideas
-* [ ] Divya/David to put a standing item on the agenda template for the next meeting regarding meeting recording.
+* [x] Divya/David to put a standing item on the agenda template for the next meeting regarding meeting recording.
