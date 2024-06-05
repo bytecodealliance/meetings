@@ -22,7 +22,7 @@
 
 - [David] How do we record?\
 [Karen] Do we want to manually record/automatically record?\
-[David] For Leon’s benefit, we aencourage all SIGs to record their meeting & upload to Youtube.\
+[David] For Leon’s benefit, we encourage all SIGs to record their meeting & upload to Youtube.\
 [Leon] Other communities, people announce and start the meeting\
 [Karen/David] Can put that as a standing agenda item.\
 [Karen] If anyone has any thoughts around this, please bring it up in the next meeting
@@ -30,7 +30,7 @@
 
 - [David] What do we want to do with the outreach?\
 A lot of our outreach is tailored around amplifying existing content; not thought about it from the community/project perspective. We would welcome more content on the website rooted in the aforementioned perspective.\
-There’s an opportunity here & if we could use any of the existingmechanisms, as a group, to help put the word out there, we could find a way to do that.\
+There’s an opportunity here & if we could use any of the existing mechanisms, as a group, to help put the word out there, we could find a way to do that.\
 [Karen] Prompt at the start of the meeting to revisit brainstorming ideas? Google sheet of ideas?\
 [David] Some of this discussion could happen over the Zulip channel.
 
@@ -59,7 +59,7 @@ https://bytecodealliance.org/#projects-of-the-alliance \
 [David] Not limited to the projects listed above; those are just the hosted projects. 
 
 - [Leon] Are we talking about amplification existing articles or are we thinking of creating new content?\
-[David] Personal opinion on what we should focus on - what do we think best serves the needs of our community? Our content should answer that question. Map from there to relate to our existing projects & events.\ 
+[David] Personal opinion on what we should focus on - what do we think best serves the needs of our community? Our content should answer that question. Map from there to relate to our existing projects & events. \ 
 [David] Open question for us to seek answers to.\
 [Karen] Would it help if we have a conversation of what we don’t want to include?\
 [David] Examples?\
@@ -71,7 +71,7 @@ https://bytecodealliance.org/#projects-of-the-alliance \
 [David] SIG Community focused on orchestrating calendars\
 [Karen] Our outreach could facilitate the amplification what each of the SIGs are doing along with the SIG activities + content focused on education. Larger question though is whether we need to be a mechanism for marketing? or amplification & education?\
 [Divya] Can we have a charter?\
-[David] Having a charter would be helpful alongside picking up reasonable goals to achieve by the end of the year.\ 
+[David] Having a charter would be helpful alongside picking up reasonable goals to achieve by the end of the year. \ 
 [Karen] Could we start with a google doc?\
 [Divya] +1 could definitely start up a Google doc\
 [David] For comparison, HackMD is used in some other SIGs as a mode of collaboration.
@@ -83,7 +83,7 @@ https://bytecodealliance.org/#projects-of-the-alliance \
 [Karen] +1 to charter\
 [Justin] Internal/External\
 [Karen] more clarification\
-[Justin] Related to the earlier discussion around content we don’t include.\ 
+[Justin] Related to the earlier discussion around content we don’t include. \ 
 [David] Overall scope for SIG Community?\
 [Karen] Could be low hanging fruit to amplify existing work for the BA + existing SIGs\
 [David] Do you think it is practical for us to be shortlisting a bunch of needs that the community has?\
@@ -91,7 +91,7 @@ https://bytecodealliance.org/#projects-of-the-alliance \
 [David] We don’t have a central perspective about a lot of the activities we are doing currently. Coming up with that would be helpful. We could do any number of things but should be in a particular direction.\
 [Karen] Any work done is good work. Can start small with a brainstorm and see if it helps us figure out our north star.\
 [David] +1 to that.\
-[Karen] Any higher level channel we can start the brainstorming process on since SIG Community is sparsely populated.\ 
+[Karen] Any higher level channel we can start the brainstorming process on since SIG Community is sparsely populated. \ 
 [David] Announcement on #general to call people’s attention to SIG Community.\
 [Justin] Mission statements ? - " Amplify Wasm-Sig* work both internally between SIGs and externally to people who haven't discovered Wasm" ??\
 [Karen] Hesitant to only agree to SIG work because there’s so much more than SIG work.\
