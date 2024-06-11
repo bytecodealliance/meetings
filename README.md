@@ -27,3 +27,4 @@ You can find the joining info for future meetings and notes for past meetings of
   * [C# Subgroup](./SIG-Guest-Languages/Csharp) (bi-weekly)
 * [SIG-Registries](./sig-registries) (weekly)
 * [SIG-Community](./SIG-Community) (first and third Tuesday of each month)
+* [SIG-Embedded](./SIG-Embedded) (meeting details to be announced)
