@@ -25,6 +25,6 @@ You can find the joining info for future meetings and notes for past meetings of
   * [JavaScript Subgroup](./SIG-Guest-Languages/JavaScript) (bi-weekly)
   * [Python Subgroup](./SIG-Guest-Languages/Python) (bi-weekly)
   * [C# Subgroup](./SIG-Guest-Languages/Csharp) (bi-weekly)
-* [SIG-Registries](./sig-registries) (weekly)
+* [SIG-Packaging](./SIG-Packaging) (weekly)
 * [SIG-Community](./SIG-Community) (first and third Tuesday of each month)
 * [SIG-Embedded](./SIG-Embedded) (meeting details to be announced)
