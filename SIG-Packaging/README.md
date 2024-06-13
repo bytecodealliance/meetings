@@ -12,7 +12,8 @@ The Bytecode Alliance hosts weekly meetings for status updates and discussions o
 To get the passcode to attend, please reach out on Zulip.
 
 ## Agendas and Notes
-To add to the agenda, see the links in the calendar invite. The notes for past meetings will be posted in subdirectories for each year.
+Both agendas for upcoming and notes for past meetings will be posted in
+subdirectories for each year.
 
 ## Live chat and Q&A
 Can't make it to the meeting?  Chat and Q&A is in the Bytecode Aliance Zulip [SIG-Packaging channel](https://bytecodealliance.zulipchat.com/#narrow/stream/441851-SIG-Packaging).
