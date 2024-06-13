@@ -15,6 +15,7 @@
 /SIG-Registries/ @bytecodealliance/sig-registries-chairs
 
 /SIG-Community/ @bytecodealliance/sig-community-chairs
+/SIG-Embedded/ @bytecodealliance/sig-embedded-chairs
 
 # Projects
 /component-model/ @bytecodealliance/wasmtime-core
