@@ -5,11 +5,11 @@ The Bytecode Alliance hosts weekly meetings for status updates and discussions o
 ## Time and location
 
 **When**: Wednesday at 11am PT / 2 PM ET (Weekly Recurring)  
-**Where**: On Zoom, with further details here shortly.  In the meantime please join the SIG-Packaging channel on [Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/441851-SIG-Packaging) for Zoom meeting information.
+**Where**: On Zoom https://zoom.us/j/92850080878?pwd=okjIcddaDHXdvUCTa7u19AcJsE3kRr.1
 
 ## Attending
 
-To get the passcode to attend, please reach out on Zulip.
+To get the passcode to attend, please reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/441851-SIG-Packaging).
 
 ## Agendas and Notes
 Both agendas for upcoming and notes for past meetings will be posted in
