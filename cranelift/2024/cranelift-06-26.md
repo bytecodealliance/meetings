@@ -10,6 +10,7 @@
     1. Thanks!
 1. Announcements
     1. _Submit a PR to add your announcement here_
+    2. fitzgen: There is a new RFC for adding a new interpreter for Wasmtime that involves a new Cranelift backend. Check it out! https://github.com/bytecodealliance/rfcs/pull/35
 1. Other agenda items
     1. _Submit a PR to add your item here_
 
