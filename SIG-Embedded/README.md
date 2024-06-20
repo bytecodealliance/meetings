@@ -2,19 +2,24 @@
 
 A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedded and Industrial Applications [(SIG-Embedded)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-embedded).
 
-<div style="background-color:rgb(230,230,255); width:100%;border: 5px">
-<h2 style="color:white;background-color:rgb(20,20,120);width:100%;padding-left:1em;padding-bottom:0.75em">Announcement: Inaugural SIG-Embedded Meeting</h2>
-<p style="padding-left:1em; padding-right:0.5em; padding-bottom:1em">First, welcome to SIG Embedded. The Embedded SIG's charter calls for a rolling set of meetings which will occur in three major time zones; the Asia Pacific, Europe and finally the Americas. To make this happen we need to decide on a meeting cadence and to search for and nominate co-chairs, with at least one co-chair per time-zone. There will be communication on our <a href="https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded">Zulip channel</a> as we schedule this meeting. Please reach out there for the initial inaugural meeting invite, and please also keep an eye on the <a href="./2024/">2024 folder</a> as the meeting times are announced.</p>
-</div>
+**When**: 
 
-## 
+* **Day:** Every 2nd and 4th Tuesday of the month
+* **When:** A rotating schedule matching time zones around the world:
+  1. Europe and Asia Pacific Meeting
+     10am Central European Time, 4pm in China, 3am US East Coast
+  2. Asia Pacific and US Meeting
+      8am China, 8pm US East Coast, 7pm US Central, 5pm US Pacific, 2am Central European Time
+  3. US and Europe Meeting
+     11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China
 
-**When**: Meeting details to be determined, with an initial meeting to be announced in the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip  
+Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules.
+
 **Where**: On Zoom, with details and a meeting link forthcoming here.
 
 ## Attending
 
-To get the passcode to attend, please reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded).
+To get the passcode to attend, please reach out to the  [Embedded Stream on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded).
 
 ## Agendas and Notes
 
