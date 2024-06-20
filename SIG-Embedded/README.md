@@ -4,16 +4,33 @@ A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedde
 
 **When**: 
 
-* **Day:** Every 2nd and 4th Tuesday of the month
+* **Day:** Every other Tuesday, starting June 25 2024
+  The Tuesdays upon which no WASM CG Meetings occur - to avoid any clashes. This is roughly every 2nd, and 4th Tuesday of the month. Actual dates should below in table.
 * **When:** A rotating schedule matching time zones around the world:
-  1. Europe and Asia Pacific Meeting
+  1. **Europe and Asia Pacific Meeting**
      10am Central European Time, 4pm in China, 3am US East Coast
-  2. Asia Pacific and US Meeting
-      8am China, 8pm US East Coast, 7pm US Central, 5pm US Pacific, 2am Central European Time
-  3. US and Europe Meeting
+  2. **Asia Pacific and US Meeting** *$*
+     8am China, 8pm US East Coast *$*, 7pm US Central *$*, 5pm US Pacific *$*, 2am Central European Time
+     **NB:** *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
+  3. **US and Europe Meeting**
      11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China
 
-Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules.
+Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules. The following table illustrates the next up coming meetings.
+
+| Day                            | Europe & Asia Pacific                                        | Asia Pacific & US                                            | US & Europe                                                  |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Tuesday, 25th June 2024        | 10 am CEST / 4 pm CST                                        |                                                              |                                                              |
+| Tuesday, 9th July 2024         |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
+| Tuesday, 23rd July 2024        |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
+| Tuesday, 6th August 2024       | 10 am CEST / 4pm CST                                         |                                                              |                                                              |
+| Tuesday, 20th August 2024      |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
+| Tuesday, 3rd Sept 2024         |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
+| Tuesday, 17th Sept 2024        | 10 am CEST / 4pm CST                                         |                                                              |                                                              |
+| Tuesday, 1st Oct 2024          |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
+| Tuesday, 15th Oct 2024         |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
+| ***.ics Placeholder Calendar** | [Blocker](./ics-calendar-blockers/SIG-Embedded-EuropeandAsiaPacific.ics) | [Blocker](./ics-calendar-blockers/SIG-Embedded-AsiaPacificandUSA.ics) | [Blocker](./ics-calendar-blockers/SIG-Embedded-USAandEurope.ics) |
+
+*$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
 
 **Where**: On Zoom, with details and a meeting link forthcoming here.
 
