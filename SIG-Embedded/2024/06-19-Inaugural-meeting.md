@@ -8,6 +8,7 @@
 
 1. Opening, welcome and roll call
 1. Decide upon policy for recording meetings, if acceptable then record the remainder of the meeting. 
+    [Recording Available on Youtube here](https://youtu.be/HtnM-8h8dQQ)
 1. Select note takes for the meeting
 1. **Inaugural Item 1 :** Call for nominations & votes for co-chairs
     The embedded SIG's charter calls for 3 co-chairs, one for each of the time zones in which we expect to hold meetings.
