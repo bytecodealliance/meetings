@@ -18,5 +18,20 @@
 
 ### Attendees
 
+- elliottt
+- fitzgen
+- jameysharp
+- alexcrichton
+- abrown
+- cfallin
+
 ### Notes
 
+- fitzgen: Pulley announcement (RFC link above)
+- jameysharp: no update
+- elliottt: no updates
+- fitzgen: working on "user stack maps" (managed by cranelift-frontend); close
+  to landing
+- alexcrichton: no updates
+- abrown: no updates; mostly working on wasi-nn stuff
+- cfallin: no updates
