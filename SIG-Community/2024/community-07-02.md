@@ -1,4 +1,4 @@
-# June 18 SIG-Community Meeting
+# July 2 SIG-Community Meeting
 
 **See the [instructions](../README.md) for details on how to attend**
 
