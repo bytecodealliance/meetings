@@ -17,5 +17,22 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* Trevor Elliott
+* Jamey Sharp
+* Andrew Brown
+
 ### Notes
 
+* discussion about spectre and optimizations
+* updates
+  * trevor: none
+  * jamey: none
+  * andrew:
+    * not exactly Cranelift related, but CI issues in wasm-tools similar to the
+      ones we saw in Wasmtime/Cranelift repo
+    * looked at bjorn3's ABI refactors, would appreciate a second set of eyes
+  * nick:
+    * the new user stack maps landed and are usable
+    * waiting to remove the old stack maps until after migrating Wasmtime to the
+      new ones
