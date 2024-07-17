@@ -4,17 +4,18 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 
 ## Time and Location
 
-**When**: every other Thursday at 11am PST (2pm EST)
+**When**: every other Wednesday at 10am PST (1pm EST)
 **Where**: Zoom (link in calendar invite)
 
 ## Attending
 
-To attend please email:
+To attend please join the google group: https://groups.google.com/g/ba-sig-guest-languages-javascript.
+
+Or contact:
 
 * Calvin Prewitt (calvin@jaflabs.com)
 * Saúl Cabrera (saul.cabrera@shopify.com)
-
-Or join the following google group: https://groups.google.com/g/ba-sig-dynamic-languages-javascript
+* Guy Bedford (gbedford@fastly.com)
 
 ## Agendas and Notes
 
