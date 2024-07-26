@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. Discussion of [pointer provenance vs Pulley vs Cranelift](https://github.com/bytecodealliance/wasmtime/issues/9015)
     1. _Submit a PR to add your item here_
 
 ## Notes
