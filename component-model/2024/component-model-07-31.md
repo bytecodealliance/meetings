@@ -4,6 +4,7 @@
 
 ## Agenda
 1. Announcements
+    1. Pat Hickey: September 2024 Component Model Plumber Summit
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. _Submit a PR to add your item here_
