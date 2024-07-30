@@ -13,3 +13,4 @@
        by designing a symmetric calling convention. He would like to discuss whether this is of wider interest.
        More information at https://bytecodealliance.zulipchat.com/#narrow/stream/327223-wit-bindgen/topic/Native.20plugins.20defined.20in.20WIT/near/447003081
     3. Yosh Wuyts: [Generating OpenContainers annotations from Wasm Components](https://github.com/WebAssembly/tool-conventions/issues/230)
+    4. Victor Adossi: Last call for feature gate discussion
