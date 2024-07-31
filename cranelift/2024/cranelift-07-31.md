@@ -19,5 +19,49 @@
 
 ### Attendees
 
+- fitzgen
+- alexcrichton
+- uweigand
+- elliottt
+- avanhatt
+- abrown
+- cfallin
+
 ### Notes
 
+- Pointer provenance and Pulley
+  - alexcrichton: recap: Pulley has arbitrary loads/stores from integer
+    addresses; doesn't work with strict provenance
+  - turns out Rust won't require strict provenance; breaks lots of things
+  - under loose provenance, we do need to mark pointers that escape to Pulley
+  - fitzgen: things we need to do for escapes to Pulley are the same we do for JIT code
+  - cfallin: PCC provides the same thing with memory types -- could use this as
+    a way to get provenance in the future
+  - abrown: how did we get on this quest?
+    - alexcrichton: originally, UB bug found by miri; then Pulley, getting
+      tests running in miri
+
+- liveness analysis and user stack maps
+  - fitzgen: all tests passing with user stack maps now, but debugging a
+    fuzzing failure in table-ops test
+  - fundamentally need either a fixup pass or full fixpoint loop for liveness
+  - cfallin: third way: IonMonkey regalloc's approximation: when we see a loop
+    edge, take the loop end's liveness and smear it over the whole loop body
+
+- updates
+  - jameysharp: Cranelift libcalls and stack limit checks; setting on Cranelift
+    to tell it to emit stack-limit checks in such cases
+  - elliottt: no updates
+  - avanhatt: no updates
+  - abrown: no updates
+  - alexcrichton: no updates
+  - uweigand: done with tail calls on s390x! PR pending
+    - indirect calls need a register for the target; can't be a callee-saved
+      register because restores happen before the call. Need a register that is
+      not an argument and not a callee-saved register. Using spilltmp for now,
+      which requires an extra move (because it is not allocatable).
+    - do we want to remove the tunable that disables tailcalls? (consensus: yes)
+  - cfallin: no updates
+  - fitzgen: modified Imm64 canonicalization to be zero-extended rather than
+    sign-extended
+    - discussions about proper printing format
