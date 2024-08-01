@@ -25,6 +25,7 @@
 - Nick Fitzgerald
 - Taylor Thomas
 - Victor Adossi
+- Trevor Elliott
 
 ### Notes
 
