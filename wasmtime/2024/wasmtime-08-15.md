@@ -18,4 +18,18 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* Alex Crichton
+* Trevor Elliott
+* Chris Fallin
+* Andrew Brown
+* Bailey Hayes
+
 ### Notes
+
+* Discussion about growing contributor base
+* Discussion of generative versus mutation-based fuzzing, `wasm-smith` and
+  `wasm-mutate`, and the `arbitrary` crate versus a new library of mutator
+  combinators
+  * Related: apparently some folks used `wasm-smith` to fuzz Webkiit/JSC:
+    https://blackhat.com/asia-23/briefings/schedule/#attacking-the-webassembly-compiler-of-webkit-30926
