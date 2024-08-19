@@ -4,7 +4,7 @@ The [Wasm-Micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
 
 ## Time and location
 
-- **When**: Second Monday of Each month at 08:00 UTC. (0900@London. 1000@Berlin. 1600@Beijing. 1700@Tokyo)
+- **When**: First Monday of Each month at 08:00 UTC. (0900@London. 1000@Berlin. 1600@Beijing. 1700@Tokyo)
 - **Where**: On Teams. Please check out at [Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/290350-wamr/topic/Announcement.3A.20Transition.20from.20TSC.20Meetings.20to.20Monthly.20Commu/near/449186296)
 
 ## Attending
