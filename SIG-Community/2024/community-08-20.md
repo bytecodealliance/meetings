@@ -1,4 +1,4 @@
-# August 20 SIG-Community Meeting
+# August 20 SIG-Community Meeting [Cancelled]
 
 **See the [instructions](../README.md) for details on how to attend**
 
@@ -13,11 +13,11 @@
 
 ## Attendees
 
-* TODO
+* Karen Chu
 
 ## Notes
 
-* TODO
+* Cancelled due to low attendance
 
 ## Action Items
 
