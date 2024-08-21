@@ -1,4 +1,4 @@
-# {month} {day} | [JavaScript subgroup (BA Guest Languages SIG)](https://www.google.com/calendar/event?eid=NmQ0NzY0cW9hYXFsc3FiaW41YjBxOGpyc21fMjAyNDA4MDdUMTcwMDAwWiBjYWx2aW5AamFmbGFicy5jb20)
+# {month} {day}, {year} | [JavaScript subgroup (BA Guest Languages SIG)](https://www.google.com/calendar/event?eid=NmQ0NzY0cW9hYXFsc3FiaW41YjBxOGpyc21fMjAyNDA4MDdUMTcwMDAwWiBjYWx2aW5AamFmbGFicy5jb20)
 
 ## Agenda
 1. Opening, welcome and roll call
