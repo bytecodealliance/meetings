@@ -1,6 +1,4 @@
-# {month} {day} project call
-
-**See the [instructions](../README.md) for details on how to attend**
+# {month} {day} | [JavaScript subgroup (BA Guest Languages SIG)](https://www.google.com/calendar/event?eid=NmQ0NzY0cW9hYXFsc3FiaW41YjBxOGpyc21fMjAyNDA4MDdUMTcwMDAwWiBjYWx2aW5AamFmbGFicy5jb20)
 
 ## Agenda
 1. Opening, welcome and roll call
@@ -13,9 +11,24 @@
 1. Other agenda items
     1. _Submit a PR to add your item here_
 
+
+## Attendees
+
+| Attendee |
+|----------|
+| Alice    |
+| Bob      |
+
 ## Notes
 
-### Attendees
+### JCO
 
-### Notes
+- notes related to `jco` go here
 
+### SpiderMonkey
+
+- notes related to SpiderMonkey go here
+
+### Node WASI subgroup
+
+- notes related to Node WASI subgroup go here
