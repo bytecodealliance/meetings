@@ -32,7 +32,7 @@ Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#na
 *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
 
 **Where**: On Zoom, please see the zip file containing the ICS meeting invites for details:
-[SIG EmbeddedMeetingDetails.zip](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG EmbeddedMeetingDetails.zip)
+[SIGEmbeddedMeetingDetails.zip](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIGEmbeddedMeetingDetails.zip)
 
 ## Attending
 
