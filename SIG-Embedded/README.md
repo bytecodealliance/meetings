@@ -17,26 +17,25 @@ A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedde
 
 Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules. The following table illustrates the next up coming meetings.
 
-| Day                            | Europe & Asia Pacific                                        | Asia Pacific & US                                            | US & Europe                                                  |
-| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Tuesday, 25th June 2024        | 10 am CEST / 4 pm CST                                        |                                                              |                                                              |
-| Tuesday, 9th July 2024         |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
-| Tuesday, 23rd July 2024        |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
-| Tuesday, 6th August 2024       | 10 am CEST / 4pm CST                                         |                                                              |                                                              |
-| Tuesday, 20th August 2024      |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
-| Tuesday, 3rd Sept 2024         |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
-| Tuesday, 17th Sept 2024        | 10 am CEST / 4pm CST                                         |                                                              |                                                              |
-| Tuesday, 1st Oct 2024          |                                                              | 8am CST / 8pm EDT*$*                                         |                                                              |
-| Tuesday, 15th Oct 2024         |                                                              |                                                              | 11am EDT / 5pm CEST                                          |
-| ***.ics Placeholder Calendar** | [Blocker](./ics-calendar-blockers/SIG-Embedded-EuropeandAsiaPacific.ics) | [Blocker](./ics-calendar-blockers/SIG-Embedded-AsiaPacificandUSA.ics) | [Blocker](./ics-calendar-blockers/SIG-Embedded-USAandEurope.ics) |
+| Day                       | Europe & Asia Pacific | Asia Pacific & US    | US & Europe         |
+| ------------------------- | --------------------- | -------------------- | ------------------- |
+| Tuesday, 25th June 2024   | 10 am CEST / 4 pm CST |                      |                     |
+| Tuesday, 9th July 2024    |                       | 8am CST / 8pm EDT*$* |                     |
+| Tuesday, 23rd July 2024   |                       |                      | 11am EDT / 5pm CEST |
+| Tuesday, 6th August 2024  | 10 am CEST / 4pm CST  |                      |                     |
+| Tuesday, 20th August 2024 |                       | 8am CST / 8pm EDT*$* |                     |
+| Tuesday, 3rd Sept 2024    |                       |                      | 11am EDT / 5pm CEST |
+| Tuesday, 17th Sept 2024   | 10 am CEST / 4pm CST  |                      |                     |
+| Tuesday, 1st Oct 2024     |                       | 8am CST / 8pm EDT*$* |                     |
+| Tuesday, 15th Oct 2024    |                       |                      | 11am EDT / 5pm CEST |
 
 *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
 
-**Where**: On Zoom, with details and a meeting link forthcoming here.
+**Where**: On Zoom, please see the [zip file containing the ICS meeting invites for details]().
 
 ## Attending
 
-To get the passcode to attend, please reach out to the  [Embedded Stream on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded).
+Feel free to reach out to the  [Embedded Stream on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) if you have any questions or concerns.
 
 ## Agendas and Notes
 
