@@ -17,5 +17,37 @@
 
 ### Attendees
 
+- fitzgen
+- elliottt
+- alexcrichton
+- abrown
+- cfallin
+
 ### Notes
+
+- Updates
+  - abrown: trying to make shared-everything threads work in wasmtime; no
+    Cranelift updates
+  - elliottt: no Cranelift updates; last meeting (leaving Fastly after next
+    week)
+  - alexcrichton: 128-bit arithmetic: plan to try to move it to phase 2 at
+    beginning of October
+  - cfallin: reviewing code
+    - isle-veri: almost in
+    - RA2: Jakob Doka has a nice speedup with reusing allocations; will review
+      and hopefully get it in
+  - fitzgen:
+    - chat with docs folks; triaging Zulip, regular questions, could we
+      update docs
+    - WasmGC almost done
+
+- fitzgen: MemFlags and trap codes
+  - right now: we pack trap codes into MemFlags
+  - CL defines its own trap code enum; Wasmtime defines its own
+  - should CL have trap codes? probably not: carry through an index instead
+    - cfallin: like how we handle symbols, etc today -- CL is agnostic to
+      embedding's notion, just has an index space
+    - alexcrichton: make it a u8, we can fit that entirely in MemFlags
+
+- alexcrichton: remove cranelift-wasm as a separate layer?
 
