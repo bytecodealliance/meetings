@@ -17,5 +17,31 @@
 
 ### Attendees
 
+- fitzgen
+- avanhatt
+- elliottt
+- alexcrichton
+- uweigand
+- cfallin
+- abrown
+
 ### Notes
 
+- alexcrichton:
+  - removed wasmtime-specific trap codes; now it's a u8 index with some
+    reserved values
+  - merged cranelift-wasm into wasmtime-cranelift; cascaded into some wasmtime
+    cleanups too
+- elliottt: no updates
+- uweigand: no updates
+  - overflow ops: someone doing them for s390x, neat
+- avanhatt: merging isle-veri: failed parser ISA-spec test
+  - fails on main too; will file an issue
+- cfallin: no updates
+- abrown: no updates
+- fitzgen: 
+  - thinking ahead to optimizations spawned by WasmGC; filed some issues
+  - optimizing trapping insts in the mid-end; issue filed describing how to do
+    it by jameysharp, just need to implement
+  - generalizing alias-analysis regions: from a few named regions to a
+    user-managed index
