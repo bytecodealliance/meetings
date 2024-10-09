@@ -14,7 +14,8 @@
 1. Other agenda items
     1. _Submit a PR to add your item here_
     2. Discuss connect-four example from plumbers summit
-    3. (last) zulip triage for docs
+    3. Recap of recent security issues (@alexcrichton)
+    4. (last) zulip triage for docs
 
 ## Notes
 
