@@ -18,7 +18,7 @@
 * Christof Petig (Aptiv)
 * Stephen Berard (Atym)
 * Ralph Squillace (Microsoft)
-* Max
+* Max Seidler (Siemens)
 * Marcin Kolny (Amazon)
 
 ## Notes
