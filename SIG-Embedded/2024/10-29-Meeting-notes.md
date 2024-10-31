@@ -50,5 +50,5 @@
 
 ## Action Items
 * [ ] Dominik to merge PR
-* [ ] Stephen to add agenda item to WASI CG meeting regarding wasip2-module work
+* [X] Stephen to add agenda item to WASI CG meeting regarding wasip2-module work
 
