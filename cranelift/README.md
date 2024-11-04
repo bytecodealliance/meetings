@@ -10,7 +10,7 @@ The Cranelift project holds weekly meetings, and we welcome all interested parti
 
 ## Attending
 
-To attend, please email <cfallin@fastly.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift).
+To attend, please email <fitzgen@gmail.com>, or reach out [on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift).
 
 ## Agendas and notes
 
