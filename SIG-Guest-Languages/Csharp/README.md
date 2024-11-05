@@ -4,8 +4,8 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 
 ## Time and Location
 
-**When**: every other Tuesday at 8:15am PST (5:15pm CET)
-**Where**: Google Meet (https://meet.google.com/qsi-giid-vib)
+**When**: every other Wed at 8:00am PST (5:15pm CET)
+**Where**: Zoom [calendar invite](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dDNyMG1uMTFqdXA1MG9raWh0YzdvZ2MzNnVfMjAyNDExMTNUMTYwMDAwWiBldmVudHNAYnl0ZWNvZGVhbGxpYW5jZS5vcmc&tmsrc=events%40bytecodealliance.org&scp=ALL)
 
 ## Attending
 
