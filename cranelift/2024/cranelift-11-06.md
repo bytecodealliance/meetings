@@ -17,5 +17,23 @@
 
 ### Attendees
 
+- cfallin
+- alexcrichton
+- avanhatt
+- mmcloughlin
+- fitzgen
+- abrown
+- Rahul
+
 ### Notes
 
+- Updates
+  - mccloughlin: new verification effort found a bug! trapping on `INT_MIN` for
+    sdiv 8-bit case on aarch64. Not reachable from Wasmtime or `cg_clif`. Not
+    security issue. Shows verifier can reason about traps, flags, etc.
+  - avanhatt: that bug, and also getting FP verification to work
+  - abrown: no updates
+  - Rahul: no updates
+  - alexcrichton: no updates
+  - cfallin: no updates
+  - fitzgen: no updates
