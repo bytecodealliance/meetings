@@ -4,8 +4,8 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 
 ## Time and Location
 
-**When**: every other Thursday at noon PST (3pm EST)
-**Where**: Jitsi (link in calendar invite)
+**When**: second Thursday of each month at noon PST (3pm EST)
+**Where**: [Zoom](https://zoom.us/j/3385977601?pwd=UjJhYWh1MW5RTHg5eE9JTGV4UksrUT09)
 
 ## Attending
 
