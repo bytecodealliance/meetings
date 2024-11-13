@@ -17,5 +17,11 @@
 
 ### Attendees
 
+- cfallin
+- abrown
+- jlbirch
+
 ### Notes
 
+- abrown: Discussion about new assembler (generated from an instruction
+  definition DSL)
