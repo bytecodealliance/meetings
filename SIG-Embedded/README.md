@@ -15,20 +15,7 @@ A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedde
   3. **US and Europe Meeting**
      11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China
 
-Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules. The following table illustrates the next up coming meetings.
-
-| Day                       | Europe & Asia Pacific | Asia Pacific & US    | US & Europe         |
-| ------------------------- | --------------------- | -------------------- | ------------------- |
-| Tuesday, 25th June 2024   | 10 am CEST / 4 pm CST |                      |                     |
-| Tuesday, 9th July 2024    |                       | 8am CST / 8pm EDT*$* |                     |
-| Tuesday, 23rd July 2024   |                       |                      | 11am EDT / 5pm CEST |
-| Tuesday, 6th August 2024  | 10 am CEST / 4pm CST  |                      |                     |
-| Tuesday, 20th August 2024 |                       | 8am CST / 8pm EDT*$* |                     |
-| Tuesday, 3rd Sept 2024    |                       |                      | 11am EDT / 5pm CEST |
-| Tuesday, 17th Sept 2024   | 10 am CEST / 4pm CST  |                      |                     |
-| Tuesday, 1st Oct 2024     |                       | 8am CST / 8pm EDT*$* |                     |
-| Tuesday, 15th Oct 2024    |                       |                      | 11am EDT / 5pm CEST |
-
+Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules.
 *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
 
 **Where**: On Zoom, please see the zip file containing the ICS meeting invites for details:
