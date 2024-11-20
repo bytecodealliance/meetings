@@ -17,5 +17,31 @@
 
 ### Attendees
 
+- alexcrichton
+- avanhatt
+- abrown
+- cfallin
+
 ### Notes
 
+Updates
+- alexcrichton: looking at Pulley
+- abrown: new assembler. Working through integration with ISLE. Also nervous
+  about amount of work.
+  - Might need more help; from verification folks maybe?
+- avanhatt:
+  - verification project did not submit to PLDI; thinking through next
+    steps.
+  - Might be interested in helping with assembler work.
+  - Have a student interested in working on mid-end verification. Mismatch: mid-end CLIF terms
+    have type as argument. Can we update ISLE backends to include this? (Yes, in
+    favor).
+- cfallin: isle-in-source-tree feature
+  - https://github.com/bytecodealliance/wasmtime/issues/9625
+  - per bjorn3: was enabled by Wasmer unconditionally, caused folks' cargo cache
+    directories to get this ISLE source path that was only ever supposed to be used in
+    a local dev tree
+  - let's remove the feature
+
+- alexcrichton: in Pulley, thinking of using macro that generates instruction
+  definition to generate ISLE too
