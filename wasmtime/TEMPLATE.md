@@ -1,4 +1,4 @@
-# {month} {day} project call
+# {month} {day} | Wasmtime Project Bi-Weekly
 
 **See the [instructions](../README.md) for details on how to attend**
 
@@ -14,8 +14,15 @@
 1. Other agenda items
     1. _Submit a PR to add your item here_
 
+## Attendees
+
+| Attendee |
+|----------|
+| Alice    |
+| Bob      |
+
 ## Notes
 
-### Attendees
+### First Topic
 
-### Notes
+- Some notes related to the topic
