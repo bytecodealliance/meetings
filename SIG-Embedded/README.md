@@ -15,15 +15,14 @@ A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedde
   3. **US and Europe Meeting**
      11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China
 
-Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules.
-*$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
+Please see the [SIG-Embedded channel](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) on the Bytecode Alliance Zulip for up to date information on meeting schedules. The *.ics calendar files can be found in the [ics-calendar-blockers zip file](./ics-calendar-blockers/SIGEmbeddedMeetingDetails.zip), and should contain the necessary Zoom meeting details. 
 
 **Where**: On Zoom, please see the zip file containing the ICS meeting invites for details:
 [SIGEmbeddedMeetingDetails.zip](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIGEmbeddedMeetingDetails.zip)
 
 ## Attending
 
-Feel free to reach out to the  [Embedded Stream on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) if you have any questions or concerns.
+Participation in this meetings is encouraged, and you don't need to be a member of the Bytecode Alliance to take part. We'd love to see you on the call. Feel free to reach out to the  [Embedded Stream on Zulip](https://bytecodealliance.zulipchat.com/#narrow/stream/438936-SIG-Embedded) if you have any questions or concerns.
 
 ## Agendas and Notes
 
