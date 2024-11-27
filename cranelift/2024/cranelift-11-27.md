@@ -17,5 +17,15 @@
 
 ### Attendees
 
+- mmcloughlin
+- saulcabrera
+- cfallin
+
 ### Notes
 
+- Updates
+  - mmcloughlin: no updates
+  - saulcabrera:
+    - trying to finish aarch64 support in Winch; also epochs
+    - Jeff will look at SIMD in next few weeks
+  - cfallin: no updates
