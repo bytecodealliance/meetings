@@ -12,7 +12,11 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. Making Wasmtime a Bytecode Alliance [Core Project](https://github.com/bytecodealliance/governance/blob/main/TSC/core-and-hosted-projects.md#applying-for-promotion-from-hosted-project-to-core-project)
+        1. [Draft proposal](https://hackmd.io/@tschneidereit/S1e46RdXQye/edit)
+    2. Should we have an issue triage process to further improve response/resolution times?
+    3. Should we have a `cargo vet` triage process to ensure our dependencies don't go too stale?
+    2. _Submit a PR to add your item here_
 
 ## Notes
 
