@@ -53,15 +53,77 @@
          * Is there ever a use case were one embedded realtime device sends code to another embedded realtime device for execution? - Seems pretty rare (though plausible)?
 1. Other agenda items
     1. _Submit a PR to add your item here_
-
 ## Attendees
 
-* TODO
+* Chris Woods (Siemens)
+* Stephen Berard (Atym)
+* Christoph Petig (Aptiv)
+* Luke Wagner (Fastly)
+* Thomas Trenner (Siemens)
+* Dan Mihai Dumitriu (Midokura)
+* Ron Evans (The Hybrid Group)
+* Marcin Kolny (Amazon)
+* Emily Ruppel (Bosch)
+* Mendy
 
 ## Notes
 
-* TODO
+1. WasmCon Downloads
+    1. Lots of new attendees, ARM, margo consortium,...
+    2. Component model looks great, but need to figure out how it applies to
+      embedded devices.
+    3. Memory sharing : conversation with Renderlet in progress-- more a
+    core Wasm concern than WASI. Goal: give feedback before implementation is
+    rendered on Shared memory, async functions, stack switching, threading.
+    3. Presentation on wasm2c on Zephyr for binary size reduction and shrinking
+    runtime overhead. Footprint = 10s to 100s of bytes.
+    4. Caller provided buffers need to be unified with WASI 0.3 buffers
+    5. Questions about portability-- how much do we care about portability
+    across runtimes? Conclusion is we care somewhat. WAMR continues to be a
+    focus, but compatibility to other runtimes for tooling is importability.
+
+2. Quick Threading discussion
+    1. Marcin is using WASI-threads in production
+    2. Luke pointed out that WASI-threads has terrible performance, so the
+    proposed Wasm threads fixes that, trouble is this requires lots of toolchain
+    work.
+    3. Developers of core wasm threading are looking for use cases/requirements
+    from E-SIG
+
+3. Interfaces discussion
+    1. Idea: is there a post-processing step to unwrap a component that would
+    allow WAMR to call that code.
+      - Problem: how do you deal with new types introduced by the component
+        model?
+      - Could you implement that part in the Wasm code as an adapter? This
+        becomes the component developers responsibility as opposed to the
+        runtime's responsibility
+      - Need tooling to spare the developer this work
+    2. Christoph's take: shared everything can be highly optimized, but limited
+    sharing with shared buffers, etc, will require WASI 0.3
+    3. Fastly already doesn't use a JIT in the fleet, they do an AOT compilation
+    for all of the ISAs on the machines they support, i.e., a high degree of
+    ahead-of-time optimization does make sense-- don't rely on the JIT for
+    everything.
+    4. Using WIT without the full component model for computer vision. Toolchain
+    could improve, but it's a reasonable approach. Pattern is workable for
+    embedded linux. More details [here](https://wasmcv.org/)
+    5. Question: is there a way to hint which languages are on either side of a
+    component so you can optimize?
+      - Shared everything linking groups components together.
+      - See details
+        [here](https://github.com/WebAssembly/component-model/blob/main/design/mvp/Linking.md)
+      - Trouble is linking modules that aren't explicitly intended to share
+        memory is likely to go wrong because of slight toolchain incompatibilities
+      - Question: how does interop from C and Rust work?
+        - Answer: it's done intentionally at compile time _and_ Rust is designed
+          to work well with C/C++.
+        - Points for WIT: wit-bindgen hides the unsafe code you typically need
+          to work across Rust and C and was equally performant
+        - Can also use flat data types of some kind that (again) are pre-agreed
+          upon
 
 ## Action Items
 
-* [ ] TODO
+* [ ] (Chris Woods) Translate shared memory email chain to github issue
+* [ ] (Chris Woods) Create github issue for "WIT-able" C/C++ interfaces
