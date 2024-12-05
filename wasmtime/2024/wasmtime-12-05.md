@@ -23,4 +23,44 @@
 
 ### Attendees
 
+* Joel Dice
+* Alex Crichton
+* Nick Fitzgerald
+* Till Schneidereit
+* Andrew Brown
+* Victor Adossi
+* Mark R
+* Chris Fallin
+* Saul Cabrera
+* Dan Gohman
+* Danny
+* Roman Volosatovs
+* Kate Goldenring
+* Yordis Prieto
+
 ### Notes
+
+* Till: Promote Joel Dice to a reviewer?
+  * (general consensus to promote Joel)
+* Wasmtime draft application for becoming a BA core project
+  * Background: TSC has defined the standards for what it means to be a BA core
+    project. Currently there are only hosted projects, but now hosted projects
+    can apply for promotion to a core project. Core projects are the "flagship"
+    projects of the BA. Core projects gain a representative on the TSC.
+  * Till: I've written a draft application w/ help and feedback from Alex and
+    Nick. Would like to go over it here, and unless there are serious
+    reservations, submit it to the TSC.
+  * (Walking through draft together as a group)
+    * Discussion of issue triage process
+      * Nick: We started doing some issue triage for the purposes of identifying
+        missing docs, how do people like doing general issue triage and response
+        at the same time? And doing this at the end of each Wasmtime meeting,
+        after scheduled agenda items?
+      * (general consensus to try this out)
+      * (Nick to formalize this process by adding a recurring item to the agenda)
+* Joel: updates on async and component model streams prototype for Wasmtime and
+  the associated RFC
+  * most of the prototype is complete
+  * would like to give a synchronous zoom overview of the RFC and
+    implementation with an eye towards people who will be reviewing this stuff
+  * ping Joel on zulip for an invite
