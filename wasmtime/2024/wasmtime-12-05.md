@@ -16,6 +16,7 @@
         1. [Draft proposal](https://hackmd.io/@tschneidereit/S1e46RdXQye/edit)
     2. Should we have an issue triage process to further improve response/resolution times?
     3. Should we have a `cargo vet` triage process to ensure our dependencies don't go too stale?
+    4. (if time allows) Discuss state of [async support work](https://github.com/bytecodealliance/rfcs/pull/38) and next steps.
     2. _Submit a PR to add your item here_
 
 ## Notes
