@@ -11,7 +11,8 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
+    1. tintoedoardo: supporting checkpoint and restore in Cranelift (aiming for live migration of components). 
+    2. _Submit a PR to add your item here_
 
 ## Notes
 
