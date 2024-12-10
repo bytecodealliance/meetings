@@ -52,14 +52,20 @@ def main():
 
 
     for i in range(0, int(args.num)):
-        d = start + timedelta(days=i * int(args.frequency))
+        date = start + timedelta(days=i * int(args.frequency))
+        prev = date + timedelta(days=-i * int(args.frequency))
 
-        path = d.strftime(args.filename_template)
+        path = date.strftime(args.filename_template)
         directory = os.path.dirname(path)
         os.makedirs(directory, exist_ok=True)
 
         with open(path, 'w') as f:
-            agenda = template.format(month=d.strftime('%B'), day=d.strftime('%d'))
+            agenda = template.format(year=date.strftime('%Y'),
+                                     month=date.strftime('%B'),
+                                     day=date.strftime('%d'),
+                                     prev_year=prev.strftime('%Y'),
+                                     prev_month=prev.strftime('%m'),
+                                     prev_day=prev.strftime('%d'))
             f.write(agenda)
 
 if __name__ == '__main__':
