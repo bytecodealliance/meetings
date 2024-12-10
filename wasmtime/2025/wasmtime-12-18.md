@@ -1,4 +1,4 @@
-# December 19 | Wasmtime Project Bi-Weekly
+# December 18 | Wasmtime Project Bi-Weekly
 
 **See the [instructions](../README.md) for details on how to attend**
 
