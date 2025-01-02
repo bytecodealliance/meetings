@@ -18,8 +18,14 @@
 
 ## Attendees
 
-* TODO
+* Nick Fitzgerald
+* Chris Fallin
+* Joel Dice
+* Andrew Brown
+* Bailey Hayes
 
 ## Notes
 
-* TODO
+* Brief discussion about efficiency of using fuel
+* Brief discussion about existing benchmarks
+* Brief discussion about new contributors and Wasm proposals
