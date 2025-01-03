@@ -1,9 +1,7 @@
 # January 7th 2025 SIG-Embedded Meeting
 
-## Asia Pacific and US Timzone meeting
-
-**8am China, 8pm US East Coast *$*, 7pm US Central *$*, 5pm US Pacific *$*, 2am Central European Time**
-**NB:** *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
+## US and Europe Timzone meeting
+** 11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China **
 
 **See the [instructions](../README.md) for details on how to attend**
 
