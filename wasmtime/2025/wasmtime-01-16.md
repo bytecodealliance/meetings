@@ -19,8 +19,26 @@
 
 ## Attendees
 
-* TODO
+* Nick Fitzgerald
+* Chris Fallin
+* Joel Dice
+* Alex Crichton
+* Till Schneidereit
+* James Sturtevant
+* Andrew Brown
+* Moh Robati
+* Simonas Kazlauskas
+* Saul Cabrera
+* Johnnie Birch
+* Dan Gohman
 
 ## Notes
 
-* TODO
+* Andrew: given that Wasmtime may soon become a core project and gain a TSC
+  representative, how should we, as a project, choose who that representative
+  will be?
+  * (agreement that the `@wasmtime-core` team members should choose someone by
+    consensus, and if consensus-finding reaches an impasse, then via voting)
+* Alex: demo of pulley profiler
+  * (discussion of pulley performance, CLIF's RISC-y-ness, perf counters,
+    etc...)
