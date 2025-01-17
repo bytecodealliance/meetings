@@ -8,7 +8,7 @@ TSC composition, role, and scope are defined in its [charter](https://github.com
 
 ## Time and Location
 
-**When**: every Tuesday at 11am US Pacific Time 
+**When**: every Tuesday at 11am US Pacific Time  
 **Where**: On video via Zoom  
 
 ## Attending
