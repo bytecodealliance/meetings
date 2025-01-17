@@ -8,12 +8,11 @@ TSC composition, role, and scope are defined in its [charter](https://github.com
 
 ## Time and Location
 
-**When**: every Tuesday at 10am PST  
+**When**: every Tuesday at 11am US Pacific Time  
 **Where**: On video via Zoom  
 
 ## Attending
 TSC membership is currently defined as three delegates elected by Recognized Contributors and an appointed delegate from each Core project. The TSC receives operational support from the Bytecode Alliance Executive Director.
-
 
 ## Meeting Notes
 
