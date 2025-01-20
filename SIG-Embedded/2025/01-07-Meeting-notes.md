@@ -65,8 +65,8 @@
 
 * Three phases for shared memory implementation:
 
-  1. Mapping shared memory into an address space of the module
-  2. (?) Implementing subpartitioning of the memory
+  1. Mapping shared memory simultaneously into the address space of several modules
+  2. Implementing subpartitioning of the memory (parts readable, parts writable)
   3. Handling mutual access to parts of the memory
 
 * Basically there are two different approaches to shared memory design
