@@ -22,4 +22,4 @@
 
 ## Notes
 
-* TODO
+* Mendy Berger: Discuss adding wasi-gfx support in Wasmtime.
