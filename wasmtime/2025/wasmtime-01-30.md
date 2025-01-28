@@ -10,6 +10,7 @@
    1. Please help take notes.
    1. Thanks!
 1. Announcements
+   1. Oscar Spencer: Bytecode Alliance core project proposal update
    1. _Submit a PR to add your announcement here_
 1. Other agenda items
    1. Mendy Berger: Discuss adding wasi-gfx support in Wasmtime.
