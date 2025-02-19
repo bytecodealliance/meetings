@@ -17,5 +17,17 @@
 
 ### Attendees
 
+- erikrose
+- alexcrichton
+- cfallin
+- Rahul Chaphalkar
+
 ### Notes
 
+- Updates
+  - erikrose: looking at RA3; lots of assertion failures in filetests
+    - cfallin: I know things were working at least as far as running
+      benchmarks; not sure if Amanieu got test suite passing
+  - alexcrichton: took a look at x64 assembler, have some feedback/thoughts
+  - Rahul: working on new assembler with abrown, trying to add instructions
+  - cfallin: no Cranelift updates
