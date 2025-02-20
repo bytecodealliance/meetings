@@ -1,6 +1,7 @@
 # {month} {day}, {year} | [JavaScript subgroup (BA Guest Languages SIG)](https://www.google.com/calendar/event?eid=NmQ0NzY0cW9hYXFsc3FiaW41YjBxOGpyc21fMjAyNDA4MDdUMTcwMDAwWiBjYWx2aW5AamFmbGFicy5jb20)
 
 ## Agenda
+
 1. Opening, welcome and roll call
     1. Note: meeting notes linked in the invite.
     1. Please help add your name to the meeting notes.
@@ -11,7 +12,6 @@
 1. Other agenda items
     1. _Submit a PR to add your item here_
 
-
 ## Attendees
 
 | Attendee |
@@ -21,14 +21,18 @@
 
 ## Notes
 
+### StarlingMonkey
+
+- Notes related to StarlingMonkey go here
+
+### ComponentizeJS
+
+- Notes related to `componentize-js` go here
+
 ### JCO
 
-- notes related to `jco` go here
-
-### SpiderMonkey
-
-- notes related to SpiderMonkey go here
+- Notes related to `jco` go here
 
 ### Node WASI subgroup
 
-- notes related to Node WASI subgroup go here
+- Notes related to Node WASI subgroup go here
