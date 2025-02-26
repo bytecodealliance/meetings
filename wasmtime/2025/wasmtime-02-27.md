@@ -14,6 +14,7 @@
 1. Other agenda items
    1. Post-mortem of https://github.com/bytecodealliance/wasmtime/issues/10184 (alexcrichton)
    1. Explore options for contracted work (Bailey, [table])
+   1. Please review [LTS RFC](https://github.com/bytecodealliance/rfcs/pull/42) at your leisure (alexcrichton)
    1. _Submit a PR to add your item here_
 1. Issue Triage
    * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2024-12-19)
