@@ -17,7 +17,7 @@ To receive additional notifications and interact with the community, join the [B
 **Where**: Meeting details (including calendar invites) are accessible through the [Bytecode Alliance shared Calendar][bca-cal]
 
 > [!NOTE]
-> If SIG Guest Languages meetings are not visible on the BCA calendar for you, ensure you have joined the [BCA Guest Language Google Group][bca-google-group]
+> If SIG Guest Languages meetings are not visible on the BCA calendar for you, ensure you have joined the [BCA Guest Languages Google Group][bca-google-group]
 
 [bca-cal]: https://calendar.google.com/calendar/u/0/embed?src=events@bytecodealliance.org
 
