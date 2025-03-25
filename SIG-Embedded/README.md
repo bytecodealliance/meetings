@@ -28,33 +28,27 @@ The links to the zoom calls are in the calendar invites that we publish, there i
   The Tuesdays upon which no WASM CG Meetings occur - to avoid any clashes. This is roughly every 2nd, and 4th Tuesday of the month. Actual dates are available in the `*.ics` files or via the placeholder meeting notes in the GitHub repository.
   
 * **When:** A rotating schedule matching time zones around the world:
-  1. **Europe and Asia Pacific Meeting**
-     10am Central European Time, 4pm in China, 3am US East Coast
+  1. **Europe and Asia Pacific Meeting**  
+     10am Central European Time, 4pm in China, 3am US East Coast  
+     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-Europe-and-Asia-Pacific.ics)  
+     **Where:** Zoom : https://zoom.us/j/93639912948?pwd=DDgBmB07arubO6V7KGFc8aQPnmoyn4.1   
+     **Meeting ID :** 936 3991 2948  
+     **Passcode :** 930532  
   
-     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-Europe-and-Asia-Pacific.ics)
-     **Where:** Zoom : https://zoom.us/j/93639912948?pwd=DDgBmB07arubO6V7KGFc8aQPnmoyn4.1 
-     **Meeting ID :** 936 3991 2948 
-     **Passcode :** 930532 
-  
-  2. **Asia Pacific and US Meeting** *$*
-     8am China, 8pm US East Coast *$*, 7pm US Central *$*, 5pm US Pacific *$*, 2am Central European Time
-     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-Asia-Pacific-and-USA.ics)
-  
-     **Where:** Zoom : https://zoom.us/j/97689820876?pwd=FFeZqrbu8spPATDMgIeOyg9uGyPl2N.1 
-  
-     **Meeting ID:** 976 8982 0876 
-  
-     **Passcode:** 716810 
+  2. **Asia Pacific and US Meeting** *$*  
+     8am China, 8pm US East Coast *$*, 7pm US Central *$*, 5pm US Pacific *$*, 2am Central European Time  
+     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-Asia-Pacific-and-USA.ics)  
+     **Where:** Zoom : https://zoom.us/j/97689820876?pwd=FFeZqrbu8spPATDMgIeOyg9uGyPl2N.1   
+     **Meeting ID:** 976 8982 0876   
+     **Passcode:** 716810   
      **NB:** *$* - Due to the international date line, 8am on Tuesday, is late Monday evening in the USA
   
-  3. **US and Europe Meeting**
-  
-     11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China
-  
-     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-USA-and-Europe.ics)
-     **Where:** Zoom : https://zoom.us/j/91989414324?pwd=5j98YEt07hDpYyxV8SI4PctClo9Mtn.1 
-     **Meeting ID:** 919 8941 4324 
-     **Passcode :** 268726 
+  3. **US and Europe Meeting**  
+     11am US East Coast, 10am US Central, 8am US Pacific, 5pm Central European Time, 11pm China  
+     [**Link to the ICS File**](https://github.com/bytecodealliance/meetings/blob/main/SIG-Embedded/ics-calendar-blockers/SIG-Embedded-USA-and-Europe.ics)  
+     **Where:** Zoom : https://zoom.us/j/91989414324?pwd=5j98YEt07hDpYyxV8SI4PctClo9Mtn.1  
+     **Meeting ID:** 919 8941 4324  
+     **Passcode :** 268726  
 
 ## Live chat and Q&A
 ### Discussions outside the Meetings
