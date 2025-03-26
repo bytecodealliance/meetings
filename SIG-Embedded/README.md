@@ -2,15 +2,15 @@
 
 ### Welcome
 
-A meeting for the the Bytecode Alliance Special Interest Group (SIG) for Embedded and Industrial Applications [(SIG-Embedded)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-embedded). This special interest group, like all Bytecode Alliance special interest groups is open to the public. You do not need to be a member of the Bytecode Alliance to come along and join our meetings. All of our meetings are conducted virtually via Zoom calls. 
+Welcome to the meeting schedules for the the Bytecode Alliance Special Interest Group (SIG) for Embedded and Industrial Applications [(SIG-Embedded)](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-embedded). This special interest group, like all Bytecode Alliance special interest groups is open to the public. You do not need to be a member of the Bytecode Alliance to come along and join our meetings. All of our meetings are conducted virtually via Zoom calls. 
 
 ### World Wide Time Zone Coverage
 
-In order to ensure our meetings are as open as possible we run time in 3 time-zones so we can cover as much of the globe as possible. The meeting rotate every 6 weeks and cover Europe + Asia Pacific, Asia Pacific + Americas, and finally a meeting which is Americas + Europe. Come along to the meetings which work for your time zone.
+In order to ensure our meetings are as open as possible we run them in 3 time-zones so we can cover as much of the globe as possible. The meetings rotate every 6 weeks and cover Europe + Asia Pacific, Asia Pacific + Americas, and finally a meeting which is Americas + Europe. Please do come along to the meetings which work best for your time zone.
 
 ### Adding Agenda Items - Raising a Topic for Discussion / Introductions 
 
-You are more than welcome to raise a topic for discussion, in fact it is encouraged that you do. If you are new to the group please feel free to introduce yourself. We pre-publish empty / placeholder meeting notes for future meetings in our Github repository, if you'd like to add a point for discussion create modify the future meeting placeholder and add your items to the agenda, then submit that as a pull request.
+You are more than welcome to raise a topic for discussion, in fact it is encouraged that you do. If you are new to the group please feel free to introduce yourself. We pre-publish empty / placeholder meeting notes for future meetings in our Github repository, if you'd like to add a point for discussion simply modify the future meeting placeholder and add your items to the agenda, then submit that as a pull request.
 
 ### Meeting Notes and YouTube Recordings
 
