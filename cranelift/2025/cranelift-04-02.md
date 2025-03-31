@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. [Discussion of multi-value returns](https://github.com/bytecodealliance/wasmtime/issues/10488)
     1. _Submit a PR to add your item here_
 
 ## Notes
