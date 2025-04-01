@@ -15,7 +15,7 @@
 
 ## Attendees
 
-* Marcin Kolney
+* Marcin Kolny
 * Thomas Trenner
 * Shiv Maddanimath
 * Ashish Shrikhande
