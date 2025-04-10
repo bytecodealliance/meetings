@@ -18,8 +18,15 @@
 
 ## Attendees
 
-* TODO
+* Chris Fallin
+* Alex Crichton
+* Nick Fitzgerald
+* Pat Hickey
+* Erik Rose
+* Paul Osborne
+* Dan Gohman
+* (more people who I didn't get a chance to write down in time)
 
 ## Notes
 
-* TODO
+* Erik Rose: we did some benchmarking to get the latest idea on overhead of enabling epochs vs nothing and it is about 14%. Starting to investigate using virtual memory for interruptions, this gives us an idea of our best-case throughput improvement.
