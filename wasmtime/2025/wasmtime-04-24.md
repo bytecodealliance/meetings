@@ -28,7 +28,7 @@
     - Nick: tricky due to abstraction layering
     - Nick: would be nice to define all modules then do lifts and lowers
     - Alex: exports make that tricky
-    - Nick: would to have a "type_of_this_export" operator
+    - Nick: would be nice to have a "type_of_this_export" operator
     - Alex: doesn't solve lowering case; need to define all types before lowing
     - Nick: meanwhile, will just have to duplicate types
 - Alex: C/C++ API now being tested in CI using e.g. GTest
