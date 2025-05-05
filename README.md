@@ -20,11 +20,11 @@ You can find the joining info for future meetings and notes for past meetings of
 
 * [SIG-Debugging](./SIG-Debugging) (bi-weekly)
 * [SIG-Documentation](./SIG-Documentation) (weekly)
-* [SIG-Guest-Languages](./SIG-Guest-Languages) (monthly)
+* [SIG-Guest-Languages](./SIG-Guest-Languages)
   * [Go Subgroup](./SIG-Guest-Languages/Go) (bi-weekly)
   * [JavaScript Subgroup](./SIG-Guest-Languages/JavaScript) (bi-weekly)
   * [Python Subgroup](./SIG-Guest-Languages/Python) (bi-weekly)
   * [C# Subgroup](./SIG-Guest-Languages/Csharp) (bi-weekly)
 * [SIG-Packaging](./SIG-Packaging) (weekly)
 * [SIG-Community](./SIG-Community) (first and third Tuesday of each month)
-* [SIG-Embedded](./SIG-Embedded) (meeting details to be announced)
+* [SIG-Embedded](./SIG-Embedded) (bi-weekly, rotating timezone)

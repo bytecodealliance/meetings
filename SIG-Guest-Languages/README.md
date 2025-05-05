@@ -12,8 +12,10 @@ To receive additional notifications and interact with the community, join the [B
 
 ## Time and location
 
-**When**: The first Tuesday of every month at 10 AM PT / 1 PM ET
+SIG Guest Languages does not have a recurring meeting. These may resume when needed,
+but for now the recurring meetings are in the language Subgroups.
 
+**When**: Subgroups have their own meeting schedules
 **Where**: Meeting details (including calendar invites) are accessible through the [Bytecode Alliance shared Calendar][bca-cal]
 
 > [!NOTE]
@@ -22,5 +24,6 @@ To receive additional notifications and interact with the community, join the [B
 [bca-cal]: https://calendar.google.com/calendar/u/0/embed?src=events@bytecodealliance.org
 
 ## Agendas and Notes
+
 The notes for past meetings will be posted in subdirectories for each year.
 To add something to the agenda, please follow the instructions in the meeting invite.
