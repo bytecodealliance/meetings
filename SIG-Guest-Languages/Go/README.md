@@ -13,11 +13,11 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 To attend please email:
 
 * Jiaxiao Zhou (jiazho@microsoft.com)
-* Achille Roussel (achille@stealthrocket.tech)
+* Damian Gryski (dgryski@fastly.com)
 
 ## Agendas and Notes
 
-Agendas and notes are posted in this Google [docs](https://docs.google.com/document/d/1QPnHQSaLX8gPDzcWcDYBqrPaL-UeGyKp1NLyvi2iWWg/edit#heading=h.mx9ludxxowrs)
+Agendas and notes are posted in this Google [docs](https://docs.google.com/document/d/1gpCjgl5F4SCX21FheIkQRse8hPm15Gxf2us8JkmThoU/edit?tab=t.0#heading=h.mx9ludxxowrs)
 
 ## Adding Agenda Items
 
