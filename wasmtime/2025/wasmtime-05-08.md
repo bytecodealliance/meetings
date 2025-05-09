@@ -24,7 +24,7 @@
  - Erik Rose
  - Nick Fitzgerald
  - Andrew Brown
- - Chris Falling
+ - Chris Fallin
  - Joel Dice
  - Pat Hickey
  - Saul Cabrera
