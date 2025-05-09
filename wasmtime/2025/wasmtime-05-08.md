@@ -135,7 +135,7 @@ disabled in libc.a or making a separate libc.a build without them?
 A discussion followed, and I was active in the discussion, so I didn't take
 real-time notes. Here's a summary:
 
-Lime1 was defined slightly optimisticly; we gave it features which aren't
+Lime1 was defined slightly optimistically; we gave it features which aren't
 completely universal yet, but which we believed shouldn't be a major burden
 for any implementation. For example, extended-const just adds 6 simple
 integer operations to implement for static initialization. And in return,
