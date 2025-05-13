@@ -81,12 +81,51 @@
 
 ## Attendees
 
-* TODO
+* Chris Woods
+* Stephen Berard
+* Ashish Shrikhande
+* Luke Wagner
+* Marcin Koln
+* Max S.
+* Michael Sanchez
+* Thomas Trenner
+* Emily Ruppel
+* Kailasnath Maneparambil
+* Rob Wooley
 
 ## Notes
 
-* TODO
+### Lime1
+ - There's a proposal to default WASI-SDK to target `Lime1`.  This could be an issue for runtimes such as WAMR which does not support all the features in `Lime1`, specifically, WAMR does not support "Extended Const".  There is an issue in GitHub requesting this (reference) but this is estimated to be a fairly large change for WAMR.
+ - This is not the only time we're going to see this.  WebAssembly will continue to move forward and there will be new features/options and we'll want to take some of these over time.  How do we handle this??
+ - Chris:  one way to would be to have the toolchain output a structured file with the enabled options.  This could be used to validate against a runtime.
+ - Stephen:  We're likley going to need to have separate releases for WASI P1 LTS and the latest WASI version.  Not necessarily separate codebases, but at least separate builds.  Perhaps one way to address this is to have a set of options we include in LTS which is inline with the LTS supporting runtimes.
+ - Stephen:  another option is that if "Extended Const" is the only thing not supported by existing runtimes (inc. WAMR). We could request that that specific feature be removed from Lime1
+ - Thomas:  this is not just a WASI-LIBC thing.  These options are things that would be enabled in the compiler (and likely be the defaults).  Thus this impacts both the LibC library AND the compiler.  Marcin:  it should be possible to disable some/all of these options in Clang / LLVM.
+
+### Action items for LTS
+- Need to get clear on what exactly we mean by LTS.  What features are included.  What is supported.
+- What is the duration of time for an LTS release?
+- Is there a list of platforms/OSes/architectures that will be supported?  Likely we'll have to limit this in some way.  Stephen suggested having a tiered system where Tier 1 is fully supported, Tier 2 is best effort, and everything else is not officially supported.
+- Things we need to put in place for LTS:
+  - Need to make sure all code submissions are permissable.  Do we need a contributor agreement/license.  Is the DCO sufficient or do we need anything else?
+  - Coding standards
+  - CI/CD builds, testing, validation
+  - CVE / Security process
+  - Which Wasm runtimes are supported
+  - Community best practices
+  - Principles on addressing problems; something we can use to resolve conflicts/make decisions/priorities.
+  - Documentation
+  - Debugging and observability
+
 
 ## Action Items
 
-* [ ] TODO
+* [ ] Chris / Stephen : Improve WASI-SDK Communication with E-SIG
+
+  * [ ] Reach out to Dan, meetings for the SDK? Invite to come to e-sig?
+  * [ ] How was Lime1 decided? visibility would help with planning?
+  * [ ] Build out a stakeholder map for the WASI-SDK, including the upstream clang, llvm, and google contributions
+
+* [X] Chris: Move the todo list items for the LTS into a google document :
+  https://docs.google.com/document/d/1FYaR_pBfO4QlHLVqxw597JCqyp6AhZm7vGd9OsD6Ocs/edit?usp=sharing
