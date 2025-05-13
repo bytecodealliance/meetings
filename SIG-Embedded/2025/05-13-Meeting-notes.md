@@ -47,7 +47,14 @@
     Also discussed on the wask-sdk repo here:
     
     * [lime1 by yamt · Pull Request #527 · WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk/pull/527)
-    * 
+    
+    It looks like Extended Const could be an issue for WAMR AOT: [extended-const/proposals/extended-const/Overview.md at main · WebAssembly/extended-const](https://github.com/WebAssembly/extended-const/blob/main/proposals/extended-const/Overview.md) 
+    
+    Suggestion from [Dan link that anyone not able to run lime1 should just build thier own libc](https://github.com/WebAssembly/wasi-sdk/pull/527#issuecomment-2847796171): 
+    
+    > > t's a valid solution. my feeling is it's app developers' choice which set of features it targets to though.
+    >
+    > Up to a point this is true, but we also what sensible defaults. Developers who want to target specs older than out defaults can/should be asked to rebuild libc themselves, right?
     
     2. **Outline a roadmap / to-do items for setting up LTS**
     
