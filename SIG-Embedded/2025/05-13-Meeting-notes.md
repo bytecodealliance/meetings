@@ -14,7 +14,7 @@
     1. _Submit a PR to add your announcement here_
     
 1. Other agenda items
-    1. There is a proposal from the [WasmTime team to update the WASI-SDK]([meetings/wasmtime/2025/wasmtime-05-08.md at main · bytecodealliance/meetings](https://github.com/bytecodealliance/meetings/blob/main/wasmtime/2025/wasmtime-05-08.md)
+    1. **Lime1 & WASI-SDK :** There is a proposal from the [WasmTime team to update the WASI-SDK]([meetings/wasmtime/2025/wasmtime-05-08.md at main · bytecodealliance/meetings](https://github.com/bytecodealliance/meetings/blob/main/wasmtime/2025/wasmtime-05-08.md)
     
     > Dan: Does anyone have opinions about wasi-libc and Lime1?
     >
@@ -39,10 +39,17 @@
     
     This appears to mean that the WASI-SDK would drop support (again?) for already deployed embedded runtimes?! - Is this going to be a significant impact for WAMR users? Was this discussed at the WAMR TSC meeting? Would it make sense of the E-SIG to fork the WASI -SDK to provide stability for existing runtimes, and provide a legacy SDK ?
     
-    There is a reference to this issue on the WAMR repo:
-    [Lime1 · Issue #4209 · bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/issues/4209)
+    There are references to this issue on the WAMR repo:
     
-    2. Outline a roadmap / to-do items for setting up LTS
+    * [Lime1 · Issue #4209 · bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/issues/4209)
+    * [extended-const · Issue #4272 · bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/issues/4272)
+    
+    Also discussed on the wask-sdk repo here:
+    
+    * [lime1 by yamt · Pull Request #527 · WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk/pull/527)
+    * 
+    
+    2. **Outline a roadmap / to-do items for setting up LTS**
     
        1. Definition of LTS?
     
