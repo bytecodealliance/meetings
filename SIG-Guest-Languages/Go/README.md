@@ -10,7 +10,12 @@ A meeting for [the Special Interest Group (SIG) on Guest Languages for Wasm, foc
 
 ## Attending
 
-To attend please email:
+Invites are managed by the [Go go-sg@bytecodealliance Google group][google-group] (See also the [BCA calendar][bca-cal]).
+
+[google-group]: https://groups.google.com/a/bytecodealliance.org/g/go-subgroup
+[bca-cal]: https://calendar.google.com/calendar/embed?src=events%40bytecodealliance.org
+
+If the above fails, please email:
 
 * Jiaxiao Zhou (jiazho@microsoft.com)
 * Damian Gryski (dgryski@fastly.com)
