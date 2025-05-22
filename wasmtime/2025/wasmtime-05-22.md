@@ -18,8 +18,30 @@
 
 ## Attendees
 
-* TODO
+* Chris Fallin
+* Paul Osborne
+* Erik Rose
+* Andrew Brown
+* Alex Chrichton
+* Arjun Ramesh
+* Dan Gohman
+* Khagan Karimov
+* Roman Volosatovs
 
 ## Notes
 
-* TODO
+Eric:
+* VM Tricks to make epochs faster
+* Approach:
+	* Inject instructions to poke (made) illegal address to trap
+	* Move on eventually to invalidating whole-stack
+* Looking forward to numbers
+* May be worth looking at async signals again carefully one more time
+* Chris: you can mmap an existing memory region again, might be a way to use this in order to avoid problems (maybe).  Boundaries need to remain the same (possibly pad out to keep the same with noops).  Could replace the code at runtime essentially.
+
+Chris:
+* Arjun/Khagan interns at F5 working on fuzzing and record/replay respectively
+
+Paul:
+* Taking on getting the stack switching work from the wasmfx folks across the finish line.
+
