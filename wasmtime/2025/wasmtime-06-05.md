@@ -14,6 +14,7 @@
 1. Other agenda items
    1. Internal crates and external usage -- https://github.com/rustsec/advisory-db/pull/1999 -- @alexcrichton
    2. Binary artifact compatibility - https://github.com/bytecodealliance/wasmtime/pull/10876 -- @alexcrichton
+   3. Compile-time builtins RFC -- https://github.com/bytecodealliance/rfcs/pull/43 -- @fitzgen
    1. _Submit a PR to add your item here_
 1. Issue Triage
    * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2024-12-19)
