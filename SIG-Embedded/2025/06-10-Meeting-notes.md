@@ -12,15 +12,18 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
-    1. _Submit a PR to add your item here_
-
+    1. Talk through brainstorming in [LTS google
+    doc](https://docs.google.com/document/d/1FYaR_pBfO4QlHLVqxw597JCqyp6AhZm7vGd9OsD6Ocs/edit?usp=sharing)
+    
 ## Attendees
 
-* TODO
+* Luke Wagner
+* Pete LeVasseur
+* Liang He
 
 ## Notes
 
-* TODO
+* Added notes in LTS google doc
 
 ## Action Items
 
