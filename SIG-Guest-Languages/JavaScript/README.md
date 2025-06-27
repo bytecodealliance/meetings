@@ -26,3 +26,7 @@ subdirectories for each year.
 
 To add something to the agenda for an upcoming meeting, open a pull request to
 modify the agenda.
+
+## Past Recorded meetings
+
+Meetings are recorded -- you can view recorded meetings onine on [Google Drive](https://drive.google.com/drive/folders/1cIM8ycC6gF707h8Nu383D6pWYxaqugvx?usp=sharing)
