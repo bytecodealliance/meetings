@@ -17,5 +17,34 @@
 
 ### Attendees
 
+* fitzgen
+* acrichto
+* erikrose
+* uweigand
+* cfallin
+
 ### Notes
+
+#### Status Updates
+
+* uweigand: not much but looking again into the crash for s390x with inline
+  assembly change. Wasn't able to reproduce natively, trying in QEMU. So far
+  unable to do so. Same ubuntu/qemu/etc.
+* acrichto: maybe compile settings?
+* uweigand: thought I got those, will recheck.
+* fitzgen: deterministic?
+* acrichto: seems so so far.
+* erikrose: none yet but going to start looking into VM-based epoch switching.
+* cfallin: no updates.
+* fitzgen: not much too cranelift-related but looking to ramp up on compile-time
+  builtins.
+* acrichto: no updates, but in lieu of abrown not being here all the x64
+  instructions are migrated now except conditional jumps and EVEX. EVEX is
+  underway too!
+* acrichto: conditional branches only affect `emit.rs` right now and not much
+  else so not too too pressing.
+* cfallin: would be nice to fill out though to have a complete assembler, and it
+  might also be able to delete the `WinchJmpIf` pseudo-instruction in ISLE
+  perhaps?
+* fitzgen: no more updates, have a good week all!
 
