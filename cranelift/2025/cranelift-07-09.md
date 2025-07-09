@@ -29,7 +29,8 @@
 
 - Updates
   - abrown: no updates
-  - bjorn3: PR for adding support to cranelift-module; looking into incremental cache
+  - bjorn3: PR for adding `#[used(linker)]` / `SHF_GNU_RETAIN` support to
+    cranelift-module; looking into incremental cache
   - Amanieu: regalloc3 has benchmarks, is done and ready for review
     - writing up design doc
     - cfallin: PRs for Cranelift, regalloc2 backend (already there), PR for
