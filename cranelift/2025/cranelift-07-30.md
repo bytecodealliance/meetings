@@ -17,5 +17,17 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* bjorn3
+* jlbirch
+* Alex Crichton
+
 ### Notes
 
+* Updates
+  * Alex:none
+  * bjorn3: none
+  * fitzgen: wasmtime is now using Cranelift's inlining infrastructure
+  * jlbirch: none
+* discussion about the `table_ops` fuzz target and mutation-based fuzzing
+  compared to generative-based fuzzing
