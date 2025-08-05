@@ -15,12 +15,48 @@
 
 ## Attendees
 
-* TODO
+* Merrill (Schneider)
+* Chris Woods (Siemens)
+* Dominik Tacke (Siemens)
+* Michael Sanchez
+* Andrew Brown
+* Luke Wagner
+* Ashish (Collins Aerospace)
+* Thomas Trenner (Siemens)
 
 ## Notes
+* TODO: I'm taking notes! Review earlier part
 
-* TODO
+* Question: how do we use the component model
+  * Is component model going to target verticals from other
+  * LTS is looking at hitting posix model
+  * Hold off on alignment between WASI-LTS and WASI p2..
+
+* Cross language interoperability
+  * google approach: in memory representation
+  * academic approach: formal verification
+  * could we use these to obviate lifting/lowering issues?
+    * Note: these were presented in totally different contexts (e.g., embedded JS runtime, with a GC)
+
+* Goals:
+  * Stability
+  * Turning on features in WASI clang target has been a problem
+  * goal is to control compiler toolchain
+
+* Lifting/lowering
+  * realloc is in progress
+  * < > go back and check
+
+* Conversation for plumber's summit
+  * < > go back and check
+  * Could intersect when LTS runs out
+  * Need concrete "needs"
+
+* Funding LTS
+  * Donate developer time
+  * Funding an organization that is good at LTS-type work
+    * Some initial discussions with RedHat and WindRiver
 
 ## Action Items
 
-* [ ] TODO
+* [ ] Shape up LTS (Chris Woods)
