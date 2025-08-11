@@ -26,3 +26,9 @@ modify the agenda.
 ## Live chat and Q&A
 
 Can't make it to the syncs? Chat and Q&A is in the Bytecode Alliance Zulip [SIG-Documentation stream](https://bytecodealliance.zulipchat.com/#narrow/stream/426461-SIG-Documentation).
+
+## Recordings
+
+Meetings are recorded, and can be found on YouTube, shortly after meetings occur:
+
+[YouTube Playlist](https://www.youtube.com/watch?v=KaE4i-lSHjo&list=PLdpcq7g42YhaQMJUVBbzq8WvH6SJtWTQi)
