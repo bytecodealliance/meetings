@@ -13,6 +13,7 @@
    1. _Submit a PR to add your announcement here_
 1. Other agenda items
    1. [Internally using `async` in Wasmtime](https://github.com/bytecodealliance/wasmtime/pull/11430) (@alexcrichton)
+   2. [PAGEMAP_SCAN](https://github.com/bytecodealliance/wasmtime/pull/11372) (@alexcrichton)
    1. _Submit a PR to add your item here_
 1. Issue Triage
    * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2024-12-19)
