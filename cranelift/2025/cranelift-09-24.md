@@ -24,7 +24,8 @@
 Status updates:
 - tshepang: just checking things out
 - bjorn3:
-  + working on stack load/stores, opened an issue that Chris immediately fixed (thanks!)
+  + working on stack load/stores
+  + Chris fixed a pre-existing issue that helps (thanks!)
   + also fixing some older issues
 - abrown:
   + working on extending the number of registers available from 16 to 32 (e.g., for AVX512, upcoming APX)
