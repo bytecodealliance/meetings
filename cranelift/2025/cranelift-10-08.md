@@ -17,5 +17,29 @@
 
 ### Attendees
 
+- erikrose
+- bjorn3
+- fitzgen
+- alexcrichton
+- Rahul
+- cfallin
+
 ### Notes
 
+- Updates
+  - Rahul: PR to merge SDE (emulator for new Intel instructions for CI)
+  - Rahul: no updates
+  - alexcrichton: no updates
+  - cfallin: merged debug tags in Cranelift; working on Wasmtime side of debug
+    now (PR up for instrumentation, currently traps-into-yields)
+  - erikrose: no updates
+  - jlbirch: no updates
+  - fitzgen: working on finishing compile-time builtins
+  - uweigand: Wasmtime repo enabled for GitHub Actions with native s390x
+    runners
+
+- (discussion about moving Wizer into Wasmtime)
+
+- fuzzing issues where CLIF interpreter's libcalls don't match Wasmtime's
+  - NaN canonicalization should always run -- seems like part of the frontend
+  - use the same libcall impls in all places (`wasmtime-math` crate)
