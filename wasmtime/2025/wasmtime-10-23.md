@@ -77,6 +77,6 @@
   - Nick: need new kind of PrimaryMap to use in this kind of situation
   - Alex: Rust has not standardized OOM recovery, but we can sidestep by controlling blast radius
   - Alex: worth looking at Rust for Linux; e.g. idioms and crates
-- Last old issue triaged: https://github.com/bytecodealliance/wasmtime/issues/1052
   - Joel: Erlang-style supervision trees with panic-unwind for blast radius?
   - Nick: alloc crate doesn't expect allocator to panic
+- Last old issue triaged: https://github.com/bytecodealliance/wasmtime/issues/1052
