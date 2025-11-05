@@ -44,9 +44,11 @@
     the host if other stores/instances also have access to a shared memory
 
 - Cranelift as a production rustc backend
-  - main issue is performance with unwinding enabled
+  - one main issue is performance with unwinding enabled
   - (discussion about performance implications of more blocks)
-  - bjorn3: 7% compile-perf impact with unwinding
+  - jorn3: 7% compile-perf impact with unwinding (but: this includes enabling
+    MIR and Cranelift optimizations; unclear what just unwinding does)
+  - other issues are ABI and SIMD vendor intrinsics
   - fitzgen: tried Cranelift inliner? bjorn3: no, haven't yet
   - bjorn3: rustc puts inlinable funcs in every codegen unit? possible to avoid
     maybe
