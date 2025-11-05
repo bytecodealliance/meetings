@@ -46,8 +46,7 @@
 - Cranelift as a production rustc backend
   - one main issue is performance with unwinding enabled
   - (discussion about performance implications of more blocks)
-  - jorn3: 7% compile-perf impact with unwinding (but: this includes enabling
-    MIR and Cranelift optimizations; unclear what just unwinding does)
+  - bjorn3: non-trivial but single digit end-to-end compile-perf impact with unwinding for cg_clif
   - other issues are ABI and SIMD vendor intrinsics
   - fitzgen: tried Cranelift inliner? bjorn3: no, haven't yet
   - bjorn3: rustc puts inlinable funcs in every codegen unit? possible to avoid
