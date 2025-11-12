@@ -17,5 +17,15 @@
 
 ### Attendees
 
+- alexcrichton
+- Rahul
+- cfallin
+
 ### Notes
 
+- Updates
+  - alexcrichton: no updates
+  - Rahul: no updates
+  - cfallin: debugging in Cranelit/Wasmtime: no progress this week (other
+    project) but getting back to it soon hopefully; private-code-copies next,
+    then patchable calls, then breakpoints
