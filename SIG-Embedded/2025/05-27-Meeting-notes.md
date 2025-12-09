@@ -38,7 +38,7 @@ General discussion to move the WASI LTS forward.
 
 * What platforms should be considered?
   * Will the decision be bound to chips, architectures or capabilities of target platforms?
-  * What shouöd be the scope: Flexibility / Testability? Having a wide scope of targets will make testing and verifying pretty tedious.
+  * What should be the scope: Flexibility / Testability? Having a wide scope of targets will make testing and verifying pretty tedious.
   * In general a tiered model might apply. Having a narrow scope tier one of platforms which will be supported first by the LTS and extended tier 2 and 3 which will get (partial) support over time
 
 * Things we need to put in place:
