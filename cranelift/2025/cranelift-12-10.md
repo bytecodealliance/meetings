@@ -11,6 +11,8 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. `patchable_call` vs. patchability of all calls without returns, and
+       patchable try-calls (cfallin)
     1. _Submit a PR to add your item here_
 
 ## Notes
