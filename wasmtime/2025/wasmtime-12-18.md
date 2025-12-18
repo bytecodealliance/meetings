@@ -18,8 +18,12 @@
 
 ## Attendees
 
-* TODO
+* Nick Fitzgerald
+* Erik Rose
+* Paul Osborne
+* Roman Volosatovs
+* Chris Fallin
 
 ## Notes
 
-* TODO
+* (just issue triage this week)
