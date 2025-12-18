@@ -1,4 +1,4 @@
-# {month} {day} | Wasmtime Project Bi-Weekly
+# July 02 | Wasmtime Project Bi-Weekly
 
 **See the [instructions](../README.md) for details on how to attend**
 
@@ -11,7 +11,7 @@
 1. Other agenda items
    1. _Submit a PR to add your item here_
 1. Issue Triage
-   * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D{prev_year}-{prev_month}-{prev_day})
+   * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2026-06-18)
    * [Old, Backlog Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc)
 
 ## Attendees
