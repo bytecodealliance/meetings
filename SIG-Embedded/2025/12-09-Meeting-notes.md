@@ -6,6 +6,8 @@
 
 **See the [instructions](../README.md) for details on how to attend**
 
+[The YouTube Recording of this meeting is available here.](https://youtube.com/watch?v=0UGi9kC3lpY&feature=youtu.be)
+
 ## Agenda
 
 There was no agenda for this meeting.
@@ -34,12 +36,16 @@ The group talked about LTS and the long discussions around that, which is aiming
 
 Chris highlighted that this was the last meeting of 2025 and that there was a need to update the meeting notes, meeting github pages to reflect this. Rob questioned on logistic of the next meeting. Moving forward into 2026 Chris highlighted how important it would be to improve communication in the E-SIG. Including having ICS files that can be updated to show when meetings are cancelled and better use of the mailing list.
 
+Logistics:
+
+- Google Group - https://groups.google.com/a/bytecodealliance.org/g/sig-embedded?pli=1
+
 
 
 ## Action Items
 
-* [ ] Meeting Notes (Chris)
+- [X] Meeting Notes (Chris)
 - [ ] Zulip Post on Next Meetings (Chris)
 - [ ] Post to E-SIG Git Repo (Chris)
-- [ ] Email to Group with update on Next Meeting (Chris)
+- [X] Email to Group with update on Next Meeting (Chris)
 - [ ] Request update to Calendar in the Bytecode Alliance Web Page (Chris)
