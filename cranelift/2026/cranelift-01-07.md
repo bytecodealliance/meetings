@@ -17,5 +17,24 @@
 
 ### Attendees
 
+* Erik Rose
+* Alex Crichton
+* Ulrich Weigand
+* Nick Fitzgerald
+
 ### Notes
 
+* Erik
+  * trying to understand ISLE
+  * working on the virtual-memory based epoch stuff
+* Alex
+  * no updates
+* Ulrich
+  * no updates
+* Nick
+  * exploring better cost functions for egraph extraction
+  * working on improving sightglass
+    * better ux: now estimates how much longer a benchmark run will take
+    * working on PCA: https://github.com/bytecodealliance/sightglass/issues/98
+* Johnnie
+  * no updates
