@@ -11,6 +11,7 @@
 1. Other agenda items
    1. cfallin: Wasmtime publishing flow, crates permissions, and need for a runbook to manage process complexity
    1. cfallin: compiling very large functions, and implementation limits
+   1. tschneidereit: a gh group for incident managers
    1. _Submit a PR to add your item here_
 1. Issue Triage
    * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2026-01-01)
