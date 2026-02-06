@@ -5,9 +5,9 @@ The Bytecode Alliance "Plumbers Summit" event series is designed to bring our me
 Past events have occurred:
 * September 26 & 27, 2024 (Seattle, WA USA)
 * January 31 and February 1, 2024 (Raleigh, NC USA)
-* September 8, 2023 (Seattle, WA)
+* September 8, 2023 (Seattle, WA USA)
 * February 21 & 22, 2023 (Austin, TX USA)
 
 ## Upcoming Plumbers Summit
 
-The next Plumbers Summit will be held February 25 and 26, 2026. Details and relevant event materials can be found [here](./summit-feb26).
+The next Plumbers Summit will be held February 25 and 26, 2026, organized as an all online event to enable participation from anywhere. Details and relevant event materials can be found [here](./summit-feb26).
