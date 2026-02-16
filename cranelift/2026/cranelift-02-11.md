@@ -17,5 +17,15 @@
 
 ### Attendees
 
+- alexcrichton
+- fitzgen
+- avanhatt
+- cfallin
+
 ### Notes
 
+- Updates
+  - avanhatt: no updates
+  - cfallin: debug stuff on Wasmtime side, no big Cranelift updates
+  - alexcrichton: no updates
+  - fitzgen: no updates
