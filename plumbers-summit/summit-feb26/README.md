@@ -6,14 +6,32 @@ We’d love to have you take part, so please add the event to your calendar. Bec
 
 We’ll share updates here and also provide them via an event stream on the Bytecode Alliance [Zulip server](https://bytecodealliance.zulipchat.com/). 
 
-## Agenda
+# Agenda
+
+## Wednesday, February 25
 
 | Time | Speaker | Topic |
-|------|---------|-------|
+|:----:|---------|-------|
 | 8:00 | Oscar Spencer | Welcome |
 | 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for WebAssembly" (30 minutes + 15 minute Q&A) |
 | 8:45 - 9:15 | Sy Brand | "Co-operative Threads" (15 minutes + 15 minute Q&A) |
-| 9:15 - 9:45 | Alex Crichton | Wasm Tooling Walkthrough |
+| 9:15 - 9:45 | Alex Crichton | "Wasm Tooling Walkthrough" |
 | 9:45 - 10:00 | Break |   |
 | 10:00 - 10:30 | Joel Dice | "Guest Languages" |
 | 10:30 - 11:00 | Victor Adossi & Luke Wagner | "JCO and Browsers" |
+
+## Thursday, February 26
+
+| Time | Speaker | Topic |
+|:----:|---------|-------|
+| 8:00 | Oscar Spencer | Welcome |
+| 8:00 - 8:45 | Nick Fitzgerald | "Compile-time Builtins" (30 minutes + 15 minute Q&A) |
+| 8:45 - 9:15 | Chris Fallin | "Guest Debugging in Wasmtime" |
+| 9:15 - 9:45 | Nick Fitzgerald | "OOM Handling in Wasmtime" (25 minutes + 5 minute Q&A) |
+| 9:45 - 10:00 | Break |     |
+| 10:00 - 10:45 | Lightning Talks | 10 to 15 minutes each
+|    | Yan Chen | "Tool and Library for WIT Component Virtualization" |
+|    | Till Schneidereit | "Writing good specifications for WASI" |
+| 10:45 - 11:00 | Oscar Spencer | Thank you! |
+
+Agenda topics, presenters, and timing may change as the event draws near, so please check back here for updates.
