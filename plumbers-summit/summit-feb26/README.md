@@ -33,7 +33,5 @@ We’ll share updates here and also provide them via an event stream on the Byte
 | 9:45 - 10:00 | Break |     |
 | 10:00 - 10:45 |   | Lightning Talks - 10 to 15 minutes each
 |    | Yan Chen | "Tool and Library for WIT Component Virtualization" |
-|    | Till Schneidereit | "Writing good specifications for WASI" |
-| 10:45 - 11:00 | Oscar Spencer | Thank you! |
-
-Agenda topics, presenters, and timing may change as the event draws near so please check back here for updates.
+|    | Till Schneidereit | "Writing Good Specifications for WASI" |
+| 10:45 - 11:00 | Oscar Spencer | Wrap-up and Thanks |
