@@ -17,5 +17,20 @@
 
 ### Attendees
 
+- fitzgen
+- alexcrichton
+- bjorn3
+- cfallin
+
 ### Notes
 
+- discussion about disabling merge queue to allow monotonic forward progress of
+  CI when flaky
+  - downside is of course no merge queue to protect against semantically bad
+    merges
+
+- Updates
+  - alexcrichton: no updates
+  - bjorn3: no updates
+  - cfallin: updated RA2 and Cranelift to support up to 512M vregs
+  - fitzgen: no updates
