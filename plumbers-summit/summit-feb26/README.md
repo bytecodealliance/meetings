@@ -17,7 +17,7 @@ All times shown are US Pacific Standard Time (UTC-8).
 | Time | Speaker | Topic |
 |:----:|---------|-------|
 | 8:00 | Oscar Spencer | Welcome |
-| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for WebAssembly" (30 minutes + 15 minute Q&A) |
+| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for Component Model" (30 minutes + 15 minute Q&A) |
 | 8:45 - 9:15 | Sy Brand | "Co-operative Threads" (15 minutes + 15 minute Q&A) |
 | 9:15 - 9:45 | Alex Crichton | "Wasm Tooling Walkthrough" |
 | 9:45 - 10:00 | Break |   |
