@@ -6,9 +6,11 @@ Topics will be presented in two three hour sessions from 8am–11am US Pacific T
 
 We’d love to have you take part, so please add the event to your calendar. Because the event is all online there’s no need to register in advance or get an individualized ticket. 
 
-We’ll share updates here and also provide them via an event stream on the Bytecode Alliance [Zulip server](https://bytecodealliance.zulipchat.com/). 
+We’ll share updates here and also provide them via a dedicated [event stream](https://bytecodealliance.zulipchat.com/#narrow/channel/422786-Events/topic/Plumbers.20Summit.20-.20February.202026/with/573593305) on the Bytecode Alliance [Zulip server](https://bytecodealliance.zulipchat.com/). 
 
 # Agenda
+
+All times shown are US Pacific Standard Time (UTC-8). 
 
 ## Wednesday, February 25
 
