@@ -7,6 +7,8 @@
 1. Opening, welcome and roll call
    1. Find volunteer note taker. Thanks!
 1. Announcements
+   1. Should we turn off the merge queue?
+   2. Can we adjust Tier 1 requirements to allow fuzzing or formal verification?
    1. _Submit a PR to add your announcement here_
 1. Other agenda items
    1. _Submit a PR to add your item here_
