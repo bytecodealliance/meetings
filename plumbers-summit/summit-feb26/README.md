@@ -42,4 +42,5 @@ All times shown are US Pacific Standard Time (UTC-8).
 | 10:00 - 10:45 |   | Lightning Talks - 10 to 15 minutes each
 |    | Yan Chen | "Tool and Library for WIT Component Virtualization" |
 |    | Till Schneidereit | "Writing Good Specifications for WASI" |
+|    | Pat Hickey | "Follow-on for Feb 24 Security Disclosures" |
 | 10:45 - 11:00 | Oscar Spencer | Wrap-up and Thanks |
