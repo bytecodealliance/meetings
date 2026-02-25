@@ -1,10 +1,10 @@
 # Bytecode Alliance Plumbers Summit - February 2026
 
-The Bytecode Alliance is happy to announce the next installment in our series of ongoing Plumbers Summits, each designed to bring Alliance members together to collectively contribute to the strategic planning for the upcoming year. Our next event will be held as an all-online remote gathering Wednesday and Thursday, February 25 and 26, 2026. As with past Summits this collaborative work session will focus on identifying key priorities, addressing challenges, and charting a comprehensive roadmap that reflects the diverse expertise and perspectives within our alliance. 
+The Bytecode Alliance is happy to announce the next installment in our series of ongoing Plumbers Summits, each designed to bring Alliance members together to collectively contribute to the strategic planning for the upcoming year. Our next event will be held as an all-online remote gathering Wednesday and Thursday, February 25 and 26, 2026. As with past Summits this collaborative work session will focus on identifying key priorities, addressing challenges, and charting a comprehensive roadmap that reflects the diverse expertise and perspectives within our alliance.
 
 Topics will be presented in two three hour sessions from 8am–11am US Pacific Time on each day. Full remote participation will be possible for anyone, anywhere as all sessions will be streamed live on the Bytecode Alliance [YouTube channel](https://www.youtube.com/@bytecodealliance) and recorded for replay any time after the event. See below for more information on how to join.
 
-We’d love to have you take part, so please add the event to your calendar. Because the event is all online there’s no need to register in advance or get an individualized ticket. 
+We’d love to have you take part, so please add the event to your calendar. Because the event is all online there’s no need to register in advance or get an individualized ticket.
 
 ## How to Join
 
@@ -16,7 +16,7 @@ For interactive chat and real-time information during the Summit we'll use a ded
 
 # Agenda
 
-All times shown are US Pacific Standard Time (UTC-8). 
+All times shown are US Pacific Standard Time (UTC-8).
 
 ## Wednesday, February 25
 
@@ -28,7 +28,7 @@ All times shown are US Pacific Standard Time (UTC-8).
 | 9:15 - 9:45 | Alex Crichton | "Tooling Roadmap Discussion" | [Slides](https://docs.google.com/presentation/d/1wz5uoUo9AgKk-DeRZnUTnyfE4HOTOXduK8TbcISC0qw/edit?slide=id.p#slide=id.p) |
 | 9:45 - 10:00 | Break | | |
 | 10:00 - 10:30 | Joel Dice | "Guest Languages" | [Slides](https://docs.google.com/presentation/d/1bYT6MOHOHdRomY1xvLwld4TEFWNyh9xwnE1zTwhJ0eQ/edit?usp=sharing) |
-| 10:30 - 11:00 | Victor Adossi & Luke Wagner | "JCO and Browsers" | [Slides](https://docs.google.com/presentation/d/1xA7kH9lhiDG-dtvf4kUIx87g_RWTpyoVR7YRSldOcrc/edit?usp=sharing) |
+| 10:30 - 11:00 | Victor Adossi & Luke Wagner | "JCO and Browsers" | [PDF](./slides/jco-and-browsers.pdf) [Slides](https://docs.google.com/presentation/d/1xA7kH9lhiDG-dtvf4kUIx87g_RWTpyoVR7YRSldOcrc/edit?usp=sharing) |
 
 ## Thursday, February 26
 
