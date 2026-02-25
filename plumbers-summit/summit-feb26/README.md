@@ -9,7 +9,7 @@ We’d love to have you take part, so please add the event to your calendar. Bec
 ## How to Join
 
 Each day's session will be lived streamed on YouTube as follows:
-* Day 1 (Wednesday) YouTube stream: [https://www.youtube.com/watch?v=aQchiu6DXUE)(https://www.youtube.com/watch?v=aQchiu6DXUE) **Note** updated link!
+* Day 1 (Wednesday) YouTube stream: [https://www.youtube.com/watch?v=aQchiu6DXUE](https://www.youtube.com/watch?v=aQchiu6DXUE) **Note** updated link!
 * Day 2 (Thursday) YouTube stream: [https://www.youtube.com/watch?v=Z2xWzc28SIc](https://www.youtube.com/watch?v=Z2xWzc28SIc)
 
 For interactive chat and real-time information during the Summit we'll use a dedicated [event topic](https://bytecodealliance.zulipchat.com/#narrow/channel/422786-Events/topic/Plumbers.20Summit.20-.20February.202026/with/574805237) on the Bytecode Alliance [Zulip server](https://bytecodealliance.zulipchat.com/), which is already live to help answer questions and provide updates.
