@@ -9,6 +9,8 @@
 1. Announcements
    1. _Submit a PR to add your announcement here_
 1. Other agenda items
+   1. Should we turn off the merge queue?
+   1. Can we adjust Tier 1 requirements to allow fuzzing or formal verification?
    1. Guest-controlled resource exhaustion debrief (@alexcrichton)
      * also delay any release happening in an embargo window
    1. _Submit a PR to add your item here_
