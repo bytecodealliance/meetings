@@ -20,27 +20,27 @@ All times shown are US Pacific Standard Time (UTC-8).
 
 ## Wednesday, February 25
 
-| Time | Speaker | Topic |
-|:----:|---------|-------|
-| 8:00 | Oscar Spencer | Welcome |
-| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for Component Model" (30 minutes + 15 minute Q&A) |
-| 8:45 - 9:15 | Sy Brand | "Co-operative Threads" (20 minutes + 10 minute Q&A) |
-| 9:15 - 9:45 | Alex Crichton | "Tooling Roadmap Discussion" |
-| 9:45 - 10:00 | Break |   |
-| 10:00 - 10:30 | Joel Dice | "Guest Languages" |
-| 10:30 - 11:00 | Victor Adossi & Luke Wagner | "JCO and Browsers" |
+| Time | Speaker | Topic | Slides |
+|:----:|---------|-------|--------|
+| 8:00 | Oscar Spencer | Welcome | |
+| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for Component Model" (30 minutes + 15 minute Q&A) | |
+| 8:45 - 9:15 | Sy Brand | "Co-operative Threads" (20 minutes + 10 minute Q&A) | |
+| 9:15 - 9:45 | Alex Crichton | "Tooling Roadmap Discussion" | [Slides](https://docs.google.com/presentation/d/1wz5uoUo9AgKk-DeRZnUTnyfE4HOTOXduK8TbcISC0qw/edit?slide=id.p#slide=id.p) |
+| 9:45 - 10:00 | Break | | |
+| 10:00 - 10:30 | Joel Dice | "Guest Languages" | [Slides](https://docs.google.com/presentation/d/1bYT6MOHOHdRomY1xvLwld4TEFWNyh9xwnE1zTwhJ0eQ/edit?usp=sharing) |
+| 10:30 - 11:00 | Victor Adossi & Luke Wagner | "JCO and Browsers" | [Slides](https://docs.google.com/presentation/d/1xA7kH9lhiDG-dtvf4kUIx87g_RWTpyoVR7YRSldOcrc/edit?usp=sharing) |
 
 ## Thursday, February 26
 
-| Time | Speaker | Topic |
-|:----:|---------|-------|
-| 8:00 | Oscar Spencer | Welcome |
-| 8:00 - 8:45 | Nick Fitzgerald | "Compile-time Builtins" (30 minutes + 15 minute Q&A) |
-| 8:45 - 9:15 | Chris Fallin | "Guest Debugging in Wasmtime" |
-| 9:15 - 9:45 | Nick Fitzgerald | "OOM Handling in Wasmtime" (25 minutes + 5 minute Q&A) |
-| 9:45 - 10:00 | Break |     |
-| 10:00 - 10:45 |   | Lightning Talks - 10 to 15 minutes each
-|    | Pat Hickey | "Follow-on for Feb 24 Security Disclosures" |
-|    | Yan Chen | "Tool and Library for WIT Component Virtualization" |
-|    | Till Schneidereit | "Writing Good Specifications for WASI" |
-| 10:45 - 11:00 | Oscar Spencer | Wrap-up and Thanks |
+| Time | Speaker | Topic | Slides |
+|:----:|---------|-------|--------|
+| 8:00 | Oscar Spencer | Welcome | |
+| 8:00 - 8:45 | Nick Fitzgerald | "Compile-time Builtins" (30 minutes + 15 minute Q&A) | |
+| 8:45 - 9:15 | Chris Fallin | "Guest Debugging in Wasmtime" | |
+| 9:15 - 9:45 | Nick Fitzgerald | "OOM Handling in Wasmtime" (25 minutes + 5 minute Q&A) | |
+| 9:45 - 10:00 | Break | | |
+| 10:00 - 10:45 | | Lightning Talks - 10 to 15 minutes each | |
+| | Pat Hickey | "Follow-on for Feb 24 Security Disclosures" | |
+| | Yan Chen | "Tool and Library for WIT Component Virtualization" | |
+| | Till Schneidereit | "Writing Good Specifications for WASI" | |
+| 10:45 - 11:00 | Oscar Spencer | Wrap-up and Thanks | |
