@@ -23,7 +23,7 @@ All times shown are US Pacific Standard Time (UTC-8).
 | Time | Speaker | Topic | Slides |
 |:----:|---------|-------|--------|
 | 8:00 | Oscar Spencer | Welcome | |
-| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for Component Model" (30 minutes + 15 minute Q&A) | |
+| 8:00 - 8:45 | Luke Wagner | "Current Plans and Technical Roadmap for Component Model" (30 minutes + 15 minute Q&A) | [Slides](https://docs.google.com/presentation/d/1s6Te0vckfgRf-1jmF-cgTICGjL_pSSGp8CDj1sunSG0) |
 | 8:45 - 9:15 | Sy Brand | "Co-operative Threads" (20 minutes + 10 minute Q&A) | |
 | 9:15 - 9:45 | Alex Crichton | "Tooling Roadmap Discussion" | [Slides](https://docs.google.com/presentation/d/1wz5uoUo9AgKk-DeRZnUTnyfE4HOTOXduK8TbcISC0qw/edit?slide=id.p#slide=id.p) |
 | 9:45 - 10:00 | Break | | |
