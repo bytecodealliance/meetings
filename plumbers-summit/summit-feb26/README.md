@@ -40,7 +40,7 @@ All times shown are US Pacific Standard Time (UTC-8).
 | 9:15 - 9:45 | Nick Fitzgerald | "OOM Handling in Wasmtime" (25 minutes + 5 minute Q&A) | [Slides](https://docs.google.com/presentation/d/1HsaiLGZ4d_WvKrxYFqSGfQn3jjl3l3Xvu9XG4U5K7z0/edit?slide=id.p#slide=id.p) |
 | 9:45 - 10:00 | Break | | |
 | 10:00 - 10:45 | | Lightning Talks - 10 to 15 minutes each | |
-| | Pat Hickey | "Follow-on for Feb 24 Security Disclosures" | |
+| | Pat Hickey | "Follow-on for Feb 24 Security Disclosures" | [PDF](./slides/FollowOnWasmtimeFeb2026SecurityAdvisory.pdf) |
 | | Yan Chen | "Tool and Library for WIT Component Virtualization" | |
 | | Till Schneidereit | "Writing Good Specifications for WASI" | |
 | 10:45 - 11:00 | Oscar Spencer | Wrap-up and Thanks | |
