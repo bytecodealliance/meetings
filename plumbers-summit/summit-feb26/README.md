@@ -35,7 +35,7 @@ All times shown are US Pacific Standard Time (UTC-8).
 | Time | Speaker | Topic | Slides |
 |:----:|---------|-------|--------|
 | 8:00 | Oscar Spencer | Welcome | |
-| 8:00 - 8:45 | Nick Fitzgerald | "Compile-time Builtins" (30 minutes + 15 minute Q&A) | |
+| 8:00 - 8:45 | Nick Fitzgerald | "Compile-time Builtins" (30 minutes + 15 minute Q&A) | [Slides](https://docs.google.com/presentation/d/1MtIcykgj8zkTlrDfYoNBtVyJxjDXLDbqHo6JmL3TdVQ/edit?slide=id.p#slide=id.p) |
 | 8:45 - 9:15 | Chris Fallin | "Guest Debugging in Wasmtime" | |
 | 9:15 - 9:45 | Nick Fitzgerald | "OOM Handling in Wasmtime" (25 minutes + 5 minute Q&A) | |
 | 9:45 - 10:00 | Break | | |
