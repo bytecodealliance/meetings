@@ -16,14 +16,17 @@
 
 ## Attendees
 
-* TODO
+* Nick Fitzgerald
+* Pat Hickey
+* Chris Fallin
+* Joel Dice
 
 ## Notes
 
-* TODO
+* (nothing on agenda; just did triage)
 
 ## Last Old, Backlog Issue
 
 *This tells us where to begin the backlog triage next time.*
 
-TODO
+Start with #517 next time
