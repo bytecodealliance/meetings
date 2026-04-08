@@ -17,5 +17,28 @@
 
 ### Attendees
 
+- erikrose
+- uweigand
+- bjorn3
+- alexcrichton
+- fitzgen
+- cfallin
+- avanhatt
+
 ### Notes
 
+- Updates
+  - erikrose: quicker epoch interrupts in Wasmtime+Cranelift
+  - uweigand: no major updates; reviewing Jimmy's patches for s390x-z17 support
+  - bjorn3: no updates
+  - alexcrichton: miscellaneous bugfixes
+  - fitzgen: no updates
+  - cfallin: no major updates
+  - avanhatt: no major updates
+
+- Epoch interruption in Wasmtime, and Cranelift supporting features
+  - analysis -- how good are dead loads of (to be unmapped) stack vs. no epochs
+    whatsoever?
+  - efficiency of TLB shootdowns? one shootdown per stack vs. single store to
+    shared memory?
+    - variant that changes a pointer-to-load-from to NULL?
