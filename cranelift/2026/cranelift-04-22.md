@@ -17,5 +17,35 @@
 
 ### Attendees
 
+- erikrose
+- thejimmybrisson
+- alexcrichton
+- bjorn3
+- uweigand
+- cfallin
+- avanhatt
+- jlbirch
+- fitzgen
+
 ### Notes
 
+- Updates
+  - erikrose: no updates
+  - thejimmybrisson:
+    - refactored s390x to take into account types in CLIF terms
+    - ISA flag checks built in to LHS? --> use if-let instead; that idiom
+      predates if-let
+  - alexcrichton: no updates
+  - uweigand:
+    - reviewing Jimmy's patches, look good
+    - reviewer setup to get reviews for s390x
+  - avanhatt: continuing to work on upstreaming verification work; adding specs
+  - bjorn3: no updates
+  - jlbirch: no updates
+  - fitzgen:
+    - thinking about load/store optimizations: we could do a subset of
+      dead-store elimination. We don't do the full thing today because complex
+      -- need to track if postdominated by another store. But a specific case
+      we can handle comes up in component-model adapters where we have two
+      stores with the same data (idempotent stores).
+  - cfallin: no updates
