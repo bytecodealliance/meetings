@@ -17,7 +17,6 @@ Invites are managed by the [Go go-sg@bytecodealliance Google group][google-group
 
 If the above fails, please email:
 
-* Jiaxiao Zhou (jiazho@microsoft.com)
 * Damian Gryski (dgryski@fastly.com)
 
 ## Agendas and Notes
