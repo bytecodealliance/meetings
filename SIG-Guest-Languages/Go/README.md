@@ -4,7 +4,7 @@
 
 ## Subgroup Operations
 
-The Go language subgroup works together online and does not hold regular meetings. Activities and conversations take place less formally through topics on the Bytecode Alliance Zulip server in the [SIG-Guest-Languages channel](https://bytecodealliance.zulipchat.com/#narrow/channel/394175-SIG-Guest-Languages). If you're interested in use of the Go language with WebAssembly please join us there! You're welcome to post questions or propose new topics and join in the general discussion.
+The Go language subgroup works together online and does not hold regular meetings. Activities and conversations take place less formally through topics on the Bytecode Alliance Zulip server in the [SIG-Guest-Languages channel](https://bytecodealliance.zulipchat.com/#narrow/channel/394175-SIG-Guest-Languages). If you're interested in use of the Go language with WebAssembly please join us there! You're welcome to post questions, propose new topics and join in the general discussion.
 
 ## Historical Agendas and Notes
 

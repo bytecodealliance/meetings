@@ -1,6 +1,6 @@
 # SIG Guest Languages Meetings and Activities
 
-The Bytecode Alliance Special Interest Group (SIG) for Guest Languages fosters community engagement for status updates and discussions on how best to integrate Wasm and components into guest programming language ecosystems in a way that feels native to those ecosystems.
+The Bytecode Alliance Special Interest Group (SIG) for Guest Languages fosters community engagement through meetings and online discussions on how best to integrate Wasm and components into guest programming language ecosystems in a way that feels native to those ecosystems.
 
 Anyone interested is welcome to join.
 
