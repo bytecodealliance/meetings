@@ -17,5 +17,34 @@
 
 ### Attendees
 
+- Jacob Denbeaux
+- fitzgen
+- thejimmybrisson
+- jlb6740
+- cfallin
+
 ### Notes
 
+- Jacob: no updates
+- cfallin:
+  - MachBuffer deadline fix: allow islands in middle of blocks, and reason
+    about additional deadline pressure any single instruction can add; allows
+    us not to have to do a big sort across island contents
+  - aegraph fuel fix (prevent blowup when Cartesian product on LHS gets large,
+    independently of individual eclass size limits and rewrite depth limits)
+- thejimmybrisson: no updates
+- jlbirch: Intel folks thinking about APX enablement; digging into plan in more
+  detail
+- fitzgen: landed branch simplification mid-end rewrite rules
+  - initially tried to do things online during egraph build pass, tracking
+    reachability; didn't work with irreducible CFGs
+  - instead, now, quick pass after egraph pass and before elaboration to remove
+    unreachable code
+  - still hoping to do Sightglass PCA and trim down benchmark suite eventually
+  - still working on alias regions, rebasing/fixing branch currently
+
+- Discussion about mid-end opts and fuel
+  - thejimmybrisson: does this affect backend at all?
+  - no: extraction limits backend to single operators per value, not eclasses
+  - discussion about longstanding idea to fuse mid-end and backend by letting
+    backend see eclasses and be an "implicit cost function"
