@@ -16,14 +16,38 @@
 
 ## Attendees
 
-* TODO
+* Chris Fallin
+* Joel Dice
+* Nick Fitzgerald
+* Elizabeth Gilbert
+* Sebastien Guillemot
+* Pat Hickey
+* Ankush
+* Yordis Prieto
 
 ## Notes
 
-* TODO
+- Pat: security release going out today: 24, 36, 44, 45
+  - will do it after this meeting; will need approvers
+    - thumbs up from Chris and Joel
+  - not expecting it affects a lot of people
+- Chris: introducing F5 intern Elizabeth Gilbert
+  - Elizabeth: Working on component instrumentation, e.g. observability layer around composition
+  - Nick: yay!
+  - Victor: maintains wirm (aka orca aka new walrus)
+- Nick: plan to switch to copying WasmGC collector in this release cycle and then enable WasmGC support in Wasmtime by default
+  - Running a subset of WAST tests under Miri
+  - New fuzzer with more GC coverage and makes sure objects remain intact
+  - tests for previous issues
+  - wasm-smith has support for GC
+  - no known issues; fixed recent trace info bug
+  - then can turn on exceptions as well
+- Sebastien: have hired a Wasmtime contributor
+  - Interested in helping with component model, stack switching, pulley, and GC
+  - Doesn't need to be related to what Sebastien's company needs
+  - Nick: yay!  Name?  Sebastien: Thomas.  Organization: Midnight Foundation, generating proofs of execution of components.
+  - Nick: invite to Zulip.  Sebastien: yes, will be more active there.
 
 ## Last Old, Backlog Issue
 
-*This tells us where to begin the backlog triage next time.*
-
-TODO
+1138
