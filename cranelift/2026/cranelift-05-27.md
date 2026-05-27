@@ -57,7 +57,7 @@
   - cfallin: maybe fast smoke-test suite on every PR (one interesting wasi-http
     program in wasmtime) and full suite every night
   - thejimmybrisson: multiple microarchitectures, ISAs?
-  - Jacob: SVD is a useful concept to ebtter understand PCA
+  - Jacob: SVD is a useful concept to better understand PCA
     - While PCA is likely the correct technique, brief review of SVD can show
     why this is possible. A matrix can _always_ be decomposed into three
     matrices representing rotation, scaling, and rotation. This factorization is
