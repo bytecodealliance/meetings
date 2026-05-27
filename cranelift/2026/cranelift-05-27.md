@@ -62,6 +62,6 @@
     why this is possible. A matrix can _always_ be decomposed into three
     matrices representing rotation, scaling, and rotation. This factorization is
     often used as an intermediary to compute the PCA.)
-    - [Visual Guide][https://www.reddit.com/r/learnmachinelearning/comments/s66d63/what_is_singular_value_decomposition_svd_a/]
-    - [Transformation Graphic][https://en.wikipedia.org/wiki/Singular_value_decomposition#/media/File:Singular-Value-Decomposition.svg]
-    - [Writeup on Factors & Relation to PCA][https://www.ibm.com/think/topics/singular-value-decomposition]
+    - [Visual Guide](https://www.reddit.com/r/learnmachinelearning/comments/s66d63/what_is_singular_value_decomposition_svd_a/)
+    - [Transformation Graphic](https://en.wikipedia.org/wiki/Singular_value_decomposition#/media/File:Singular-Value-Decomposition.svg)
+    - [Writeup on Factors & Relation to PCA](https://www.ibm.com/think/topics/singular-value-decomposition)
