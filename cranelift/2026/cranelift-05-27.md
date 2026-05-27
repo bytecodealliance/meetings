@@ -57,8 +57,11 @@
   - cfallin: maybe fast smoke-test suite on every PR (one interesting wasi-http
     program in wasmtime) and full suite every night
   - thejimmybrisson: multiple microarchitectures, ISAs?
-  - Jacob: look at SVD in addition to PCA
-    - SVD is often nicer to compute because PCA requires normalization
-    - works on non-square matrices
-    - singular values are a little different than principal components but
-      comparable
+  - Jacob: SVD is a useful concept to better understand PCA
+    - While PCA is likely the correct technique, brief review of SVD can show
+    why this is possible. A matrix can _always_ be decomposed into three
+    matrices representing rotation, scaling, and rotation. This factorization is
+    often used as an intermediary to compute the PCA.)
+    - [Visual Guide](https://www.reddit.com/r/learnmachinelearning/comments/s66d63/what_is_singular_value_decomposition_svd_a/)
+    - [Transformation Graphic](https://en.wikipedia.org/wiki/Singular_value_decomposition#/media/File:Singular-Value-Decomposition.svg)
+    - [Writeup on Factors & Relation to PCA](https://www.ibm.com/think/topics/singular-value-decomposition)
