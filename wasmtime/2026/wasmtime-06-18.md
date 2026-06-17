@@ -10,6 +10,7 @@
    1. _Submit a PR to add your announcement here_
 1. Other agenda items
    1. [Adjusting release process slightly](https://github.com/bytecodealliance/wasmtime/issues/13622) (@alexcrichton)
+   1. Fibers support and testing for long-tail platforms (@tschneidereit)
    1. _Submit a PR to add your item here_
 1. Issue Triage
    * [New, Untriaged Issues](https://github.com/bytecodealliance/wasmtime/issues?q=is%3Aopen+comments%3A%3C2+created%3A%3E%3D2026-06-04)
