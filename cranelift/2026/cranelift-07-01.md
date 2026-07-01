@@ -17,5 +17,20 @@
 
 ### Attendees
 
+* fitzgen
+* alexcrichton
+* bjorn3
+* Jimmy
+* Jacob Denbeaux
+
 ### Notes
 
+* Updates
+  * Jimmy: none
+  * Alex: catching up on stuff
+  * bjorn3: bug report for CG-clif, root cause in Cranelift, minimized it, and opened an issue
+  * Jacob: none
+  * fitzgen: dead store elimination, kotlin sightglass benchmark, discussion of
+    component-model fused adapters and performance
+  * ulrich: able to reproduce the s390x qemu failures, colleague who is a qemu
+    expert is digging into it, close to a bug fix
