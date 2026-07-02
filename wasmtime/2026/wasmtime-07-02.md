@@ -17,11 +17,37 @@
 
 ## Attendees
 
-* TODO
+* Alex Crichton
+* Bailey Hayes
+* Elizabeth Gilbert
+* Nick Fitzgerald
+* Paul Osborne
+* Roman Volosatovs
+* Till Schneidereit
+* Victor Adossi
 
 ## Notes
 
-* TODO
+### Should we enable GH discussions? [Alex]
+
+* Alex: Wouldn't mind it
+* Till: Decision was eliberate to not enable GH discussions, someone would have to look after it
+  * fizgen: Not necessarily a place to look for me, but agree
+* Alex: What about creating a single discussion then disabling so no on else can do it?
+  * Till: will look into it, I like this idea
+
+### Has Paul's earlier benchmarking work landed in? [Bailey]
+
+* Bailey: About to take up some benchmarking work, has the stuff you've been working on gone in?
+  * Paul: yes, stuff from months ago is up, but not much recent movement
+* Paul: Was working on adding tooling to sightglass for bisection, and Nick is working on PCA stuff for sightglass
+
+### LLM generated issues [Alex]
+
+* Alex: A new contributor has made a lot of new AI-created issues after finding what seem to be bugs, heads up
+  * In good faith, so far, though clearly LLM output
+  * https://github.com/bytecodealliance/wasmtime/issues/13802
+  * https://github.com/sdjasj
 
 ## Last Old, Backlog Issue
 
