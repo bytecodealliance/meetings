@@ -9,11 +9,10 @@
     1. Please help take notes.
     1. Thanks!
 1. Announcements
-    1. fitzgen: [dead-store elimination](https://github.com/bytecodealliance/wasmtime/pull/13806)
-    2. alexcrichton: [maximum stack limit sizes](https://github.com/bytecodealliance/wasmtime/pull/13783)
-    3. cpetig: [arm32 backend](https://github.com/bytecodealliance/wasmtime/pull/13815)
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. alexcrichton: [maximum stack limit sizes](https://github.com/bytecodealliance/wasmtime/pull/13783)
+    1. cpetig: [arm32 backend](https://github.com/bytecodealliance/wasmtime/pull/13815)
     1. _Submit a PR to add your item here_
 
 ## Notes
@@ -21,4 +20,3 @@
 ### Attendees
 
 ### Notes
-
