@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. fitzgen: [dead-store elimination](https://github.com/bytecodealliance/wasmtime/pull/13806)
     1. _Submit a PR to add your item here_
 
 ## Notes
@@ -18,4 +19,3 @@
 ### Attendees
 
 ### Notes
-
