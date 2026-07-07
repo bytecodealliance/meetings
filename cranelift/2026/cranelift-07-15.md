@@ -15,6 +15,8 @@
 
 ## Notes
 
+This meeting was cancelled, no notes to be had.
+
 ### Attendees
 
 ### Notes
