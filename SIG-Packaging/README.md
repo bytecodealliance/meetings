@@ -4,8 +4,8 @@ The Bytecode Alliance hosts weekly meetings for status updates and discussions o
 
 ## Time and location
 
-**When**: Wednesday at 11am PT / 2 PM ET (Weekly Recurring)  
-**Where**: On Zoom https://zoom.us/j/92850080878?pwd=okjIcddaDHXdvUCTa7u19AcJsE3kRr.1
+**When**: Monthly on the third Wednesday at 11am CT / 12 PM ET
+**Where**: On Zoom https://zoom.us/j/98066044717?pwd=kvfF8nUtFwsJg3vxO630typXmAYHRr.1
 
 ## Attending
 
