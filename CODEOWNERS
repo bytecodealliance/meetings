@@ -13,6 +13,7 @@
 /SIG-Guest-Languages/Python @bytecodealliance/python-subgroup-chairs
 
 /SIG-Registries/ @bytecodealliance/sig-registries-chairs
+/SIG-Packaging @bytecodealliance/sig-packaging
 
 /SIG-Community/ @bytecodealliance/sig-community-chairs
 /SIG-Embedded/ @bytecodealliance/sig-embedded-chairs
@@ -24,7 +25,7 @@
 
 /machine-learning/ @abrown
 
-/wamr/ @bytecodealliance/wamr-core 
+/wamr/ @bytecodealliance/wamr-core
 
 /wasmtime/ @bytecodealliance/wasmtime-core
 
