@@ -12,7 +12,6 @@
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
     1. fitzgen: sightglass and PCA presentation
-    1. cfallin: instruction selection/fusion for add-with-overflow + branch
     1. _Submit a PR to add your item here_
 
 ## Notes
