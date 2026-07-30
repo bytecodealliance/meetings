@@ -17,14 +17,14 @@
 
 ## Attendees
 
-* TODO
+* (missed attendees list, sorry)
 
 ## Notes
 
-* TODO
+* fitzgen gave sightglass and PCA presentation
+  * (not much discussion, that already happened in yesterday's cranelift meeting)
+* (triage)
 
 ## Last Old, Backlog Issue
 
-*This tells us where to begin the backlog triage next time.*
-
-TODO
+Next old issue to triage: 617
