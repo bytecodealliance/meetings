@@ -11,10 +11,7 @@ Meeting information is also shared via the Bytecode Alliance public events calen
 view [here](https://calendar.google.com/calendar/embed?src=events%40bytecodealliance.org&ctz=America%2FLos_Angeles),
 and can access directly using [this link](https://calendar.google.com/calendar/ical/events%40bytecodealliance.org/public/basic.ics).
 
-## Attending
-
-To get the passcode to attend, please reach out
-[on Zulip](https://bytecodealliance.zulipchat.com/#narrow/channel/637097-SIG-Component-Model)
+You're welcome to attend by using the Zoom video meeting link above.
 
 ## Agendas and Notes
 
