@@ -16,14 +16,30 @@
 
 ## Attendees
 
-* TODO
+* Chris Fallin
+* Alex Crichton
+* Nick Fitzgerald
+* John VanEnk
+* Adam Brachi-Kaye
+* Erik Rose
+* Victor Adossi
+* Daniel Hillerstrom
 
 ## Notes
 
-* TODO
+* `explore` support for components?
+  * yes please!
+  * `explore` could use a little love in general, but very good tool to have and keep working
+* fyi: security release today
+  * fixing three vulnerabilities
+* LLM slop issues
+  * discussion of `AI_TOOL_POLICY.md`, which as-written is focused more on PRs, and applying it to communication in issues
+  * should we close issues/PRs violating the policy or leave them open?
+    * up to person responding, but feel free to close if it is egregious or otherwise according to your judgement
+    * at the same time, ideally we wouldn't lose track of actual bugs...
 
 ## Last Old, Backlog Issue
 
 *This tells us where to begin the backlog triage next time.*
 
-TODO
+1489
