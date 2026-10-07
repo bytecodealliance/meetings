@@ -58,8 +58,8 @@
       - cfallin: so divergence is kind of a side-effect
       - fitzgen: avoid DSE across any loop?
       - cfallin: this must be why infinite loops are UB in some languages?
-        - bjorn3: LLVM has explicit attribute for loops that will infinitely
-          loop in a defined way (diverge)
+        - bjorn3: LLVM has explicit attribute for loops that will not
+          infinitely loop (not diverge)
       - fitzgen: maybe eventually a barrier to make loops observable; for now,
         no DSE across loops
   - cfallin: no updates
