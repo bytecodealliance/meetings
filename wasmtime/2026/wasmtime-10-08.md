@@ -16,14 +16,22 @@
 
 ## Attendees
 
-* TODO
+* Nick Fitzgerald
+* Alex Crichton
+* Till Schneidereit
+* Pat Hickey
+* Victor Adossi
+* Joel Dice
+* John VanEnk
+* Erik Rose
+* Possibly some others (I forgot to write this down while the meeting happened; feel free to add yourself in a PR if you were here)
 
 ## Notes
 
-* TODO
+* (just issue triage)
 
 ## Last Old, Backlog Issue
 
 *This tells us where to begin the backlog triage next time.*
 
-TODO
+start at 1549 next time
