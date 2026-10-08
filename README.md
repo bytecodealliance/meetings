@@ -18,6 +18,7 @@ You can find the joining info for future meetings and notes for past meetings of
 
 ## Special Interest Groups
 
+* [SIG-Component-Model](./SIG-Component-Model) (weekly)
 * [SIG-Debugging](./SIG-Debugging) (bi-weekly)
 * [SIG-Documentation](./SIG-Documentation) (weekly)
 * [SIG-Guest-Languages](./SIG-Guest-Languages)
