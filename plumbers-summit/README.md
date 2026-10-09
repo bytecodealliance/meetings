@@ -3,6 +3,7 @@
 The Bytecode Alliance "Plumbers Summit" event series is designed to bring our members and community contributors together to help set strategic direction and plan efforts for the coming year (or so). Plumbers Summits are organized and hosted by the Alliance Technical Steering Committee, generally timed to occur at important points in the ongoing development of WebAssembly and Alliance projects.
 
 Past events have occurred:
+* [February 25 & 26, 2026](./summit-feb26) (On-line virtual event)
 * September 26 & 27, 2024 (Seattle, WA USA)
 * January 31 and February 1, 2024 (Raleigh, NC USA)
 * September 8, 2023 (Seattle, WA USA)
@@ -10,4 +11,4 @@ Past events have occurred:
 
 ## Upcoming Plumbers Summit
 
-The next Plumbers Summit will be held February 25 and 26, 2026, organized as an all online event to enable participation from anywhere. Details and relevant event materials can be found [here](./summit-feb26).
+The next Plumbers Summit will be held October 28, 2026, organized as an all online event to enable participation from anywhere. Details and relevant event materials can be found [here](./summit-oct26).
