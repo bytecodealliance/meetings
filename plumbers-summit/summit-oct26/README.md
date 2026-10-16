@@ -27,6 +27,6 @@ All times shown are US Pacific Daylight Time (UTC-7).
 | 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | |
 | 10:20-10:30 | Quick break | | |
 | 10:30 - 11:15 | Till & Oscar | “Collaborating in the Age of AI” | |
-| 11:15 - 12:00 | Lunch and hallway conversations (with Zoom breakout rooms) | |
+| 11:15 - 12:00 | Lunch | With hallway conversations (in Zoom breakout rooms) | |
 | 12:00 - 1:00 | Games | | |
 | 1:00 | Oscar Spencer | Wrap-up and Thanks | |
