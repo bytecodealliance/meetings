@@ -14,4 +14,19 @@ For interactive chat and real-time information during the Summit we'll use a ded
 
 # Agenda
 
-Agenda topics and details will be provided here when they become available (soon!).
+All times shown are US Pacific Daylight Time (UTC-7).
+
+| Time | Speaker | Topic | Slides |
+|:----:|---------|-------|--------|
+| 8:00 | Oscar Spencer | Welcome | |
+| 8:00 - 8:45 | Luke Wagner | “Component Model Update” | |
+| 8:45 - 8:50 | Break | | |
+| 8:50 - 9:20 | Chris Fallin | “Debugging” | |
+| 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | |
+| 9:40 - 10:00 | Joel Dice | “Guest Languages Update” | |
+| 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | |
+| 10:20-10:30 | Break | | |
+| 10:30 - 11:15 | Till Schneidereit & Oscar Spencer | “Collaborating in the Age of AI” | |
+| 11:15 - 12:00 | Lunch | With hallway conversations (in Zoom breakout rooms) | |
+| 12:00 - 1:00 | Games | | |
+| 1:00 | Oscar Spencer | Wrap-up and Thanks | |
