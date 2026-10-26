@@ -11,6 +11,7 @@
 1. Announcements
     1. _Submit a PR to add your announcement here_
 1. Other agenda items
+    1. fitzgen: Removing instructions from the side-effectful skeleton as we prove them pure during rewrites? (Context: https://github.com/bytecodealliance/wasmtime/pull/14879)
     1. _Submit a PR to add your item here_
 
 ## Notes
