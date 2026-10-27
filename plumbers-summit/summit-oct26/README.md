@@ -8,7 +8,9 @@ We’d love to have you take part, so please add the event to your calendar. Bec
 
 ## How to Join
 
-Each day's session will be lived streamed on YouTube.  Links will be provided here when they become available closer to the date of the event.
+You are welcome to join the event live and take part through our hosted [Zoom meeting](https://zoom.us/j/98056536242?pwd=CwHa9xO0QHQ7CxObMJgUlA6pDhvIHZ.1).
+
+The event will also be lived streamed on [YouTube](https://www.youtube.com/watch?v=HBq9DgmCfPk) if you'd prefer to join us there.
 
 For interactive chat and real-time information during the Summit we'll use a dedicated [event topic](https://bytecodealliance.zulipchat.com/#narrow/channel/422786-Events/topic/Plumbers.20Summit.20-.20October.202026/with/630525110) on the Bytecode Alliance [Zulip server](https://bytecodealliance.zulipchat.com/), which is already live to help answer questions and provide updates.
 
