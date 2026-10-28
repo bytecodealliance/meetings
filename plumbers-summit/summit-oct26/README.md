@@ -24,7 +24,7 @@ All times shown are US Pacific Daylight Time (UTC-7).
 | 8:00 - 8:45 | Luke Wagner | “Component Model Update” | [Slides](https://docs.google.com/presentation/d/1IfS9cWJS7t4lq__j9EPOEffim0mwDN3gtY7fl7gwB-8) |
 | 8:45 - 8:50 | Break | | |
 | 8:50 - 9:20 | Chris Fallin | “Debugging” | |
-| 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | |
+| 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | [Slides](https://docs.google.com/presentation/d/1CSqoS0IIDIOfB3rI43OZK8QLeum4q6Ja4trkRITxHw0/edit?usp=sharing) |
 | 9:40 - 10:00 | Joel Dice | “Guest Languages Update” | |
 | 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | |
 | 10:20-10:30 | Break | | |
