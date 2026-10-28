@@ -21,7 +21,7 @@ All times shown are US Pacific Daylight Time (UTC-7).
 | Time | Speaker | Topic | Slides |
 |:----:|---------|-------|--------|
 | 8:00 | Oscar Spencer | Welcome | |
-| 8:00 - 8:45 | Luke Wagner | “Component Model Update” | |
+| 8:00 - 8:45 | Luke Wagner | “Component Model Update” | [Slides](https://docs.google.com/presentation/d/1IfS9cWJS7t4lq__j9EPOEffim0mwDN3gtY7fl7gwB-8) |
 | 8:45 - 8:50 | Break | | |
 | 8:50 - 9:20 | Chris Fallin | “Debugging” | |
 | 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | |
