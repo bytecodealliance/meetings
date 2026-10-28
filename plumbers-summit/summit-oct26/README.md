@@ -23,7 +23,7 @@ All times shown are US Pacific Daylight Time (UTC-7).
 | 8:00 | Oscar Spencer | Welcome | |
 | 8:00 - 8:45 | Luke Wagner | “Component Model Update” | [Slides](https://docs.google.com/presentation/d/1IfS9cWJS7t4lq__j9EPOEffim0mwDN3gtY7fl7gwB-8) |
 | 8:45 - 8:50 | Break | | |
-| 8:50 - 9:20 | Chris Fallin | “Debugging” | [Slides](https://docs.google.com/presentation/d/11sfb73xiwECSKXZIP-_VFOa3JbbLZ_ImrHCmQb5-bsE) |
+| 8:50 - 9:20 | Chris Fallin | “Debugging” | [Slides](https://docs.google.com/presentation/d/11sfb73xiwECSKXZIP-_VFOa3JbbLZ_ImrHCmQb5-bsE), demo branches: [wasmtime](https://github.com/cfallin/wasmtime/tree/integrated-debugger), [dapper](https://github.com/cfallin/dapper), JS: [waffle](https://github.com/cfallin/waffle/tree/debug-info-layout), [nightmonkey](https://github.com/cfallin/nightmonkey/tree/debug-info), [wasmtime](https://github.com/cfallin/wasmtime/tree/nightmonkey-js-debugging), [dapper](https://github.com/cfallin/dapper/tree/nightmonkey-js-debugging) |
 | 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | [Slides](https://docs.google.com/presentation/d/1CSqoS0IIDIOfB3rI43OZK8QLeum4q6Ja4trkRITxHw0/edit?usp=sharing) |
 | 9:40 - 10:00 | Joel Dice | “Guest Languages Update” | [Slides](https://docs.google.com/presentation/d/1JKTgZVq0cuhgHYyzT-GjnEYkWtVd0zJr4JDU4o6vqPo/edit?usp=sharing) |
 | 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | |
