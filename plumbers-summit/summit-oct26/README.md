@@ -26,7 +26,7 @@ All times shown are US Pacific Daylight Time (UTC-7).
 | 8:50 - 9:20 | Chris Fallin | “Debugging” | [Slides](https://docs.google.com/presentation/d/11sfb73xiwECSKXZIP-_VFOa3JbbLZ_ImrHCmQb5-bsE), demo branches: [wasmtime](https://github.com/cfallin/wasmtime/tree/integrated-debugger), [dapper](https://github.com/cfallin/dapper), JS: [waffle](https://github.com/cfallin/waffle/tree/debug-info-layout), [nightmonkey](https://github.com/cfallin/nightmonkey/tree/debug-info), [wasmtime](https://github.com/cfallin/wasmtime/tree/nightmonkey-js-debugging), [dapper](https://github.com/cfallin/dapper/tree/nightmonkey-js-debugging) |
 | 9:20 - 9:40 | Alex Crichton | “Toolchains and Cooperative Threads” | [Slides](https://docs.google.com/presentation/d/1CSqoS0IIDIOfB3rI43OZK8QLeum4q6Ja4trkRITxHw0/edit?usp=sharing) |
 | 9:40 - 10:00 | Joel Dice | “Guest Languages Update” | [Slides](https://docs.google.com/presentation/d/1JKTgZVq0cuhgHYyzT-GjnEYkWtVd0zJr4JDU4o6vqPo/edit?usp=sharing) |
-| 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | |
+| 10:00 - 10:20 | Till Schneidereit | “StarlingMonkey Next” | [Slides](https://docs.google.com/presentation/d/1KqJBV81uJlX6dlcTCdTwbimnPe2W21pJXG4V40LKuFQ/edit?slide=id.p20#slide=id.p20) |
 | 10:20-10:30 | Break | | |
 | 10:30 - 11:15 | Till Schneidereit & Oscar Spencer | “Collaborating in the Age of AI” | |
 | 11:15 - 12:00 | Lunch | With hallway conversations (in Zoom breakout rooms) | |
