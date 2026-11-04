@@ -18,5 +18,41 @@
 
 ### Attendees
 
+- theotherjimmy
+- bjorn3
+- alexcrichton
+- fitzgen
+- cfallin
+- erikrose
+- Amanieu
+- adamrk
+- uweigand
+
 ### Notes
 
+- fitzgen: side-effectful skeleton: optimizing tests for when quotient is zero
+  - requires removing the div/rem op from the skeleton
+  - cfallin: existing functionality to remove insts (e.g. loads/stores) not enough?
+  - fitzgen: a little weird, want to avoid rooting things, rewrite after, ...
+  - https://github.com/bytecodealliance/wasmtime/pull/14879
+
+- Updates
+  - theotherjimmy: working on PIC in s390x
+  - erikrose: keeping eye on inlining fix for `interrupt_poll`
+  - alexcrichton: no updates
+  - bjorn3: no updates
+  - Amanieu:
+    - noticed that BlockOrder in CL is suboptimal
+    - have WIP patch to address
+  - adamrk: no updates
+  - uweigand: been reviewing s390x patches from Jimmy
+    - while reviewing, had a few Qs:
+      - PLTs? used in Wasmtime? what does near/far mean?
+        - near is same-module, expectation is a direct call
+        - in Wasmtime, should not use any PLTs; we morally do our own version
+          with indirect calls between modules
+      - TLS: need reloc pointing to GOT
+        - reloc in .text currently
+        - effort to push constant pools to .rodata will fix this
+  - fitzgen: no updates
+  - cfallin: no updates
