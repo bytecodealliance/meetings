@@ -17,5 +17,15 @@
 
 ### Attendees
 
+* Nick Fitzgerald
+* Adam Bratchi-Kaye
+* bjorn3
+* Jacob Denbeaux
+
 ### Notes
 
+* Updates
+  * Adam: none
+  * bjorn3: adding TLS to cranelift-jit, found a bug around GOT relocs
+  * Jacob: none
+  * Nick: none
