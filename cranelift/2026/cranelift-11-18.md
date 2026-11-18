@@ -17,5 +17,30 @@
 
 ### Attendees
 
+- adamrk
+- alexcrichton
+- fitzgen
+- cfallin
+- bjorn3
+
 ### Notes
 
+Updates
+
+- adamrk: no updates
+- alexcrichton: no updates
+- fitzgen:
+  - looking in to speeding up compile-time builtins (Wasmtime); lots of things
+    that in combination could unlock nice improvements but any individual opt
+    by itself won't. Trying to untangle now.
+    - tail-dup, loop unswitching, ...
+  - sending PRs to RA2 to improve a few things noticed while looking at
+    compile-time builtins
+    - handling cold blocks better re: splits
+- cfallin:
+  - triage of a bunch of issues about quadratic behavior; many N/A because
+    fundamentally we're an optimizing compiler but a few PRs from contributor
+    to improve things where we can
+- bjorn3: no updates
+  - question: depending on wasmtime jit debug crate in cranelift-jit? yes,
+    should be ok
